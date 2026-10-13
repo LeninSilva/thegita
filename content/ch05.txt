@@ -1,7 +1,162 @@
-summary: The verses of this chapter are complete; its study apparatus is being added.
+summary: Arjuna asks which is better, renouncing action or the yoga of action. Kṛṣṇa answers that both lead to the goal but the yoga of action is better, and that the two are really one. He describes the inner renunciant who acts while knowing that the senses alone move, the equal vision that sees the same in a brāhmaṇa and an outcaste, and the nirvāṇa of brahman.
 
-# section 1-29 | The chapter
+@overview
+Chapter 5 resolves the tension between renunciation (*saṁnyāsa*) and action (*karma-yoga*) that has run through Chapters 2–4. Arjuna, still confused, asks for a single verdict {5.1}. Kṛṣṇa gives one: the yoga of action is better {5.2}. Then he immediately dissolves the dichotomy: "Children, not the wise, speak of Sāṅkhya and yoga as different" {5.4}.
+The key idea is *inner renunciation*. The true renunciant is not one who gives up deeds but one "who neither hates nor desires" {5.3}. Such a person sees, hears, eats, walks and breathes, all the while knowing "I do nothing at all" {5.8–9}. Like a lotus leaf in water, they act and are not stained {5.10}.
+The chapter's second half turns to vision and peace. The knower sees "the same" in a learned brāhmaṇa, a cow, an elephant, a dog and an outcaste {5.18}. Their happiness is within {5.24}. They reach *brahma-nirvāṇa*, the "blowing-out in brahman" {5.24–26}. A short passage on meditation {5.27–28} anticipates Chapter 6. The final verse introduces God as "friend of all beings" {5.29}.
+
+@map
+node q | 0 | Renunciation or action? | kind=center | ref=5.1 | text=Arjuna asks for a decisive answer.
+node both | 1 | Both lead to the goal; action is better | ref=5.2 | term=karma-yoga | text=A verdict, given at once.
+node one | 1 | Sāṅkhya and yoga are one | ref=5.4, 5.5 | term=Sāṅkhya | text=Only the immature see them as different.
+node inner | 2 | The true renunciant neither hates nor desires | kind=claim | ref=5.3 | term=saṁnyāsa | text=Renunciation is inner, not outward.
+node lotus | 3 | Acting like a lotus leaf | ref=5.10 | text=Placing actions in brahman, one is not stained.
+node senses | 3 | "I do nothing at all" | ref=5.8, 5.9 | text=The senses move among sense-objects; the self is not the doer.
+node same | 4 | Seeing the same in all | ref=5.18, 5.19 | term=samatva | text=Brāhmaṇa, cow, elephant, dog and outcaste.
+node within | 4 | Happiness within | ref=5.21, 5.24 | detail=1 | text=Pleasures of contact are wombs of sorrow; the inner joy is imperishable.
+node nirvana | 5 | The nirvāṇa of brahman | kind=center | ref=5.24, 5.26 | term=brahma-nirvāṇa | text=Peace for the self-controlled who delight in the welfare of all.
+node friend | 5 | God, friend of all beings | ref=5.29 | term=Īśvara | text=Knowing God as the enjoyer of sacrifice brings peace.
+edge q > both
+edge q > one
+edge both > inner
+edge one > inner
+edge inner > senses
+edge inner > lotus
+edge senses > same
+edge lotus > same
+edge same > within | dashed
+edge same > nirvana
+edge nirvana > friend
+
+@research
+Chapter 5 is central to scholarly discussion of the Gītā's relation to Buddhism. The repeated *brahma-nirvāṇa* {5.24–26} and the emphasis on the extinction of desire and anger have led scholars (e.g., Kashi Nath Upadhyaya, *Early Buddhism and the Bhagavadgītā*, 1971) to see deliberate engagement with Buddhist ideals: the Gītā accepts the Buddhist goal of extinguished craving but grounds it in brahman. The precise relationship is debated, and chronology is uncertain.
+Verse 5.18's "equal vision" is a focal point for discussions of caste. Some argue it proves the Gītā transcends caste at the level of realization. Others note that "seeing the same" in a dog and an outcaste keeps the hierarchy as the thing to be seen past. Ethicists have connected 5.25's "delighting in the welfare of all beings" (*sarva-bhūta-hite ratāḥ*) to Buddhist and Jain ideals of universal compassion, and to the modern Gandhian notion of *sarvodaya*, the welfare of all.
+
+@questions
+- Does 5.4–5 resolve the tension between renunciation and action, or merely restate it?
+- Can one sincerely say "I do nothing at all" (5.8) while eating and walking? What would make it true?
+- How should we read 5.18 in relation to caste? Is equal vision enough for social equality?
+- What is the relation between "nirvāṇa of brahman" and Buddhist nirvāṇa?
+
+# section 1-6 | Renunciation and the yoga of action are one
+lead: Asked to choose, Kṛṣṇa declares the yoga of action better, then shows that the two paths are one.
+@notes
+5.1 | Arjuna's question repeats 3.1–2: he still hears the teaching as two competing options.
+5.2 | *Niḥśreyasa-karāv ubhau*: "both lead to the highest good." But *karma-yogo viśiṣyate*, "the yoga of action is better."
+5.3 | *Nitya-saṁnyāsī*, "constant renunciant": defined not by status but by the absence of hatred and desire.
+5.4 | *Bālāḥ*, "children": a sharp word for those who oppose Sāṅkhya and yoga.
+5.5 | *Yaḥ paśyati sa paśyati*: "one who sees [this] truly sees." The formula recurs at 13.27 and 13.29.
+5.6 | Renunciation "is hard to attain without yoga." Śaṅkara reads it as: formal renunciation (*saṁnyāsa*) is reached through the purifying discipline of karma-yoga.
 @reconstruction
-Study materials for this section are in preparation.
+Arjuna asks which is better, renunciation or yoga {5.1}. Both lead to the highest good, but the yoga of action is better {5.2}. The real renunciant is the one who neither hates nor desires, and such a person is easily freed {5.3}. Only the immature think the paths differ: being established in one yields the fruit of both {5.4}. The goal of Sāṅkhya and of yoga is the same {5.5}. In fact renunciation is hard to attain without yoga, while one who practices yoga soon reaches brahman {5.6}.
+@insight
+The section's logic is reconciliation through redefinition. Renunciation is redefined as an inner state (freedom from hatred and desire), and yoga as action from that state. Once so defined, they converge. The verdict "action is better" {5.2} is not a rejection of renunciation but a claim about the better *means* to the same end.
+Śaṅkara, who championed formal monastic renunciation, could not accept that action is simply better. He reads 5.2 as relative: for the unenlightened, action is better than premature renunciation. This interpretive tension is a sign of how much the Gītā's stance threatened monastic exclusivism.
+@sources
+The rivalry of Sāṅkhya (knowledge) and yoga (practice) as paths appears throughout the *Mokṣadharma* (e.g., *Mahābhārata* 12.304, "there is no knowledge like Sāṅkhya, no power like yoga"). The Gītā's synthesis adopts the epic's own language.
+@context
+The idea that monastic and lay paths converge has analogues in Mahāyāna Buddhism, where the layman Vimalakīrti outshines monks in the *Vimalakīrti Sūtra*, and in Protestant critiques of monasticism (Luther's sanctification of ordinary vocation). Max Weber's "inner-worldly asceticism" names a similar ideal.
+@matters
+Many people feel that spiritual seriousness requires leaving ordinary life. The Gītā argues the opposite: the decisive renunciation is inward and available anywhere.
+@questions
+- Is the verdict of 5.2 consistent with 5.4–5?
+- Who is a "constant renunciant" (5.3) in ordinary life?
+- Why would Śaṅkara resist the plain sense of 5.2?
 @argument
-C | Study materials in preparation
+P | Both paths lead to the highest good | ref=5.2 | text=Renunciation and action are both valid.
+P | The true renunciant neither hates nor desires | ref=5.3 | term=saṁnyāsa | text=Renunciation is an inner state.
+C | Sāṅkhya and yoga are one | ref=5.4, 5.5 | term=Sāṅkhya | text=Only the immature think them different.
+I | Yoga is the easier road to the same goal | ref=5.6 | term=karma-yoga | text=Renunciation is hard to reach without yoga.
+
+# section 7-12 | The inner renunciant: acting without doing
+lead: The yoked knower acts with body and senses while knowing that the self does nothing, and like a lotus leaf is not stained.
+@notes
+5.7 | *Sarva-bhūtātma-bhūtātmā*: "whose self has become the self of all beings." An extraordinary compound describing the expanded identity of the realized person.
+5.8 | The long list of activities (seeing, hearing, touching, smelling, eating, walking, sleeping, breathing) emphasizes that the knower remains fully embodied.
+5.9 | *Indriyāṇīndriyārtheṣu vartante*: "the senses move among the objects of the senses," a variant of 3.28's "guṇas among guṇas."
+5.10 | *Padma-patram ivāmbhasā*: the lotus leaf, which sheds water, is one of the most enduring images of Indian spirituality.
+5.11 | *Ātma-śuddhaye*, "for self-purification": the purpose of the yogin's action is not results but inner purification.
+5.12 | The contrast of yukta and ayukta: the yoked find peace, the unyoked are bound "driven by desire."
+@reconstruction
+One yoked in yoga is pure and self-mastered. His self has become the self of all beings, and so he is not tainted by action {5.7}. While seeing, hearing, eating and breathing, he knows that "I do nothing at all," since only the senses are moving among their objects {5.8–9}. Placing actions in brahman without attachment, he is not stained, like a lotus leaf in water {5.10}. Yogins act with body, mind, understanding and senses for self-purification {5.11}. The yoked, abandoning fruit, find peace; the unyoked are bound by desire {5.12}.
+@insight
+The section describes a double awareness. The yogin acts fully in the world, yet his identification is elsewhere: either with the non-acting self (the Sāṅkhya reading) or with the self of all beings (5.7). The second idea is ethically significant. Freedom from the narrow ego is not withdrawal into isolation but expansion into identification with all.
+The lotus leaf captures the paradox. The leaf is entirely in the water, yet water does not cling to it. The image has been used in debates over whether such detachment is admirable serenity or emotional distance. The Gītā's answer would point to 5.7 and 5.25. The non-attached person delights in the welfare of all beings, so detachment is from ego, not from care.
+@sources
+The lotus image appears in the *Chāndogya Upaniṣad* 4.14.3 ("as water does not cling to a lotus leaf, so evil action does not cling to one who knows this") and in Buddhist texts (*Sutta Nipāta* 812; *Dhammapada* 401).
+@context
+The ideal of being "in the world but not of it" (John 17:14–16) is a familiar Christian parallel. Neo-Stoic and mindfulness-based ideas of "de-centering" (observing one's thoughts and sensations without identifying with them) offer modern psychological analogues.
+@matters
+The section offers a way to remain fully engaged in ordinary activity while being less captured by it, a practical ideal for anyone in demanding work.
+@questions
+- What does it mean for one's self to "become the self of all beings" (5.7)? How would such a person act?
+- Is the lotus leaf an image of serenity or of detachment from others? Defend your view from the text.
+- How does "the senses move among the objects of the senses" (5.9) relate to 3.28?
+@argument
+P | The senses act among their objects | ref=5.9 | term=indriya | text=The self is the witness, not the agent.
+P | The knower's self has become the self of all | ref=5.7 | text=Identification widens beyond the ego.
+C | The knower acts but "does nothing at all" | ref=5.8, 5.10 | text=Like a lotus leaf, he is in the water but not wet.
+I | The yoked find peace; the unyoked are bound | ref=5.12 | term=yukta | text=Attachment to fruit, not action, is the bond.
+
+# section 13-21 | The city of nine gates and the equal vision
+lead: The embodied self dwells in the body without acting; knowledge dispels ignorance, and the wise see the same in all beings.
+@notes
+5.13 | *Nava-dvāre pure*, "in the city of nine gates": the body, with its nine openings. The image comes from the *Kaṭha* (5.1) and *Śvetāśvatara* (3.18) Upaniṣads.
+5.14 | *Svabhāvas tu pravartate*: "it is inherent nature that proceeds." God does not create agency or its fruits; nature does.
+5.15 | God "does not take on anyone's evil or good deed." This raises the problem of theodicy: is God indifferent to human action?
+5.16 | Knowledge "like the sun illuminates the supreme." It is a recurring image (cf. 13.33).
+5.18 | *Śuni caiva śvapāke ca*: "in a dog and in a dog-cooker (outcaste)." See the chapter's research note on caste.
+5.19 | *Nirdoṣaṁ hi samaṁ brahma*: "brahman is flawless and the same." The sameness of vision mirrors the sameness of reality.
+5.21 | *Akṣaya sukha*, "imperishable happiness": a positive goal, not merely the absence of suffering.
+@reconstruction
+The self sits at ease in the body, the city of nine gates, neither acting nor making others act {5.13}. God does not create agency or its fruits; nature does that {5.14}. He takes on no one's good or evil, and beings are deluded because ignorance covers knowledge {5.15}. When knowledge destroys ignorance, it reveals the supreme like the sun {5.16}. Those fixed on that go beyond rebirth {5.17}. The wise see the same in a learned brāhmaṇa, a cow, an elephant, a dog and an outcaste {5.18}. Those established in sameness have overcome creation, since brahman is the same in all {5.19}. Unmoved by the pleasant and unpleasant {5.20}, and unattached to external contacts, they find imperishable happiness within {5.21}.
+@insight
+Two ideas meet here. The first is metaphysical. God and the self are not the authors of nature's actions or their fruits {5.14–15}. This raises the question of divine responsibility. If God takes on no one's deeds, is God indifferent? Later chapters qualify this. God is "friend of all beings" {5.29}, and devotion brings grace (Chapters 9, 12, 18). The second is ethical. Knowledge produces "equal vision" (*sama-darśana*). Because brahman is the same in all, the knower sees past distinctions of class, species and status {5.18–19}.
+The equal vision is a powerful ethical resource, perhaps the Gītā's strongest basis for universal moral regard. Yet its strength is metaphysical rather than social. It changes how the knower sees but does not, by itself, change institutions. Modern reformers have tried to draw social conclusions from it. Critics note that the text itself does not.
+@sources
+"The city of nine gates" occurs in *Kaṭha* 5.1 (eleven gates) and *Śvetāśvatara* 3.18 (nine). The equal vision recalls *Īśā* 6–7: "who sees all beings in the self and the self in all beings… what delusion, what sorrow for one who sees oneness?"
+@context
+Universal moral regard grounded in a shared essence appears in Stoic cosmopolitanism (all humans share the logos), in the Christian *imago Dei*, and in Kantian dignity. The Gītā's version includes animals, which brings it close to Jain and Buddhist ethics of all living beings and to contemporary animal ethics.
+@matters
+The equal vision challenges every hierarchy we take for granted. It invites us to ask what changes if we really see "the same" in those we rank below us.
+@questions
+- If God "takes on no one's good or evil" (5.15), in what sense is God good?
+- Does 5.18 support social equality, or only a spiritual equality compatible with hierarchy?
+- How does the inclusion of animals in 5.18 shape the ethics of equal vision?
+@argument
+P | Nature, not God or self, produces action and fruit | ref=5.14, 5.15 | term=svabhāva | text=Agency belongs to nature.
+P | Brahman is flawless and the same in all | ref=5.19 | term=brahman | text=Reality itself is undivided.
+C | The wise see the same in all beings | ref=5.18 | term=samatva | text=Brāhmaṇa, cow, elephant, dog and outcaste.
+I | The equal-minded overcome rebirth here and now | ref=5.19 | text=Sameness of vision is liberation.
+I | Their happiness is inner and imperishable | ref=5.21 | text=Freed from dependence on external contacts.
+
+# section 22-29 | Inner joy, meditation, and the nirvāṇa of brahman
+lead: Pleasures born of contact end in sorrow; the yogin whose joy and light are within reaches the nirvāṇa of brahman and knows God as friend of all.
+@notes
+5.22 | *Saṁsparśa-jā bhogāḥ*, "enjoyments born of contact," are *duḥkha-yonayaḥ*, "wombs of sorrow." They are temporary by nature.
+5.23 | The test of a yogin: withstanding the agitation of desire and anger "here, before release from the body."
+5.24 | *Antaḥ-sukha, antar-ārāma, antar-jyotis*: happiness, delight and light all "within." *Brahma-bhūta*, "having become brahman."
+5.25 | *Sarva-bhūta-hite ratāḥ*: "delighting in the welfare of all beings." A key phrase for those who see the Gītā's liberation as compassionate rather than isolating. It recurs in 12.4.
+5.27 | A compressed meditation instruction: shut out externals, fix the gaze between the eyebrows, balance the breath. It anticipates Chapter 6.
+5.29 | *Suhṛdaṁ sarva-bhūtānām*, "friend of all beings": the chapter ends on God's universal benevolence.
+@reconstruction
+Pleasures born of contact begin and end, and so breed sorrow. The wise do not delight in them {5.22}. One who can endure the surge of desire and anger in this life is a yogin and happy {5.23}. One whose joy, delight and light are within becomes brahman and reaches its nirvāṇa {5.24}. So do seers whose faults are gone, whose doubts are cut, who are self-controlled and delight in the good of all beings {5.25}. For ascetics free of desire and anger, that nirvāṇa is near {5.26}. Withdrawing from externals, gazing between the brows and balancing the breath, the sage intent on release is free {5.27–28}. Knowing God as enjoyer of sacrifices, lord of worlds and friend of all beings, one reaches peace {5.29}.
+@insight
+The section joins three things often separated: inner bliss, ethical concern for others, and devotion to God. The liberated person is not only inwardly content {5.24} but also "delights in the welfare of all beings" {5.25}, and the culmination is knowledge of God as "friend of all" {5.29}. This triad anticipates the Gītā's whole development. Liberation is joyful, compassionate and theistic.
+The argument against sensual pleasure {5.22} is not moralistic. It is an observation about structure. Pleasures that depend on contact must end, so attachment to them guarantees loss. The alternative is a happiness with an inner source, which therefore cannot be lost.
+@sources
+*Brahma-nirvāṇa* appears in 2.72 and here repeatedly. "Delight in the welfare of all beings" has close parallels in Buddhist texts (e.g., the *Metta Sutta*: "may all beings be happy"). The meditation instruction anticipates the *Yoga-sūtra*'s *pratyāhāra* (withdrawal) and *prāṇāyāma* (breath control).
+@context
+Epicurus also distinguished "kinetic" pleasures (from stimulation) from "katastematic" pleasure (stable tranquility), preferring the latter. Contemporary well-being research distinguishes hedonic pleasure from eudaimonic fulfillment, and finds the latter more durable.
+@matters
+The section offers a test anyone can apply: does my happiness depend on contact with things that must end? And it ties inner peace to active goodwill toward all.
+@questions
+- Is the argument of 5.22 (pleasures of contact are wombs of sorrow) persuasive? Are there exceptions?
+- How does "delighting in the welfare of all beings" (5.25) answer the charge that liberation is selfish?
+- Why does the chapter end with God as "friend of all beings"?
+@argument
+P | Pleasures born of contact begin and end | ref=5.22 | text=Therefore they are wombs of sorrow.
+P | The yogin withstands desire and anger here and now | ref=5.23 | term=kāma | text=Mastery is possible in this life.
+C | One whose joy and light are within reaches the nirvāṇa of brahman | ref=5.24, 5.26 | term=brahma-nirvāṇa | text=Liberation is inner bliss and peace.
+I | Liberation includes care for all beings | ref=5.25 | text=The free delight in the welfare of all.
+I | Knowing God as friend of all brings peace | ref=5.29 | term=Īśvara | text=The path culminates in relation to God.

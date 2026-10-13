@@ -1,7 +1,158 @@
-summary: The verses of this chapter are complete; its study apparatus is being added.
+summary: Arjuna asks seven questions about brahman, the inner self, action, and how God is known at death. Kṛṣṇa defines the terms, teaches that one becomes what one remembers at the end, and describes the yogin's departure with Om. He explains cosmic time, the days and nights of Brahmā, the imperishable unmanifest beyond them, and the bright and dark paths of the dead.
 
-# section 1-28 | The chapter
+@overview
+Chapter 8 is the Gītā's chapter on death and cosmic time. It begins with a technical catechism: Arjuna asks what *brahman*, *adhyātma*, *karma*, *adhibhūta*, *adhidaiva* and *adhiyajña* are, and how God is known at death {8.1–2}. Kṛṣṇa answers briefly {8.3–4}, then turns to his real concern: the moment of death.
+The central teaching is that "whatever state of being one remembers when leaving the body, to that one goes" {8.6}. This might seem to make salvation depend on a last-minute thought. But Kṛṣṇa's conclusion is that one should *always* remember him, while continuing to fight {8.7}. The final thought is the fruit of a whole life's orientation. A description of the yogin's death follows: closing the gates of the body, raising the breath, uttering Om {8.10–13}.
+The chapter then widens to cosmic scale. Even Brahmā's world is subject to return {8.16}. Cosmic history is a succession of days and nights of Brahmā, each a thousand ages, in which beings emerge and dissolve {8.17–19}. Beyond this cycle is an eternal unmanifest, God's supreme abode, from which there is no return {8.20–21}. It is reached by devotion {8.22}. The chapter closes with the ancient doctrine of the bright and dark paths of the dead {8.23–26}, then relativizes it: the yogin who knows both is not deluded {8.27}.
+
+@map
+node qs | 0 | Seven questions | ref=8.1, 8.2 | term=adhyātma | text=What are brahman, the inner self, action, and the rest? How is God known at death?
+node defs | 1 | Definitions | ref=8.3, 8.4 | term=akṣara | text=Brahman is the supreme imperishable; God himself is the principle of sacrifice in the body.
+node remember | 1 | One becomes what one remembers at death | kind=claim | ref=8.5, 8.6 | text=The final state of mind determines one's destiny.
+node always | 2 | So remember me always, and fight | kind=center | ref=8.7 | text=The last thought is the fruit of a lifetime's orientation.
+node om | 2 | The yogin's departure with Om | ref=8.12, 8.13 | term=Om | detail=1 | text=Closing the gates, raising the breath, uttering the one-syllabled brahman.
+node time | 3 | Days and nights of Brahmā | ref=8.17, 8.19 | term=kalpa | text=Cosmic cycles of emergence and dissolution.
+node beyond | 4 | The eternal unmanifest beyond | ref=8.20, 8.21 | term=avyakta | text=It does not perish when all beings perish: God's supreme abode.
+node bhakti | 4 | Reached by exclusive devotion | ref=8.22 | term=bhakti | text=The supreme Person is attained by devotion.
+node paths | 5 | Bright and dark paths | ref=8.24, 8.25 | term=bright and dark paths | detail=1 | text=Paths of no-return and of return for the dead.
+node beyondall | 5 | The yogin goes beyond all fruits | kind=center | ref=8.27, 8.28 | text=Knowing both paths, the yogin is not deluded and surpasses the merit of Vedas and sacrifice.
+edge qs > defs
+edge qs > remember
+edge remember > always
+edge always > om | dashed
+edge always > time
+edge time > beyond
+edge beyond > bhakti
+edge bhakti > paths | dashed
+edge bhakti > beyondall
+
+@research
+Chapter 8 is a key source for the history of Indian ideas about death and cosmology. The doctrine of the "last thought" (*anta-kāla smaraṇa*) became central in later devotional traditions, notably the practice of chanting the divine name at death, and in Pure Land Buddhism's emphasis on recollecting Amitābha at death, which has interesting parallels. Scholars debate whether the Gītā's version is magical (the final thought alone decides) or ethical (the final thought expresses a life). Kṛṣṇa's "remember me at all times, and fight" {8.7} supports the second reading.
+The cosmology of 8.16–21, with its days of Brahmā and thousand-yuga cycles, is an early form of the Purāṇic system of *yugas*, *manvantaras* and *kalpas*. The relation between the "two unmanifests" (cosmic matter, and the eternal beyond it) is a point where Sāṅkhya and Vedānta are visibly combined. Historians of religion study the bright and dark paths {8.24–26} as a survival of Upaniṣadic eschatology (*Chāndogya* 5.10). The Gītā's relativization of it in 8.27 suggests a self-conscious distance from older cosmological doctrine.
+
+@questions
+- Does the teaching of 8.6 make salvation depend on a last-minute thought? How does 8.7 change that?
+- What is the relation between the cosmic unmanifest of 8.18 and the eternal unmanifest of 8.20?
+- How literally should a modern reader take the cosmology of 8.17–19 and the paths of 8.24–26?
+- What does it mean to "remember God at all times" while fighting a battle?
+
+# section 1-7 | Seven questions, and remembering God at death
+lead: Kṛṣṇa defines brahman, the inner self, action and the rest, and teaches that one goes to whatever one remembers at death; therefore remember him always, and fight.
+@notes
+8.1 | Arjuna picks up the six terms from 7.29–30 and adds a seventh question: how is God known at death?
+8.3 | *Akṣaraṁ brahma paramam*: "brahman is the supreme imperishable." *Svabhāvo 'dhyātmam*: "its own nature (as present in the individual) is the inner self." *Visargaḥ karma*: "action is the creative outpouring," perhaps alluding to the sacrificial offering that creates beings.
+8.4 | *Adhiyajño 'ham evātra dehe*: "what pertains to sacrifice is I myself, here in the body." God is the indwelling recipient of all offerings.
+8.5 | *Anta-kāle ca mām eva smaran*: "at the time of death, remembering me alone."
+8.6 | *Sadā tad-bhāva-bhāvitaḥ*: "always shaped by that state." The word *bhāvita* suggests long cultivation, so the final thought is not arbitrary.
+8.7 | *Mām anusmara yudhya ca*: "remember me, and fight." A compact summary of the whole Gītā: devotion and duty together.
 @reconstruction
-Study materials for this section are in preparation.
+Arjuna asks for definitions and how God is known at death {8.1–2}. Brahman is the supreme imperishable. The inner self is its own nature in the individual. Action is the creative outpouring that brings beings forth {8.3}. What pertains to beings is the perishable, what pertains to the gods is the Person, and what pertains to sacrifice is God himself in the body {8.4}. Whoever dies remembering God goes to God {8.5}. Whatever one remembers at death, one becomes, having been shaped by it all along {8.6}. So remember God at all times, and fight. With mind and understanding fixed on him, Arjuna will reach him {8.7}.
+@insight
+The definitions are terse and have puzzled commentators, but the section's point is clear. It moves from abstract categories to the existential question of death. The doctrine of 8.6 can sound mechanical, as if a final thought were a ticket. But the word *bhāvita* ("shaped, cultivated") and the conclusion of 8.7 show the real teaching. The mind at death is what the mind has become through life. Hence the instruction is not "remember God at death" but "remember God always."
+The juxtaposition "remember me, and fight" is one of the Gītā's most compressed formulations. Devotion does not replace duty. It is the inner orientation from which duty is done.
+@sources
+*Chāndogya Upaniṣad* 3.14.1: "As one's resolve is in this world, so one becomes on departing." *Praśna Upaniṣad* 3.10: "with whatever thought one has at death, one goes to the breath." *Bṛhadāraṇyaka* 4.4.5: "as one acts, as one behaves, so one becomes."
+@context
+The *ars moriendi* ("art of dying") tradition in late medieval Christianity, the Tibetan *Bardo Thödol*, and Pure Land Buddhist practices at the deathbed all share the concern with the dying mind. Montaigne's essay "That to philosophize is to learn to die" offers a secular parallel: a life of reflection prepares the final moment.
+@matters
+Whatever one believes about an afterlife, the teaching that we become what we habitually attend to, and that our final state reveals our life's orientation, is a powerful prompt to examine where our minds dwell.
+@questions
+- Does 8.6 describe a cause (the last thought determines destiny) or a sign (the last thought reveals a life)?
+- What does "remember me, and fight" (8.7) ask of a person in ordinary life?
+- How do the definitions of 8.3–4 connect the abstract and the personal?
 @argument
-C | Study materials in preparation
+P | Brahman is the imperishable; God is the indweller of sacrifice | ref=8.3, 8.4 | term=akṣara | text=The technical terms are defined.
+P | One goes to what one remembers at death | ref=8.5, 8.6 | text=The final state, shaped by life, determines destiny.
+C | Remember God always, and fight | ref=8.7 | text=Devotion and duty together.
+I | The final thought is a life's fruit | ref=8.6 | text=Hence constant remembrance, not deathbed piety.
+
+# section 8-16 | The yogin's departure and the world of no return
+lead: The yogin who meditates on the supreme Person and departs with Om reaches the supreme goal; all other worlds, even Brahmā's, are subject to return.
+@notes
+8.9 | A cluster of attributes: *kavi* (seer, poet), *purāṇa* (ancient), *anuśāsitṛ* (ruler), *aṇor aṇīyān* (smaller than the minute), *āditya-varṇa* (sun-colored), *tamasaḥ parastāt* (beyond darkness). Several echo *Śvetāśvatara* 3.8 ("I know that great Person, sun-colored, beyond darkness").
+8.10 | *Bhruvor madhye prāṇam āveśya*: "directing the breath between the eyebrows": a yogic technique of dying.
+8.11 | Echoes *Kaṭha* 2.15: "that word which all the Vedas declare… I tell you briefly: it is Om."
+8.12 | *Sarva-dvārāṇi saṁyamya*: "closing all the gates," the nine openings of the body (5.13).
+8.13 | *Om ity ekākṣaraṁ brahma*: "Om, the one-syllabled brahman." *Akṣara* means both "syllable" and "imperishable."
+8.14 | *Ananya-cetāḥ satataṁ*: "with thought never on anything else, constantly." God is "easy to reach" (*sulabha*) for such a one.
+8.15 | Rebirth is *duḥkhālayam aśāśvatam*, "the impermanent home of sorrow."
+8.16 | *Ā-brahma-bhuvanāl lokāḥ punar āvartinaḥ*: "worlds up to the realm of Brahmā return." Even the highest heavens are temporary.
+@reconstruction
+One who meditates on the supreme Person with the yoga of practice goes to him {8.8}. That Person is the ancient seer, the ruler, subtler than the subtle, sun-colored, beyond darkness {8.9}. At death, with steady mind, devotion and yogic power, directing the breath between the brows, one reaches him {8.10}. Kṛṣṇa will tell of the imperishable state that sages enter {8.11}. Closing the body's gates, holding the mind in the heart and the breath in the head {8.12}, uttering Om and remembering God, one goes to the supreme goal {8.13}. But for one who remembers God constantly, he is easy to reach {8.14}. Those who reach him are not reborn into this home of sorrow {8.15}. All other worlds, even Brahmā's, are subject to return; reaching God, there is no rebirth {8.16}.
+@insight
+The section holds together two models of the path. One is the technical yoga of dying, a demanding practice of breath, posture and syllable. The other is the simple constant remembrance of 8.14, which makes God "easy to reach." The juxtaposition is typical of the Gītā. It honors demanding practices while offering a path open to all.
+The statement that even Brahmā's world is subject to return {8.16} is a radical relativization of heavenly rewards. It places the Gītā's goal outside the whole cosmic system of reward and rebirth.
+@sources
+*Śvetāśvatara* 3.8 and *Kaṭha* 2.15–17 (Om as the imperishable) are direct sources. *Praśna Upaniṣad* 5 teaches meditation on Om as a means to the highest. The yogic technique of departure through the crown of the head appears in *Kaṭha* 6.16 (the artery leading upward).
+@context
+Comparable traditions include the Tibetan practice of *phowa* (transference of consciousness at death), Neoplatonic ascent, and the Hesychast "Jesus Prayer" as continuous remembrance. Contemporary palliative care literature on "good death" shows renewed interest in the dying person's state of mind.
+@matters
+The section asks whether the most important preparation for death is a technique or a habit of the heart, and answers that the second makes the first easy.
+@questions
+- What is the difference between the yogic death of 8.12–13 and the constant remembrance of 8.14?
+- Why does it matter that even Brahmā's world is subject to return (8.16)?
+- Is "God is easy to reach" (8.14) a comforting or a demanding claim?
+@argument
+P | The yogin who departs with Om reaches the supreme | ref=8.12, 8.13 | term=Om | text=A technical path of dying.
+P | For the constant rememberer, God is easy to reach | ref=8.14 | text=A simple path open to all.
+C | Reaching God, there is no rebirth | ref=8.15, 8.16 | term=saṁsāra | text=All other worlds, even Brahmā's, return.
+I | Heavenly rewards are relativized | ref=8.16 | term=Brahmā | text=The goal lies beyond the cosmic system of reward.
+
+# section 17-22 | Cosmic time and the eternal unmanifest
+lead: Worlds emerge and dissolve in the days and nights of Brahmā; beyond that cosmic unmanifest is an eternal one, God's supreme abode, reached by devotion.
+@notes
+8.17 | *Sahasra-yuga-paryantam*: a day of Brahmā lasts a thousand yugas. Later Purāṇic computation makes this 4.32 billion human years.
+8.18 | *Avyaktād vyaktayaḥ sarvāḥ prabhavanty ahar-āgame*: at dawn all manifest things arise from the unmanifest. The "unmanifest" here is cosmic matter (*prakṛti*) in its latent state.
+8.19 | *Bhūta-grāmaḥ sa evāyaṁ bhūtvā bhūtvā pralīyate*: "this same multitude of beings, coming to be again and again, dissolves." *Avaśaḥ*, "helplessly": beings are not free in this cycle.
+8.20 | *Paras tasmāt tu bhāvo 'nyo 'vyakto 'vyaktāt sanātanaḥ*: "beyond that unmanifest is another, eternal unmanifest." Two levels of the unmanifest are distinguished.
+8.21 | *Tad dhāma paramaṁ mama*: "that is my supreme abode." The eternal unmanifest is identified with God's dwelling.
+8.22 | *Bhaktyā labhyas tv ananyayā*: "attainable by exclusive devotion." The supreme Person "in whom beings abide" is reached by love.
+@reconstruction
+Those who know that Brahmā's day and night each last a thousand ages know true day and night {8.17}. At his dawn, all manifest things arise from the unmanifest, and at dusk they dissolve back into it {8.18}. The same beings arise and dissolve again and again, helplessly {8.19}. But beyond this unmanifest is another, eternal one, which does not perish when all beings perish {8.20}. It is called the imperishable, the supreme goal. Those who reach it do not return, and it is God's supreme abode {8.21}. That supreme Person, in whom all abides and by whom all is pervaded, is reached by exclusive devotion {8.22}.
+@insight
+The section places human life against an immense backdrop of cosmic time. Its effect is to make all worldly achievement, even cosmic, provisional. Everything that emerges dissolves. Yet the vision is not nihilistic, because it points to a level that does not dissolve: the eternal unmanifest.
+The distinction between two unmanifests is philosophically important. The first is Sāṅkhya's latent matter, the dormant seed of the world. The second is the transcendent reality beyond the cosmic cycle. The Gītā places God's abode at the second level. Then, characteristically, it says that this transcendent goal is reached not by cosmic knowledge but by devotion {8.22}.
+@sources
+The cosmology of Brahmā's days anticipates the Purāṇic system (*Viṣṇu Purāṇa* 1.3; *Manu* 1.64–74 already has the days and nights of Brahmā). The "two unmanifests" correspond to the *Kaṭha*'s hierarchy, in which the person (*puruṣa*) is higher than the unmanifest (*avyakta*, *Kaṭha* 3.11).
+@context
+Cyclic cosmologies appear in Stoicism (*ekpyrosis*, the periodic conflagration), in Nietzsche's eternal return, and in contemporary cosmological speculation about cyclic universes (e.g., Roger Penrose's "conformal cyclic cosmology"). Carl Sagan noted that Hindu cosmology alone among the great traditions works with timescales comparable to modern cosmology.
+@matters
+Seeing one's life against the scale of cosmic time can be terrifying or freeing. The Gītā uses it to free: to loosen attachment to what passes and orient toward what does not.
+@questions
+- What is the effect of placing human life against cosmic cycles of billions of years?
+- How do the two "unmanifests" (8.18, 8.20) differ?
+- Why is the eternal goal reached by devotion (8.22) rather than by knowledge of cosmic order?
+@argument
+P | Worlds arise and dissolve in Brahmā's days and nights | ref=8.17, 8.19 | term=kalpa | text=Beings come and go helplessly.
+P | Beyond this unmanifest is an eternal one | ref=8.20 | term=avyakta | text=It does not perish with beings.
+C | The eternal unmanifest is God's supreme abode | ref=8.21 | text=Those who reach it do not return.
+I | It is reached by exclusive devotion | ref=8.22 | term=bhakti | text=The cosmic goal is attained through love.
+
+# section 23-28 | The bright and dark paths
+lead: The departed travel either the bright path of no return or the dark path of return; the yogin who knows both is not deluded, and goes beyond all merit.
+@notes
+8.24 | The bright path (*devayāna*, "way of the gods"): fire, light, day, the bright fortnight, the sun's northern course. Bhīṣma, in the epic, waits on his bed of arrows for the sun's northward turn before dying.
+8.25 | The dark path (*pitṛyāna*, "way of the ancestors"): smoke, night, the dark fortnight, the southern course. It leads to the moon and back to rebirth.
+8.26 | *Śukla-kṛṣṇe gatī hy ete*: "these two paths, bright and dark." Note *kṛṣṇa*, "dark," the same word as Kṛṣṇa's name, though no wordplay is clearly intended.
+8.27 | *Naite sṛtī pārtha jānan yogī muhyati kaścana*: "no yogin who knows these paths is deluded." Knowledge relativizes the cosmology.
+8.28 | The yogin goes beyond *all* the merit of Vedas, sacrifices, austerities and gifts.
+@reconstruction
+Kṛṣṇa will now tell of the times when yogins depart to return or not to return {8.23}. Those who know brahman and depart on the path of fire, light, day, the bright fortnight and the northern course go to brahman {8.24}. Those who depart on the path of smoke, night, the dark fortnight and the southern course reach the lunar light and return {8.25}. These two paths are eternal {8.26}. But the yogin who knows them is not deluded; so be yoked always {8.27}. Knowing this, the yogin goes beyond all the merit of Vedic study, sacrifice, austerity and gift, and reaches the supreme, primal abode {8.28}.
+@insight
+The passage preserves an archaic Upaniṣadic eschatology but subordinates it. The point is not to time one's death auspiciously, though tradition sometimes took it so (as Bhīṣma did). The point is that the yogin who *knows* the cosmic mechanics is free of them. Knowledge and constant yoga, not cosmic timing, decide. The final verse confirms this. The yogin surpasses all the fruits of conventional religion.
+This is a recurring Gītā strategy. It preserves the older religious world and then relativizes it from a higher standpoint, rather than rejecting it.
+@sources
+*Chāndogya Upaniṣad* 5.10.1–6 and *Bṛhadāraṇyaka* 6.2.15–16 describe the two paths in nearly identical terms. Bhīṣma's waiting for the *uttarāyaṇa* is told in *Mahābhārata* 6.114 and 13.153.
+@context
+Ancient Greek and Egyptian religion also mapped the soul's journey after death through celestial stations. Comparative mythologists (Mircea Eliade) study such "celestial ascents" as a widespread pattern.
+@matters
+The passage models how a tradition can keep its ancient inheritance while placing it in perspective, a lesson for anyone reading old texts today.
+@questions
+- Should the bright and dark paths be read literally, symbolically, or as superseded?
+- What does it mean that knowledge of the paths frees the yogin from delusion (8.27)?
+- How does 8.28 relate the yogin to the conventional religious life of Veda, sacrifice and gift?
+@argument
+P | The departed go by a bright path or a dark path | ref=8.24, 8.25 | term=bright and dark paths | text=One leads to no return, the other to rebirth.
+P | The yogin who knows both is not deluded | ref=8.27 | text=Knowledge frees from cosmic mechanics.
+C | Be yoked in yoga at all times | ref=8.27 | term=yoga | text=Constant yoga, not cosmic timing, is decisive.
+I | The yogin surpasses all conventional merit | ref=8.28 | term=Veda | text=Beyond Vedas, sacrifice, austerity and gifts.

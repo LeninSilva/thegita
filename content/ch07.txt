@@ -1,7 +1,158 @@
-summary: The verses of this chapter are complete; its study apparatus is being added.
+summary: Kṛṣṇa begins to teach knowledge of himself. He has a lower nature (the eight elements of the world) and a higher nature (the life that sustains it); all things are strung on him like pearls on a thread. Bewildered by the guṇas and by māyā, most people do not know him. Four kinds of people worship him, and dearest is the one who knows.
 
-# section 1-30 | The chapter
+@overview
+Chapter 7 opens the second hexad of the Gītā (Chapters 7–12), whose subject is God. The first hexad asked how to act. This one asks who is acting, and who is the goal of action. Kṛṣṇa promises "knowledge together with discernment" {7.2}, a full account of himself.
+The chapter's structure is clear. Kṛṣṇa first lays out a two-level ontology. His "lower nature" is the eightfold material world of Sāṅkhya (elements, mind, understanding, I-making), and his "higher nature" is the living principle that sustains it {7.4–5}. Then he declares his presence in the essence of every thing: the taste in water, the light in sun and moon, Om in the Vedas {7.8–11}. The guṇas and their states come from him, yet "I am not in them; they are in me" {7.12}. This is an early statement of the Gītā's panentheism.
+The rest of the chapter explains why most people do not know him. Bewildered by the guṇas {7.13}, deceived by divine māyā {7.14}, or seeking finite goods from lesser gods {7.20–23}, they miss the source. Among those who do worship him, Kṛṣṇa distinguishes four kinds: the distressed, the seeker of knowledge, the seeker of wealth, and the knower. The knower is "my very self" {7.16–18}. "Vāsudeva is all" is the knower's realization after many births {7.19}.
+
+@map
+node source | 0 | Kṛṣṇa as the source of all | kind=center | ref=7.6, 7.7 | term=Kṛṣṇa | text=Origin and dissolution of the whole world; all strung on him like pearls on a thread.
+node lower | 1 | Lower nature: eightfold | ref=7.4 | term=prakṛti | text=Earth, water, fire, wind, space, mind, understanding, I-making.
+node higher | 1 | Higher nature: the life-principle | ref=7.5 | term=jīva | text=The life by which the world is sustained.
+node essence | 2 | God as the essence of things | ref=7.8, 7.11 | term=vibhūti | text=Taste in water, light in sun and moon, Om in the Vedas.
+node notin | 2 | "They are in me, I am not in them" | kind=claim | ref=7.12 | text=The guṇas come from God, but God is not contained by them.
+node maya | 3 | Veiled by māyā | kind=contrast | ref=7.14, 7.25 | term=māyā | text=Bewildered by the guṇas, the world does not know him.
+node four | 3 | Four kinds of worshipers | ref=7.16 | term=bhakti | text=The distressed, the seeker of knowledge, the seeker of wealth, and the knower.
+node other | 4 | Worship of other gods | ref=7.20, 7.23 | detail=1 | text=God makes their faith firm and grants their wishes, but the fruit is finite.
+node knower | 4 | The knower: "Vāsudeva is all" | kind=center | ref=7.17, 7.19 | term=jñāna | text=Dearest to God, his very self; rare after many births.
+edge source > lower
+edge source > higher
+edge lower > essence
+edge higher > essence
+edge essence > notin
+edge notin > maya | yet
+edge maya > four | some see through
+edge four > other | dashed
+edge four > knower
+
+@research
+Chapter 7 is fundamental for the theology of the Gītā and for the debate between Advaita and theistic Vedānta. Śaṅkara reads the "lower" and "higher" natures as two aspects of God's māyā, with the absolute itself beyond both. Rāmānuja reads them as God's real "body," matter and souls, with God as their indwelling self. Modern scholars, such as Ram-Prasad in *Divine Self, Human Self*, argue that the Gītā deliberately keeps both the immanent and the transcendent in tension.
+The four types of worshipers {7.16} and the treatment of other gods {7.20–23} are central to research on Hindu inclusivism (Paul Hacker's term). The Gītā honors other worship as real but finally subordinate, received by Kṛṣṇa himself {9.23}. Some scholars see this as religious generosity, others as subtle hierarchy. Comparative theologians (Francis X. Clooney and others) have used these verses in Hindu–Christian dialogue.
+
+@questions
+- What is the difference between God's "lower" and "higher" nature? Why does the distinction matter?
+- How can all beings be "in" God while God is "not in them" (7.12)?
+- Is the treatment of other gods (7.20–23) generous, hierarchical, or both?
+- Why is the knower "dear" to God (7.17)? What kind of love is meant?
+
+# section 1-7 | The two natures of God
+lead: Kṛṣṇa promises complete knowledge of himself and describes his lower, eightfold nature and his higher nature, the principle of life.
+@notes
+7.1 | *Mayy āsakta-manāḥ*, "with mind attached to me": after six chapters on non-attachment, the Gītā now commends attachment, to God.
+7.2 | *Jñānaṁ vijñāna-sahitam*: knowledge (of God's transcendent nature) with discernment (of his manifest, specific forms), according to many commentators.
+7.3 | *Manuṣyāṇāṁ sahasreṣu kaścid yatati siddhaye*: "among thousands, scarcely one strives." A famous verse on the rarity of spiritual seeking.
+7.4 | The eight items correspond to Sāṅkhya's evolutes: five gross elements plus mind, understanding and I-making. Compare 13.5.
+7.5 | *Parā prakṛti*, the higher nature, is *jīva-bhūta*, "consisting of living beings" or "the life-principle." This places individual souls within God's nature.
+7.7 | *Sūtre maṇi-gaṇā iva*: "like clusters of pearls on a thread." God is the unseen thread that holds the many together.
 @reconstruction
-Study materials for this section are in preparation.
+Kṛṣṇa promises to teach Arjuna to know him completely, with mind attached to him and yoga practiced {7.1}. This knowledge with discernment leaves nothing more to know {7.2}. Few seek perfection, and fewer still know God in truth {7.3}. God's nature has two levels. The lower is eightfold: the five elements, mind, understanding and I-making {7.4}. The higher is the life-principle that sustains the world {7.5}. All beings come from these two, and God is the origin and dissolution of all {7.6}. There is nothing beyond him. All is strung on him like pearls on a thread {7.7}.
+@insight
+The section transforms Sāṅkhya. In classical Sāṅkhya, matter (*prakṛti*) and the many conscious selves (*puruṣas*) are independent, ultimate principles. Here both are God's "natures." The dualism is kept but subordinated to a single source. This is the decisive move from Sāṅkhya to the Gītā's theistic Vedānta.
+The pearl-and-thread image is subtle. The thread is invisible, yet without it there is no necklace, only scattered pearls. God is the unity of the many, not another item among them.
+@sources
+The eightfold *prakṛti* follows proto-Sāṅkhya lists in the *Mokṣadharma*. The thread (*sūtra*) image recalls *Bṛhadāraṇyaka Upaniṣad* 3.7, where Uddālaka asks about "the thread by which this world and the other world and all beings are strung together," answered by Yājñavalkya with the "inner controller" (*antaryāmin*).
+@context
+The relation of one and many is a perennial philosophical theme: Plotinus's One and its emanations, Spinoza's single substance with infinite attributes, and the medieval debate on universals. Rāmānuja's reading of the world as God's body has been compared to process theology.
+@matters
+The section offers a way of seeing the world in which the many things we deal with are held together by a single source, not as an abstract unity but as their living core.
+@questions
+- Why does the Gītā now commend attachment (7.1) after teaching non-attachment?
+- How does the Gītā transform Sāṅkhya's dualism?
+- What does the pearl-and-thread image (7.7) capture that other images of unity might miss?
 @argument
-C | Study materials in preparation
+P | God's lower nature is the eightfold material world | ref=7.4 | term=prakṛti | text=Elements, mind, understanding, I-making.
+P | God's higher nature is the life that sustains it | ref=7.5 | term=jīva | text=Living beings belong to God's nature.
+C | God is the origin and dissolution of all | ref=7.6, 7.7 | text=All is strung on him like pearls on a thread.
+I | Sāṅkhya's dualism is subordinated to one source | text=Matter and spirit are both God's natures.
+
+# section 8-12 | God as the essence of things
+lead: Kṛṣṇa is the taste in water, the light of sun and moon, the life in all beings; the guṇas come from him, but he is not in them.
+@notes
+7.8 | *Raso 'ham apsu*: "I am the taste in water." Each element is identified by its essential quality: taste for water, light for sun and moon, sound for space.
+7.8 | *Praṇavaḥ sarva-vedeṣu*: "the syllable Om in all the Vedas." *Praṇava* is a name of Om.
+7.10 | *Bījaṁ māṁ sarva-bhūtānāṁ viddhi*: "know me as the seed of all beings." The seed image anticipates 10.39 and 14.4.
+7.11 | *Dharmāviruddho bhūteṣu kāmo 'smi*: "I am desire not opposed to dharma." A crucial qualification of the Gītā's critique of desire. Desire aligned with right order is divine.
+7.12 | *Na tv ahaṁ teṣu te mayi*: "but I am not in them; they are in me." Compare 9.4–5.
+@reconstruction
+God is present in each thing as its essence: the taste in water, the light in sun and moon, Om in the Vedas, sound in space, manhood in men {7.8}. He is fragrance in earth, heat in fire, life in beings, austerity in ascetics {7.9}. He is the eternal seed of all beings, the intelligence of the intelligent, the splendor of the splendid {7.10}. He is the strength of the strong free of passion, and desire that does not oppose dharma {7.11}. All states of sattva, rajas and tamas come from him, yet he is not in them; they are in him {7.12}.
+@insight
+The section develops a theology of essence. God is present not in things' accidents but in what makes each thing what it is at its best. This has two effects. First, it sacralizes the ordinary: drinking water becomes tasting God. Second, it introduces an implicit criterion. God is present in things as their *excellence* (the strength free of passion, desire in accord with dharma). The divine presence is therefore also a norm.
+7.12 states the asymmetry that defines panentheism. The world is in God, but God is not exhausted by or bound within the world. The guṇas come from God, yet God transcends them.
+@sources
+The identification of God with essential qualities anticipates the *vibhūti* lists of Chapter 10. *Bṛhadāraṇyaka* 3.7's "inner controller," who dwells in earth, water and fire but whom they do not know, is a direct antecedent.
+@context
+Compare Thomas Aquinas's doctrine that God is present in all things "by essence, presence and power," and the Islamic mystical idea (associated with Ibn ʿArabī) that the divine names are manifest in creatures. Gerard Manley Hopkins's "The world is charged with the grandeur of God" is a poetic analogue.
+@matters
+The section invites a way of perceiving in which ordinary experiences (water, light, sound) become occasions of recognition. It also suggests that what is best in each thing is where the divine shows itself.
+@questions
+- What is gained by identifying God with each thing's "essence" (taste in water, light in sun)?
+- How does "desire not opposed to dharma" (7.11) qualify the Gītā's critique of desire?
+- Explain 7.12. How can the guṇas come from God while God is not in them?
+@argument
+P | God is the essential quality of each thing | ref=7.8, 7.9 | term=vibhūti | text=Taste in water, light in sun, Om in the Vedas.
+P | God is the seed of all beings | ref=7.10 | text=The source from which each grows.
+C | The world is in God, but God is not in the world | ref=7.12 | text=The asymmetry of panentheism.
+I | God is present as each thing's excellence | ref=7.11 | text=Strength free of passion, desire in accord with dharma.
+
+# section 13-19 | Māyā, and the four who worship
+lead: Deluded by the guṇas and by divine māyā, most do not know God; four kinds of good people worship him, and dearest is the one who knows.
+@notes
+7.13 | *Tribhir guṇamayair bhāvaiḥ*: "by states composed of the three guṇas." It is the guṇas themselves that veil God.
+7.14 | *Daivī hy eṣā guṇamayī mama māyā duratyayā*: "this divine māyā of mine, made of guṇas, is hard to cross." Note that māyā is *God's own* power. *Mām eva ye prapadyante*: "those who take refuge in me alone cross it." Grace overcomes what effort cannot.
+7.15 | The four marks of those who do not seek refuge: evildoers, the deluded, the lowest of humans, and those whose knowledge is stolen by māyā.
+7.16 | *Ārta, jijñāsu, arthārthin, jñānin*: the distressed, the seeker of knowledge, the seeker of wealth, the knower. All four are called *sukṛtinaḥ*, "virtuous."
+7.17 | *Priyo hi jñānino 'tyartham ahaṁ sa ca mama priyaḥ*: "I am exceedingly dear to the knower, and he is dear to me." Love is mutual.
+7.18 | *Jñānī tv ātmaiva me matam*: "I regard the knower as my very self." Advaitins read it as identity, theists as intimate union.
+7.19 | *Vāsudevaḥ sarvam iti*: "Vāsudeva is all." A succinct statement of the knower's realization. It may be the earliest occurrence of this formula.
+@reconstruction
+Deluded by the guṇas, the world does not know God, who is beyond them {7.13}. His divine māyā, made of the guṇas, is hard to cross, but those who take refuge in him cross it {7.14}. The wicked and deluded do not take refuge {7.15}. Four kinds of good people worship him: the distressed, the seeker of knowledge, the seeker of wealth, and the knower {7.16}. All are noble, but the knower, ever yoked and singly devoted, is foremost. God is dear to him and he to God, and God regards him as his own self {7.17–18}. After many births the knower realizes that "Vāsudeva is all." Such a great soul is rare {7.19}.
+@insight
+The section introduces grace into the Gītā's soteriology. Māyā is God's power and cannot be crossed by effort alone. It is crossed by taking refuge in God {7.14}. This is the seed of the doctrine of surrender that culminates in 18.66.
+The typology of worshipers is notably generous. Even those who come out of distress or desire for wealth are called virtuous. Religious motivation need not be pure to be genuine. Yet there is a hierarchy. The knower, who loves God without ulterior motive, is "my very self." The ideal fuses knowledge and love. The highest devotee is a knower, and the highest knowledge is loving.
+@sources
+The doctrine of grace overcoming māyā anticipates *Śvetāśvatara Upaniṣad* 4.10 ("know māyā as nature and the great lord as the wielder of māyā") and is developed in the Bhāgavata and Śrīvaiṣṇava traditions.
+@context
+Typologies of religious motivation appear in Bernard of Clairvaux (four degrees of love, from self-interest to love of God for God's sake) and in Gordon Allport's psychology of "extrinsic" and "intrinsic" religiosity. The Gītā's generosity toward imperfect motives is notable by comparison.
+@matters
+The section honors the many reasons people turn to the sacred (fear, curiosity, need) while pointing toward a love that asks for nothing.
+@questions
+- Why does the Gītā call the distressed and the wealth-seeker "virtuous" (7.16)?
+- What does it mean that māyā is God's own power (7.14)?
+- How do Advaitins and theists read 7.18 ("the knower is my very self")?
+@argument
+P | The guṇas and God's māyā veil him | ref=7.13, 7.14 | term=māyā | text=The world does not know its source.
+P | Those who take refuge in God cross māyā | ref=7.14 | term=prapatti | text=Grace overcomes what effort cannot.
+C | Of four kinds of worshipers, the knower is dearest | ref=7.16, 7.17 | term=bhakti | text=The knower is God's very self.
+I | The knower's realization: "Vāsudeva is all" | ref=7.19 | term=Kṛṣṇa | text=Rare, after many births.
+
+# section 20-30 | Other gods, the unmanifest, and knowing God at death
+lead: God makes firm the faith of those who worship other gods, but their fruit is finite; the deluded do not know him as unborn; those who take refuge in him know brahman and all its aspects.
+@notes
+7.20 | *Anya-devatāḥ*, "other gods": worship of deities other than the supreme, motivated by desires.
+7.21 | *Tasya tasyācalāṁ śraddhāṁ tām eva vidadhāmy aham*: God himself makes their faith firm. A remarkable form of tolerance.
+7.22 | *Mayaiva vihitān*: the wishes they obtain "are granted by me alone." The other gods are channels of the one God.
+7.24 | The unintelligent think the unmanifest "has become manifest." Rāmānuja reads it as: they think God is an ordinary embodied being. Śaṅkara reads it as: they do not know his transcendent nature.
+7.25 | *Yoga-māyā-samāvṛtaḥ*: "veiled by yoga-māyā," God's creative power that also conceals him.
+7.26 | *Māṁ tu veda na kaścana*: "but no one knows me." God's knowledge is total; ours of him is not.
+7.29 | The technical terms *adhyātma, adhibhūta, adhidaiva, adhiyajña* introduce Chapter 8, which will define them.
+@reconstruction
+Those whose knowledge is carried off by desires worship other gods {7.20}. God makes their faith firm {7.21}, and through it they obtain wishes that he himself grants {7.22}. But the fruit is finite: worshipers of gods go to the gods, while God's devotees come to him {7.23}. The unintelligent think the unmanifest has merely become manifest, not knowing his higher being {7.24}. He is veiled by his yoga-māyā {7.25}. He knows all beings, past, present and future, but no one knows him {7.26}. Bewildered by the pairs of opposites from birth, beings wander {7.27}. Those whose evil has ended, free of delusion, worship him firmly {7.28}. Those who take refuge in him to escape old age and death know brahman, the inner self and all action {7.29}. Knowing him in all his aspects, they know him even at death {7.30}.
+@insight
+The section's treatment of other gods is philosophically intriguing. God is both the *object* of all worship (the wishes are "granted by me alone") and the *guarantor* of other worship ("I make their faith unshakable"). This is inclusivism: other religious paths are real and effective, but their truth is grounded in the one God, and their fruits are limited compared with direct devotion.
+The closing verses introduce a concern that dominates Chapter 8: knowledge of God at the moment of death. The idea that one's final orientation determines one's destiny connects ethics, devotion and eschatology.
+@sources
+The idea that worship of lesser gods brings finite results is found in *Bṛhadāraṇyaka* 1.4.10 ("whoever worships another deity, thinking 'he is one, I am another,' does not know"). The concern with the moment of death recalls *Chāndogya* 3.14.1 ("as one's resolve is in this world, so one becomes on departing").
+@context
+Karl Rahner's idea of "anonymous Christians," people saved through Christ without knowing it, is a frequently cited parallel to 7.21–22. Critics find both views generous and patronizing at once.
+@matters
+How should a religious tradition regard the sincere worship of others? The Gītā's answer, honoring others' faith while placing it within its own framework, is still the dominant model of inclusive religion.
+@questions
+- Is the inclusivism of 7.21–22 respectful of other religions? What would a member of another tradition say?
+- What does it mean that "no one knows me" (7.26) while God knows all?
+- Why does the chapter end with knowledge "at the time of death"?
+@argument
+P | Worshipers of other gods receive what they seek, from God | ref=7.21, 7.22 | text=God makes their faith firm and grants the fruit.
+P | Their fruit is finite | ref=7.23 | text=They go to the gods they worship.
+C | Direct devotion to God leads to God | ref=7.23, 7.28 | term=bhakti | text=Those freed from delusion worship him with firm vows.
+I | God is veiled by his own māyā | ref=7.25 | term=māyā | text=The deluded do not know the unborn.
+I | Those who know God in all aspects know him even at death | ref=7.30 | term=adhyātma | text=This leads into Chapter 8.

@@ -1,7 +1,166 @@
-summary: The verses of this chapter are complete; its study apparatus is being added.
+summary: Kṛṣṇa reveals the "royal secret": all beings rest in him, yet he does not rest in them; he sends forth and withdraws the worlds while remaining unattached. He is the ritual, the father and mother, the goal and the friend. Devotion is the easiest and surest path: whatever is offered with love, even a leaf or water, he accepts; whoever takes refuge in him, of whatever birth, reaches the highest.
 
-# section 1-34 | The chapter
+@overview
+Chapter 9 is the heart of the Gītā's devotional theology. Kṛṣṇa calls its teaching "royal knowledge, a royal secret" {9.2}, a knowledge both supreme and directly accessible. The chapter moves in three phases.
+The first is metaphysical {9.4–10}. God pervades the world in his unmanifest form. All beings rest in him, yet he does not rest in them, "and yet beings do not rest in me" {9.4–5}. These paradoxes express a relation that is neither identity nor separation. God sends forth the worlds at each cosmic dawn and withdraws them, presiding as overseer while nature does the work, and remains unbound {9.7–10}.
+The second is a hymn of identification {9.16–19}. God is the ritual, the offering, the mantra and the fire. He is father, mother and grandfather of the world, its goal, friend and refuge, being and non-being. Here the Gītā's language becomes liturgical.
+The third is devotion {9.22–34}. God secures the welfare of those who worship him alone {9.22}. Even worship of other gods reaches him {9.23}. He accepts "a leaf, a flower, a fruit, or water" offered with love {9.26}. Everything one does can be offered to him {9.27}. Most radically, God is the same to all, and devotion overrides birth and conduct. The sinner who worships him becomes righteous, and "women, vaiśyas and śūdras" reach the supreme goal {9.30–32}. The chapter ends with the four-fold injunction repeated in 18.65: "Let your mind be on me; be devoted to me; sacrifice to me; bow down to me" {9.34}.
+
+@map
+node secret | 0 | The royal secret | kind=center | ref=9.1, 9.2 | text=A knowledge supreme and directly experienced, easy to practice.
+node pervade | 1 | All rests in God; God does not rest in all | kind=claim | ref=9.4, 9.5 | text=Panentheist paradox: neither identity nor separation.
+node wind | 1 | Like wind in space | ref=9.6 | text=The image of the relationship: everywhere in space yet not bound by it.
+node cycle | 2 | God sends forth and withdraws worlds | ref=9.7, 9.10 | term=kalpa | text=Nature does the work under his oversight; he remains unattached.
+node hymn | 2 | I am the ritual, the father, the goal | ref=9.16, 9.19 | term=yajña | text=God identified with every element of worship and of the world.
+node heaven | 3 | Heaven-seekers return | kind=contrast | ref=9.20, 9.21 | term=Veda | detail=1 | text=Those who use the Vedas for heaven come and go.
+node leaf | 3 | A leaf, a flower, a fruit, water | ref=9.26, 9.27 | term=bhakti | text=Whatever is offered with love, God accepts. Offer every act to him.
+node same | 4 | God is the same to all | ref=9.29 | text=No one is hateful or dear, yet devotees are in him and he in them.
+node all | 4 | Devotion overrides birth and conduct | kind=claim | ref=9.30, 9.32 | text=The sinner becomes righteous; women, vaiśyas and śūdras reach the highest.
+node four | 5 | Mind on me, devoted to me, sacrifice to me, bow to me | kind=center | ref=9.34 | text=The fourfold injunction, repeated at 18.65.
+edge secret > pervade
+edge pervade > wind | dashed
+edge pervade > cycle
+edge cycle > hymn
+edge hymn > heaven | contrasts
+edge hymn > leaf
+edge leaf > same
+edge same > all
+edge all > four
+
+@research
+Chapter 9's radical statements about devotion transcending birth and conduct {9.30–32} are central to debates about the Gītā's social vision. Historians of bhakti (e.g., John Stratton Hawley, *A Storm of Songs*, 2015) note that later devotional movements drew on these verses to include women and low castes, though the movements' own social effects were mixed. The phrase *pāpa-yonayaḥ* {9.32} remains grammatically and ethically contested. Some take it to brand women, vaiśyas and śūdras as of "sinful birth." Others take it as a separate category, the "lowly born," listed alongside them.
+The paradoxes of 9.4–5 are a crux in Vedānta. Śaṅkara resolves them by the doctrine of appearance: beings "rest" in God only as illusory appearances, and do not "really" rest in him. Rāmānuja resolves them by the body-soul model. Beings depend on God as body on soul, but God is not dependent on them. Contemporary philosophers of religion have connected these verses to analytic discussions of panentheism (e.g., Philip Clayton, Yujin Nagasawa's work on "modal panentheism").
+
+@questions
+- How can all beings rest in God while God does not rest in them, and also not rest in him (9.4–5)? Which resolution do you find most convincing?
+- What does it mean to offer "a leaf, a flower, a fruit, or water" (9.26)? Why does the value of the gift not matter?
+- Do 9.30–32 overturn the social hierarchy, or include the excluded while keeping the hierarchy?
+- Why might the Gītā call this teaching a "secret" when it is so easy to practice?
+
+# section 1-6 | The royal secret: all beings rest in God
+lead: Kṛṣṇa reveals the supreme secret: he pervades all in his unmanifest form; beings rest in him, yet he does not rest in them.
+@notes
+9.1 | *Anasūyave*, "to you, who do not find fault." The teaching is given to one who listens without cavil.
+9.2 | *Rāja-vidyā rāja-guhyam*: "king of knowledges, king of secrets." *Pratyakṣāvagamam*, "directly perceived": unlike speculative doctrines, this can be experienced.
+9.3 | *Aśraddadhānāḥ*, "those without faith," return to the path of saṁsāra.
+9.4 | *Mayā tatam idaṁ sarvaṁ jagad avyakta-mūrtinā*: "by me, in my unmanifest form, this whole world is pervaded." *Mat-sthāni sarva-bhūtāni na cāhaṁ teṣv avasthitaḥ*: "all beings rest in me, but I do not rest in them."
+9.5 | *Na ca mat-sthāni bhūtāni*: "and yet beings do not rest in me." An intentional paradox, followed by *paśya me yogam aiśvaram*, "behold my sovereign yoga!"
+9.6 | The image of wind in space (*ākāśa*): the wind moves everywhere within space, yet space is not affected by the wind.
 @reconstruction
-Study materials for this section are in preparation.
+Kṛṣṇa will teach Arjuna the most secret knowledge, which frees from evil {9.1}. It is royal knowledge and the royal secret: purifying, directly experienced, righteous, easy and imperishable {9.2}. Those without faith in it return to saṁsāra {9.3}. God pervades the world in his unmanifest form. All beings rest in him, but he does not rest in them {9.4}. And yet beings do not rest in him either. This is his sovereign yoga, for he sustains beings without being contained by them {9.5}. As the wind moves everywhere within space, so beings move within him {9.6}.
+@insight
+The section deliberately frustrates simple metaphysics. If all beings rest in God and God does not rest in them, the relation is asymmetric: dependence without containment. The further claim that beings do not rest in God either pushes toward a mystery. The relation is unlike any spatial containment. The wind-and-space image helps. Space holds the wind without being disturbed or limited by it. God is the "space" in which beings exist, not one of the beings.
+Calling this a "secret" that is "directly perceived" and "easy" is itself paradoxical. The secret is not hidden information but a way of seeing that, once seen, is simple.
+@sources
+*Īśā Upaniṣad* 1 ("all this is to be pervaded by the Lord") and *Śvetāśvatara* 6.11 ("the one God hidden in all beings, all-pervading") are close sources. The rhetoric of the "secret" (*guhya*) teaching recalls the Upaniṣads' own self-description as *rahasya* (secret).
+@context
+Paradoxical formulations of God's relation to the world appear in Nicholas of Cusa ("God is in all things in such a way that all things are in God"), in the Christian doctrine of God's immanence and transcendence, and in Islamic theology's tension between *tanzīh* (transcendence) and *tashbīh* (likeness). Process theology and contemporary panentheism are modern heirs.
+@matters
+How we picture the relation of the sacred to the world shapes our attitudes to nature, to others and to ourselves. The Gītā's paradox resists both a God far away and a God dissolved into the world.
+@questions
+- Why does the Gītā state the relation of God and world as a paradox?
+- How well does the wind-and-space image (9.6) express the relation?
+- What makes this teaching "directly perceived" rather than speculative?
 @argument
-C | Study materials in preparation
+P | God pervades the world in his unmanifest form | ref=9.4 | term=avyakta | text=Nothing is outside him.
+P | God is not contained by beings | ref=9.4, 9.5 | text=He sustains them without depending on them.
+C | All beings rest in God as wind in space | ref=9.6 | text=Dependence without containment: God's sovereign yoga.
+I | The relation exceeds ordinary categories | ref=9.5 | text="And yet beings do not rest in me."
+
+# section 7-15 | Sending forth the worlds; the deluded and the great-souled
+lead: God sends forth and withdraws the worlds by his nature while remaining unattached; the deluded despise him in human form, the great-souled worship him.
+@notes
+9.7 | *Kalpa-kṣaye*, "at the end of a cosmic age," beings return into God's nature (*prakṛti*); *kalpādau*, "at its beginning," he sends them forth.
+9.8 | *Prakṛtiṁ svām avaṣṭabhya*: "resting on (or controlling) my own nature." *Avaśam*, "helpless": beings are under the sway of nature.
+9.9 | *Udāsīna-vad āsīnam*: "sitting as if indifferent." God is active through nature yet unbound, the model of the non-attached agent.
+9.10 | *Mayādhyakṣeṇa prakṛtiḥ sūyate*: "with me as overseer, nature gives birth." A Sāṅkhya-theistic synthesis: nature acts, God presides.
+9.11 | *Avajānanti māṁ mūḍhā mānuṣīṁ tanum āśritam*: "the deluded despise me when I take a human body." It is a key verse for the theology of incarnation.
+9.13 | *Mahātmānaḥ*, "great selves," take refuge in the *daivī prakṛti*, the divine nature, contrasted with the "demonic" nature of 9.12.
+9.15 | *Ekatvena pṛthaktvena bahudhā*: worshiped "as one, as distinct, as manifold." Commentators see here the Advaita (one), Dvaita (distinct) and other modes of worship, all valid.
+@reconstruction
+At the end of each age beings enter God's nature, and at the beginning he sends them forth again {9.7}. Resting on his nature, he emits this helpless host again and again {9.8}. These acts do not bind him, for he sits as if indifferent {9.9}. Under his oversight nature produces the moving and unmoving, and the world turns {9.10}. The deluded despise him in human form, not knowing his higher being {9.11}. Their hopes, actions and knowledge are vain {9.12}. The great-souled, resorting to the divine nature, worship him single-mindedly {9.13}. They praise him, strive with firm vows, bow in devotion {9.14}, or worship him through knowledge, as one, as distinct, or as manifold {9.15}.
+@insight
+God in this section is the supreme karma-yogin. He creates and dissolves the cosmos but is not bound, "sitting as if indifferent." The theology thus grounds the ethics of Chapters 2–6: non-attached action is not merely a human technique but an imitation of the divine mode of acting.
+The verse about despising God "in human form" {9.11} addresses a real scandal. How can the supreme God appear as a charioteer? The Gītā answers that only delusion mistakes the human form for the whole. 9.15's three modes of worship (one, distinct, manifold) show the Gītā's capacity to contain the later disputes of Vedānta within itself.
+@sources
+The cosmic emission and reabsorption follows the Sāṅkhya-Purāṇic cycle (cf. 8.17–19). The divine "overseer" (*adhyakṣa*) appears in *Ṛg Veda* 10.129.7, the Creation Hymn ("he who is its overseer in the highest heaven, he surely knows, or perhaps he does not know").
+@context
+God's non-attached activity can be compared with Aristotle's unmoved mover (who moves without being moved), with Neoplatonic emanation, and with the Christian idea of creation as free, not needed. The scandal of divine humanity (9.11) has parallels in Christian debates about Christ's two natures.
+@matters
+If God acts without attachment, then non-attached action is not an inhuman ideal but participation in the deepest pattern of reality.
+@questions
+- How does God's "sitting as if indifferent" (9.9) model the karma-yoga of earlier chapters?
+- Why is God's human form a stumbling block (9.11)?
+- What do the three modes of worship in 9.15 suggest about religious diversity?
+@argument
+P | God sends forth and withdraws the worlds through nature | ref=9.7, 9.8 | term=prakṛti | text=Cosmic cycles under his oversight.
+P | His actions do not bind him | ref=9.9 | text=He sits as if indifferent.
+C | God is the supreme non-attached agent | ref=9.10 | term=karma-yoga | text=Nature acts; God presides, unbound.
+I | The deluded miss him in human form | ref=9.11 | text=Only delusion takes the human form for the whole.
+I | The great-souled worship him in many modes | ref=9.13, 9.15 | text=As one, as distinct, as manifold.
+
+# section 16-25 | God as ritual, father and goal; the limits of heaven
+lead: God is every element of sacrifice and every relation of the world; those who seek heaven through ritual return, while those who worship him alone are secured by him.
+@notes
+9.16 | *Ahaṁ kratur ahaṁ yajñaḥ*: a litany of ritual terms. *Kratu* is the Vedic rite, *svadhā* the offering to ancestors, *auṣadha* the healing herb, *ājya* clarified butter.
+9.17 | *Pitāham asya jagato mātā dhātā pitāmahaḥ*: "I am the father of this world, the mother, the establisher, the grandfather." God includes both masculine and feminine roles.
+9.18 | *Gatir bhartā prabhuḥ sākṣī nivāsaḥ śaraṇaṁ suhṛt*: "goal, supporter, lord, witness, abode, refuge, friend." Seven terms recited in many devotional settings.
+9.19 | *Amṛtaṁ caiva mṛtyuś ca sad asac cāham arjuna*: "immortality and death, being and non-being." God includes the opposites.
+9.20 | *Trai-vidyāḥ*, "knowers of the three Vedas," who drink soma and seek heaven.
+9.21 | *Kṣīṇe puṇye martya-lokaṁ viśanti*: "when merit is used up, they enter the world of mortals." Heaven is like a bank account that runs out.
+9.22 | *Yoga-kṣemaṁ vahāmy aham*: "I bring them gain and safekeeping." A promise of divine provision. It is the motto of India's Life Insurance Corporation.
+9.23 | *Avidhi-pūrvakam*: worshipers of other gods worship God "not according to the rule," that is, without knowing it.
+@reconstruction
+God is the rite, the sacrifice, the ancestral offering, the herb, the mantra, the butter, the fire and the oblation {9.16}. He is father, mother, establisher, grandfather, the object of knowledge, the purifier, Om and the Vedas {9.17}. He is goal, supporter, lord, witness, abode, refuge, friend, origin, dissolution, ground, treasure-house and seed {9.18}. He gives heat and rain, and is immortality and death, being and non-being {9.19}. Ritualists who seek heaven go there and enjoy it {9.20}, but when their merit is spent they return {9.21}. Those who worship God alone, ever yoked, he secures in gain and safety {9.22}. Even those who worship other gods with faith worship him, though not according to rule {9.23}, for he is the enjoyer of all sacrifices {9.24}. Each goes to what he worships; God's worshipers come to him {9.25}.
+@insight
+The hymn of 9.16–19 performs a theological transformation. Every element of the Vedic ritual, and every relation of the world, is identified with God. Ritual is not abolished but transfigured. Its true recipient and substance is God. The inclusion of "mother" alongside "father" and of death alongside immortality signals a God beyond human categories.
+The contrast between heaven-seekers and devotees refines the critique of 2.42–44. Ritual works, but its fruit is finite, a balance that runs out. Devotion is different, because God himself takes responsibility for the devotee's welfare {9.22}. This shifts religion from transaction to relationship.
+@sources
+The identification of God with ritual elements follows the Brāhmaṇas' and Upaniṣads' "equations" (*bandhu*) of ritual and cosmos. *Chāndogya* 5.10.5–6 describes the return from the lunar world when merit is exhausted.
+@context
+Similar litanies of divine names appear in the Psalms ("my rock, my fortress, my deliverer," Psalm 18:2), in the Islamic ninety-nine names of God, and in the Christian litanies. Martin Buber's distinction between relations of use (I–It) and of encounter (I–Thou) illuminates the move from ritual transaction to devotion.
+@matters
+The section asks whether our religious or ethical life is transaction (doing good to gain rewards) or relationship (doing good as an expression of love). Only the second, the Gītā says, does not run out.
+@questions
+- What is the effect of identifying God with every element of ritual (9.16)?
+- Why does the Gītā include "mother" and "death" in its litany of God?
+- Is the contrast between ritual transaction and devotional relationship (9.20–22) fair to ritual?
+@argument
+P | God is every element of sacrifice and every relation of the world | ref=9.16, 9.18 | term=yajña | text=Ritual and cosmos are transfigured.
+P | Merit from ritual is finite | ref=9.20, 9.21 | term=Veda | text=Heaven ends when merit is spent.
+C | Those who worship God alone are secured by him | ref=9.22 | term=yoga-kṣema | text=Devotion is relationship, not transaction.
+I | All worship ultimately reaches God | ref=9.23, 9.24 | text=He is the enjoyer of all sacrifices.
+
+# section 26-34 | A leaf, a flower: devotion open to all
+lead: God accepts the humblest offering made with love; every act can be offered to him; he is the same to all, and devotion lifts the sinner and the excluded to the highest goal.
+@notes
+9.26 | *Patraṁ puṣpaṁ phalaṁ toyam*: "a leaf, a flower, a fruit, water." These are the simplest offerings, available to the poorest. The condition is *bhakti* and a pure self.
+9.27 | *Yat karoṣi yad aśnāsi*: "whatever you do, whatever you eat…" It is the devotional form of karma-yoga: all action as offering.
+9.28 | *Saṁnyāsa-yoga-yuktātmā*: "your self yoked by the yoga of renunciation." Offering all to God is the true renunciation.
+9.29 | *Samo 'haṁ sarva-bhūteṣu*: "I am the same toward all beings." It is balanced by *ye bhajanti tu māṁ bhaktyā mayi te teṣu cāpy aham*, "those who worship me with devotion are in me, and I in them."
+9.30 | *Api cet su-durācāraḥ*: "even if one of very bad conduct" worships with undivided devotion, *sādhur eva sa mantavyaḥ*, "he should be considered good."
+9.31 | *Na me bhaktaḥ praṇaśyati*: "my devotee does not perish." *Kaunteya pratijānīhi*: "know for certain," or "declare it!" Some read it as Kṛṣṇa asking Arjuna to proclaim it.
+9.32 | See the translator's note on *pāpa-yonayaḥ*.
+9.34 | *Man-manā bhava mad-bhakto mad-yājī māṁ namaskuru*: repeated at 18.65.
+@reconstruction
+Whatever is offered with love, even a leaf, flower, fruit or water, God accepts from a pure heart {9.26}. So offer everything you do, eat, give and endure to him {9.27}. You will be freed from the bonds of action and come to him {9.28}. God is the same to all and favors no one, but those who worship him with love are in him and he in them {9.29}. Even the worst sinner who worships him single-mindedly should be considered good, for his resolve is right {9.30}. He soon becomes righteous and finds peace, and God's devotee never perishes {9.31}. All who take refuge in him, even those of low birth, women, vaiśyas and śūdras, reach the highest {9.32}. How much more the pure brāhmaṇas and royal sages! Having come into this transient, joyless world, worship God {9.33}. Fix your mind on him, be devoted, sacrifice to him and bow to him, and you will come to him {9.34}.
+@insight
+The section is the Gītā's most egalitarian, and also among its most contested. Its central claim is that devotion is decisive and that its condition is love, not wealth, learning, birth or even prior righteousness. A leaf is enough. A sinner who turns to God is good. Those excluded from Vedic learning reach the highest.
+Two tensions are worth weighing. First, God is "the same to all" yet "in" his devotees. Impartiality and special love seem to conflict. The tradition's answer is that God's love is offered equally, but only those who turn toward it receive it, as sunlight falls on all but warms only those who stand in it. Second, the inclusion of women and śūdras is framed in a hierarchical vocabulary ("how much more the brāhmaṇas…"). The verse is liberating in content and conservative in form. Honest reading must register both.
+@sources
+The offering of simple items (*pūjā*) became the template of Hindu home and temple worship. The *Bhāgavata Purāṇa* develops 9.26 into famous stories (e.g., Kṛṣṇa's friend Sudāmā offering flattened rice).
+@context
+Parallels include the widow's mite (Mark 12:41–44), in which the smallest gift given wholly is the greatest. Another is the Christian doctrine of grace for sinners, and the Pure Land Buddhist teaching that Amida saves even the wicked (Shinran: "if even a good person is saved, how much more a wicked one"). Shinran's inversion is striking beside 9.33's "how much more the brāhmaṇas."
+@matters
+The section affirms that the deepest religious and ethical life is open to everyone, whatever their resources or past, and that what counts is the love with which one acts.
+@questions
+- Why does the value of the offering not matter (9.26)? What does matter?
+- How can God be "the same to all" yet especially present in devotees (9.29)?
+- Compare 9.30–33 with Shinran's "how much more a wicked person." Which inversion is more radical?
+- How should a modern reader handle the hierarchical framing of 9.32–33?
+@argument
+P | God accepts any offering made with love | ref=9.26 | term=bhakti | text=A leaf, a flower, a fruit, water.
+P | All action can be offered to God | ref=9.27, 9.28 | text=This frees from the bonds of action.
+P | God is the same to all, yet in those who love him | ref=9.29 | text=Love is offered equally and received by those who turn.
+C | Devotion lifts the sinner and the excluded to the highest | ref=9.30, 9.32 | text=Birth and past conduct do not bar the way.
+I | Fix your mind on me, devote yourself, sacrifice and bow | ref=9.34 | text=The path summarized, to be repeated at 18.65.

@@ -1,7 +1,195 @@
-summary: The verses of this chapter are complete; its study apparatus is being added.
+summary: Arjuna asks why, if understanding is higher than action, he must do something terrible. Kṛṣṇa answers that no one can stop acting; what binds is not action but acting from desire. Action done as sacrifice, for the holding-together of the world, as God himself acts, does not bind. The chapter ends by naming the real enemy: desire.
 
-# section 1-43 | The chapter
+@overview
+Chapter 3 answers a confusion Chapter 2 created. Kṛṣṇa had praised the "yoga of understanding" over mere action {2.49}, and Arjuna reasonably asks: then why urge me to act at all {3.1}? The chapter's answer is the classic statement of *karma-yoga*.
+The argument proceeds in five steps. First, action is unavoidable: nature makes everyone act, and fake renunciation is hypocrisy {3.4–8}. Second, action can be done as *sacrifice* (*yajña*), which sustains the cosmic order rather than binding the agent {3.9–16}. Third, even the liberated person, and God himself, act for the "holding-together of the world" {3.17–24}. Fourth, the wise act like the ignorant but without attachment, knowing that "guṇas move among guṇas" {3.25–35}. Fifth, Arjuna asks what drives people to do wrong, and Kṛṣṇa names desire and anger, which can be conquered by the self that stands above the understanding {3.36–43}.
+The chapter thus moves from cosmology (the wheel of sacrifice) through ethics (example and social cohesion) to psychology (desire as the enemy within). It also contains one of the Gītā's most quoted and most contested lines: "Better one's own dharma, though imperfect, than another's dharma well performed" {3.35}.
+
+@map
+node q | 0 | Why act, if understanding is higher? | kind=center | ref=3.1, 3.2 | text=Arjuna's question exposes an apparent contradiction in Chapter 2.
+node unav | 1 | No one can stop acting | ref=3.5 | term=prakṛti | text=Nature's guṇas make every being act. Outward abstention with inner craving is hypocrisy.
+node sac | 1 | Act as sacrifice | ref=3.9, 3.14 | term=yajña | text=Action done for sacrifice does not bind; it keeps the wheel of the world turning.
+node wheel | 2 | The wheel: food, rain, sacrifice, action | ref=3.14, 3.16 | detail=1 | text=Beings come from food, food from rain, rain from sacrifice, sacrifice from action, action from brahman.
+node world | 2 | Act for the world's cohesion | ref=3.20, 3.25 | term=loka-saṅgraha | text=Even the one with nothing to gain should act, to hold the world together and set an example.
+node god | 2 | God acts without need | ref=3.22, 3.24 | term=Kṛṣṇa | text=If I stopped acting, the worlds would perish. God is the first karma-yogin.
+node gunas | 3 | Guṇas move among guṇas | kind=claim | ref=3.27, 3.28 | term=guṇa | text=The self is not the doer; seeing this frees one from attachment.
+node sva | 3 | Better one's own dharma | ref=3.35 | term=svadharma | text=One's own imperfect path is safer than another's well-performed one.
+node desire | 4 | The enemy is desire | kind=contrast | ref=3.37, 3.39 | term=kāma | text=Born of rajas, all-devouring: desire and anger cover knowledge like smoke over fire.
+node higher | 5 | The self above understanding | kind=center | ref=3.42, 3.43 | term=ātman | text=Senses, mind, understanding, then the self beyond. From there, desire can be conquered.
+edge q > unav
+edge q > sac
+edge sac > wheel | dashed
+edge sac > world
+edge unav > gunas
+edge world > god | as
+edge gunas > sva
+edge gunas > desire
+edge desire > higher | conquered by
+
+@research
+Interpreters have long divided over Chapter 3. Śaṅkara argues that karma-yoga is for those not yet ready for knowledge. It purifies the mind, but the knower, who "has nothing to do" {3.17}, renounces action. Tilak's *Gītā Rahasya* argues the reverse: 3.20–25 show that even the knower must act for *loka-saṅgraha*, and this is the Gītā's real teaching. This debate is still the key fault line in readings of the Gītā's ethics.
+Historians of religion study 3.9–16 as evidence of the Gītā's relationship to Vedic ritualism. The text keeps the cosmic logic of sacrifice but universalizes it, a move parallel to the "interiorization of sacrifice" in the Upaniṣads (studied by J. C. Heesterman and others). Recent work on 3.35 (*svadharma*) examines how the verse was used both to defend caste and, by modern reformers, to defend individual vocation. Readers interested in the psychology of 3.36–43 will find parallels in contemporary research on "ego depletion" and self-control, though the theoretical frameworks differ sharply.
+
+@questions
+- Is the knower who "has nothing to do" (3.17) obliged to act (3.20–25)? Reconstruct both Śaṅkara's and Tilak's answers.
+- What does it mean to treat ordinary work as "sacrifice"? Does the idea survive outside its ritual context?
+- Is "better one's own dharma" (3.35) a conservative principle, a liberating one, or both?
+- Kṛṣṇa locates the enemy inside the agent (3.37). How does this reframe Arjuna's original problem of fighting enemies outside?
+
+# section 1-8 | Why act at all? Action is unavoidable
+lead: Arjuna objects that Kṛṣṇa's teaching seems contradictory; Kṛṣṇa answers that no embodied being can stop acting.
+@notes
+3.1 | *Ghora karma*, "terrible action": Arjuna means the killing in battle. His objection is fair. 2.49 had said action alone is "far inferior" to understanding.
+3.2 | *Vyāmiśra*, "mixed, seemingly conflicting" words: Arjuna asks for a single clear answer, the same word (*niścitam*, "decisively") as in 2.7.
+3.3 | The "twofold foundation" (*dvividhā niṣṭhā*): knowledge for Sāṅkhyas, action for yogins. Śaṅkara takes these as two different paths for two kinds of people. Others take them as two stages of one path.
+3.4 | *Naiṣkarmya*, "freedom from action," the renunciant's goal, is reached *not* by abstaining. A paradox the chapter will unpack.
+3.5 | A key premise: "no one can remain even for a moment without acting." Breathing, digesting and thinking are action. Nature acts through us.
+3.6 | *Mithyācāra*, "hypocrite," literally "one of false conduct": the ascetic who restrains the body while the mind feasts on objects.
+3.8 | *Niyata karma*, "prescribed" or "regulated" action: one's appointed duty. Even sustaining the body requires action.
 @reconstruction
-Study materials for this section are in preparation.
+Arjuna's objection is logical. If understanding is superior, why perform this terrible act? Kṛṣṇa first grants that there are two traditional paths, knowledge and action {3.3}. Then he argues that the choice is not between acting and not acting. Freedom from action cannot be won by abstaining {3.4}. Every being acts constantly, driven by nature {3.5}. One who stops the body while the mind keeps desiring is a hypocrite {3.6}. So the only real question is *how* to act. One who controls the senses with the mind and acts without attachment excels {3.7}. Therefore, perform your prescribed action {3.8}.
+@insight
+The argument rests on an empirical premise, that action is unavoidable, and turns it against the renunciant ideal. If even sitting still is action, then "not acting" is not an available option, and the question must be about the *spirit* of action. This is a decisive move in the history of Indian ethics, because it denies the monastic withdrawal its claim to be the only route to freedom.
+The hypocrite of 3.6 is a sharp image. Outward abstention can mask inward craving, and that is worse than honest engagement. The Gītā thus relocates the moral question from behavior to motivation.
+@sources
+The dilemma of action and liberation is central to the *Mokṣadharma* section of the Mahābhārata's twelfth book and to the debates between renunciants and householders (e.g., Janaka's dialogue with the nun Sulabhā, *Mahābhārata* 12.308). The *Īśā Upaniṣad* 2 (keep doing works; action does not cling) is the closest Upaniṣadic precedent.
+@context
+The debate between contemplative and active lives runs through Western thought: Aristotle's two lives (theoretical and political) in *Nicomachean Ethics* X, Martha and Mary in Luke 10, and medieval debates on the *vita activa* and *vita contemplativa*. Hannah Arendt's *The Human Condition* revived it. The Gītā's distinctive claim is that the two need not be chosen between.
+@matters
+Many people imagine that peace requires escape: from work, from responsibility, from the world. The Gītā argues that escape is impossible and that peace must be found within action. That is a demanding but realistic teaching.
+@questions
+- Is Kṛṣṇa's premise in 3.5 true? Are there forms of "non-action" that are genuinely possible?
+- Who is the "hypocrite" of 3.6 in modern life?
+- If both knowledge and action lead to the goal (3.3), why does Kṛṣṇa insist that Arjuna act?
 @argument
-C | Study materials in preparation
+P | No one can stop acting even for a moment | ref=3.5 | term=prakṛti | text=Nature drives all beings to act.
+P | Outward abstention with inner craving is hypocrisy | ref=3.6 | text=Renunciation of behavior is not renunciation of desire.
+C | Perform your prescribed action, without attachment | ref=3.7, 3.8 | term=karma-yoga | text=The question is not whether to act but how.
+I | Freedom from action comes within action | ref=3.4 | term=naiṣkarmya | text=The renunciant's goal is reached by the karma-yogin.
+
+# section 9-16 | Action as sacrifice: the wheel of the world
+lead: Action done as sacrifice does not bind; it participates in the reciprocal wheel that sustains gods, humans and nature.
+@notes
+3.9 | *Yajñārtha*, "for the sake of sacrifice." Some commentators (following *Taittirīya Saṁhitā* 1.7.4, "sacrifice is Viṣṇu") read it as "for the sake of Viṣṇu," i.e., of God.
+3.10 | Prajāpati, the creator in the Vedic Brāhmaṇas, creates beings *together with* sacrifice. The *kāmadhuk* is the wish-fulfilling cow of myth.
+3.11 | *Parasparaṁ bhāvayantaḥ*, "nourishing one another": an ecology of reciprocity between gods and humans.
+3.12 | "Simply a thief" (*stena eva saḥ*): one who takes without giving back breaks the wheel.
+3.13 | Eating "what remains from the sacrifice" (*yajña-śiṣṭa*): in Hindu practice, food is offered before being eaten (*prasāda*). Cooking only for oneself is "eating evil."
+3.14 | The cycle of 3.14–15: beings, food, rain, sacrifice, action, brahman (the Veda), the imperishable. It is a cosmic food chain.
+3.15 | *Brahma* here most likely means the Veda (sacred word), which prescribes action. Some take it as the supreme brahman.
+3.16 | "Does not keep turning the wheel" (*pravartitaṁ cakram*): the image of a wheel set in motion, also Buddhism's "wheel of dharma."
+@reconstruction
+The world is bound by action, except action done for sacrifice {3.9}. At creation, the Lord of creatures made beings together with sacrifice and told them that through it they would prosper {3.10}. Gods and humans nourish one another {3.11}. To take nature's gifts without giving back is theft {3.12}. Those who eat after offering are freed from fault, and those who cook only for themselves eat evil {3.13}. A great wheel links beings, food, rain, sacrifice, action and the Veda, which is rooted in the imperishable {3.14–15}. Whoever refuses to turn this wheel, living only for the senses, lives in vain {3.16}.
+@insight
+The passage turns an ancient ritual cosmology into an ethic of reciprocity. Its core claim is that the self-enclosed agent, who takes and does not give, both violates the order of the world and binds itself. Action done *as* offering, as participation in a larger cycle, has a different structure. It is not appropriation but circulation.
+Philosophically the passage relocates the "fruit" of action. In sacrifice the fruit is not kept but passed on. The agent eats only "what remains." This gives karma-yoga a concrete form. It is not an abstract renunciation of results but a practice of offering them back to the whole.
+@sources
+The creation-with-sacrifice motif is Vedic: *Ṛg Veda* 10.90 (the Puruṣa hymn) describes the world created from a primordial sacrifice. Prajāpati's creative sacrifice dominates the *Śatapatha Brāhmaṇa*. The chain of rain and food recalls *Manu* 3.76 ("the oblation duly cast into fire reaches the sun; from the sun comes rain; from rain, food; from food, creatures").
+@context
+Reciprocal gift as the basis of social and cosmic order was famously theorized by Marcel Mauss (*The Gift*, 1925) and reexamined by Lewis Hyde. Contemporary environmental ethics, for instance Robin Wall Kimmerer's *Braiding Sweetgrass*, also proposes that taking without giving back is a kind of theft from the earth. The Gītā's wheel offers an ancient articulation of an ethics of reciprocity with nature.
+@matters
+The passage asks us to see our work and consumption as part of a cycle that sustains others, and to ask whether we are givers or thieves in it.
+@questions
+- Is the idea of "sacrifice" still meaningful in a secular context? What would count as sacrifice in your work?
+- What is the ethical difference between "eating what remains from the sacrifice" and "cooking only for oneself"?
+- Compare 3.12's "thief" with ecological ideas of reciprocity. Is this anthropocentric, cosmocentric, or neither?
+@argument
+P | The world is bound by action, except action for sacrifice | ref=3.9 | term=yajña | text=Sacrificial action has a different structure: it offers rather than appropriates.
+P | Gods, humans and nature sustain one another | ref=3.11, 3.14 | text=A wheel of reciprocity: food, rain, sacrifice, action.
+C | Take part in the wheel; do not take without giving | ref=3.12, 3.16 | text=One who enjoys gifts without offering is a thief and lives in vain.
+I | Eating "what remains" frees from fault | ref=3.13 | text=The practice of offering before enjoying makes action non-binding.
+
+# section 17-24 | The wise and God act for the holding-together of the world
+lead: Even one who has nothing left to gain should act, for the world's sake, as Janaka did and as God himself does.
+@notes
+3.17 | The self-content person "has nothing that must be done" (*kāryaṁ na vidyate*). This verse is Śaṅkara's key text for the knower's freedom from duty.
+3.18 | Such a person "depends on no being for any purpose." Complete independence, yet in the next verse Kṛṣṇa says "therefore act."
+3.19 | *Tasmāt*, "therefore": the link between 3.17–18 and the command to act is disputed. Does it follow from the knower's freedom, or address Arjuna, who is not yet such a knower?
+3.20 | Janaka, the philosopher-king of the *Bṛhadāraṇyaka Upaniṣad*, is the model of the royal sage. *Loka-saṅgraha*, "holding-together of the world," is introduced.
+3.21 | The principle of exemplarity: "whatever the best person does, others do too." A leader's conduct sets the standard.
+3.22 | God's own example: "there is nothing whatever to be done… yet I continue in action." Divine action is wholly free of need.
+3.24 | *Saṅkara*, "confusion, mixing," the same word Arjuna used for the social disaster of war (1.41). Kṛṣṇa turns it around: *not* acting would cause confusion.
+@reconstruction
+One who delights in the self alone has nothing that must be done and depends on no one {3.17–18}. Yet Kṛṣṇa says, "therefore act without attachment" {3.19}. Janaka and other royal sages reached perfection through action, and they acted for the holding-together of the world {3.20}. People imitate the best, so their conduct sets the standard {3.21}. God himself has nothing to gain, yet he acts {3.22}. If he did not, people would follow his example. The worlds would perish and he would cause confusion {3.23–24}.
+@insight
+This is the passage on which activist readings of the Gītā rest. Its argument has two parts. One is *exemplary*: the wise must act because others follow them. The other is *cosmic*: God's ceaseless action sustains the world, and the sage participates in that action. Both make action independent of personal need. The knower does not act *for* anything, yet acts.
+There is a genuine tension with 3.17–18, which Śaṅkara exploits. If the knower has nothing to do, then the command to act seems to apply only to the unenlightened. Tilak replies that 3.20–25 explicitly extend the duty to the wise "for the world's sake." Both readings fit parts of the text. The question is whether the Gītā's highest ideal is a renouncer who acts *despite* freedom, or one who acts *from* it.
+@sources
+Janaka appears as a king-sage in *Bṛhadāraṇyaka Upaniṣad* 4.1–4.4 and in many Mahābhārata dialogues. The theme of the king as exemplar is central to Indian political thought (e.g., *Arthaśāstra* 1.19: "if the king is energetic, his subjects will be energetic").
+@context
+Plato's *Republic* (VII) poses the same problem. Why should the philosopher who has seen the Good return to the cave to govern? Plato's answer (duty to the city that formed him) and the Gītā's (loka-saṅgraha, divine imitation) can be fruitfully compared. In Mahāyāna Buddhism, the bodhisattva who delays nirvāṇa to save others offers another parallel.
+@matters
+The passage addresses anyone who has "made it," materially or spiritually, and asks what they owe to others. Its answer: everything, without needing anything in return.
+@questions
+- Does the knower of 3.17 have duties? Argue both sides.
+- How strong is the argument from example (3.21)? Can a private person be a "best person" whom others follow?
+- Compare the return to the cave in Plato with 3.20–25. What motivates each return?
+@argument
+P | The self-content have nothing they must do | ref=3.17, 3.18 | text=Complete freedom from need.
+P | Others follow the example of the best | ref=3.21 | text=Leaders' conduct sets the standard.
+P | God acts without any need, to sustain the world | ref=3.22, 3.24 | term=Kṛṣṇa | text=Divine action is free and ceaseless.
+C | The wise should act, for the holding-together of the world | ref=3.20, 3.25 | term=loka-saṅgraha | text=Action without need, for others.
+I | Withdrawal would cause confusion | ref=3.24 | term=varṇa-saṅkara | text=Arjuna's fear of "confusion" is reversed: inaction, not action, brings chaos.
+
+# section 25-35 | The wise and the unwise; the guṇas act; one's own dharma
+lead: The wise act outwardly like the ignorant but inwardly free, knowing that nature acts and the self is not the doer; one should follow one's own dharma.
+@notes
+3.25 | The wise and unwise do the same deeds. The difference is entirely in attachment. Outward behavior does not reveal inner freedom.
+3.26 | *Buddhi-bheda*, "splitting the understanding": the wise should not confuse the ignorant by preaching inaction. This is a principle of pedagogical tact.
+3.27 | Programmatic Sāṅkhya: "actions are performed in every case by the guṇas of nature." The deluded self thinks "I am the doer" (*kartāham*). Ahaṅkāra is the false claim of agency.
+3.28 | *Guṇā guṇeṣu vartante*, "guṇas move among guṇas": the senses (products of the guṇas) engage with objects (also products of the guṇas). The self only witnesses.
+3.30 | *Mayi sarvāṇi karmāṇi saṁnyasya*: "surrendering all actions to me." It is the first explicit instruction of devotional action: "fight, with your fever gone."
+3.33 | "What will restraint accomplish?" A striking concession to nature. Commentators balance it with 3.34: one should not *come under* the power of attraction and aversion.
+3.35 | *Śreyān sva-dharmo viguṇaḥ*: "better one's own dharma, though without merit (imperfect)." Repeated almost exactly at 18.47.
+@reconstruction
+The wise act like the ignorant, but without attachment, for the world's sake {3.25}. They should not unsettle those attached to action; they should model good action {3.26}. All action is done by nature's guṇas, and only the deluded self thinks "I am the doer" {3.27}. One who sees that guṇas act on guṇas is not attached {3.28}. So surrender all actions to me and fight, free of fever {3.30}. Those who follow this teaching are freed {3.31}. Nature is powerful, and even the wise act according to it {3.33}. But one should not fall under the power of attraction and aversion {3.34}. Better to follow one's own dharma imperfectly than another's well {3.35}.
+@insight
+Here the Gītā's metaphysics of agency becomes ethics. If nature acts and the self only witnesses, then the feeling "I did this, so the result is mine" is an illusion, and attachment collapses with it. The move is subtle. Kṛṣṇa does not say actions do not happen or do not matter. He says the *ownership* of action is misattributed.
+Two tensions deserve attention. First, if nature acts and "restraint accomplishes nothing" {3.33}, how can one be responsible for anything? The text's implicit answer is that one can choose whether to *identify* with nature's movements. Freedom lies in that identification, not in the movements themselves. Second, 3.35's *svadharma* principle can be read as fatalistic conservatism ("stay in your place") or as a principle of authenticity ("be true to your nature"). Both readings have been dominant in different eras.
+@sources
+The Sāṅkhya theory of the guṇas as sole agents appears in the *Mokṣadharma* and later in *Sāṅkhya-kārikā* 19–20 (the puruṣa is a witness, "non-agent"). *Svadharma* is a Dharmaśāstra principle (*Manu* 10.97 is nearly identical to 3.35).
+@context
+The thesis that "nature acts, the self witnesses" invites comparison with Spinoza (the mind as idea of the body, freedom as understanding necessity) and with contemporary debates on free will and the "illusion of conscious will" (Daniel Wegner). The authenticity reading of 3.35 resembles Kierkegaard's or Nietzsche's "become who you are."
+@matters
+Seeing that much of what we do arises from conditions we did not choose can loosen guilt, pride and anxiety, without dissolving responsibility for how we respond.
+@questions
+- If the guṇas act, who is responsible? Reconstruct the Gītā's implicit answer.
+- Why should the wise not "unsettle the understanding" of the ignorant (3.26)? Is this paternalism or tact?
+- Read 3.35 as a conservative principle and then as an existentialist one. Which reading does the text support?
+@argument
+P | Nature's guṇas perform all actions | ref=3.27 | term=guṇa | text=The self is a witness, not the doer.
+P | The sense "I am the doer" is delusion | ref=3.27 | term=ahaṅkāra | text=I-making appropriates nature's acts.
+C | Seeing that guṇas move among guṇas, the wise act unattached | ref=3.28, 3.30 | text=Surrender all actions to God and fight without fever.
+I | Follow your own dharma, though imperfect | ref=3.35 | term=svadharma | text=Act from your own nature rather than imitating another's path.
+I | The wise model action for others | ref=3.26 | text=They should not unsettle the understanding of those who act.
+
+# section 36-43 | Desire, the enemy within
+lead: Arjuna asks what drives people to do wrong against their will; Kṛṣṇa names desire and anger and teaches how to conquer them.
+@notes
+3.36 | A classic question of moral psychology: weakness of will (Greek *akrasia*). Why do people do wrong "even unwillingly, as if forced"?
+3.37 | *Kāma eṣa krodha eṣa*: "it is desire, it is anger." They are one force in two forms, born of rajas. *Mahāśana*, "all-devouring," literally "great-eater."
+3.38 | Three images in descending degrees of obscuration: fire covered by smoke (easily cleared), a mirror covered by dust (needs effort), an embryo covered by the womb (needs time).
+3.40 | Desire's "seat" (*adhiṣṭhāna*) is the senses, mind and understanding, so the enemy occupies all the faculties.
+3.42 | The hierarchy echoes *Kaṭha Upaniṣad* 3.10: objects, then senses, mind, understanding, the great self, the unmanifest, and finally the person. The Gītā's "he" (*saḥ*) beyond understanding is the self.
+3.43 | *Ātmānam ātmanā*: "steadying the self by the self." The doubled reflexive anticipates 6.5.
+@reconstruction
+Arjuna asks why people do wrong as if compelled {3.36}. Kṛṣṇa answers that desire, which becomes anger when frustrated, is the enemy {3.37}. It covers knowledge as smoke covers fire, dust a mirror, or the womb an embryo {3.38}. It is insatiable {3.39}. It operates through the senses, mind and understanding {3.40}. So control the senses first and kill this destroyer of knowledge {3.41}. There is a hierarchy: senses, mind, understanding, and beyond them the self {3.42}. Knowing the self, steady yourself and conquer desire {3.43}.
+@insight
+The section completes the chapter's arc. Arjuna began by asking whether to fight others; he ends by learning that the real enemy is within. The Gītā does not deny the outer battle, but it subordinates it to the inner one. This explains why Gandhi could read the whole text as allegory.
+The account of weakness of will differs instructively from Socrates' (no one does wrong willingly; wrongdoing is ignorance). For the Gītā, knowledge is real but can be *covered*. One can know the good and be carried away. The remedy is not more information but a reordering of the faculties under the self. That is closer to Aristotle's view of *akrasia* than to Socrates'.
+@sources
+The ordered hierarchy of faculties is from *Kaṭha* 3.10–11 and the chariot allegory (*Kaṭha* 3.3–9). Desire as an insatiable fire appears in *Manu* 2.94 ("desire is never quenched by enjoying objects; it only grows, like fire fed with ghee"), a line that is also in the Mahābhārata.
+@context
+Comparisons include Plato's tripartite soul (reason ruling spirit and appetite, *Republic* IV), Aristotle on *akrasia* (*Nicomachean Ethics* VII), Paul's "the good that I would I do not" (Romans 7:19), and the Buddhist second noble truth that craving (*taṇhā*) is the origin of suffering. Contemporary psychology of self-regulation and addiction gives the question new urgency.
+@matters
+Almost everyone knows the experience of acting against their own better judgment. The Gītā offers both a diagnosis (desire covering knowledge) and a discipline (rule the senses, steady the self).
+@questions
+- Compare 3.36–43 with Socrates' and Aristotle's accounts of weakness of will. Which is closest?
+- What do the three images of 3.38 suggest about degrees of moral blindness?
+- How does locating the enemy within change the meaning of Arjuna's war?
+@argument
+P | People do wrong as if compelled | ref=3.36 | text=The problem of weakness of will.
+P | Desire and anger, born of rajas, cover knowledge | ref=3.37, 3.38 | term=kāma | text=The enemy hides knowledge like smoke hides fire.
+P | The self is higher than the understanding | ref=3.42 | term=ātman | text=There is a standpoint above desire's seat.
+C | Steady the self by the self and conquer desire | ref=3.43 | text=The decisive battle is within.
+I | Arjuna's outer war is reframed by the inner one | text=The struggle against desire is the condition of right action.

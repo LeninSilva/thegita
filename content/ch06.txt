@@ -1,7 +1,171 @@
-summary: The verses of this chapter are complete; its study apparatus is being added.
+summary: Kṛṣṇa teaches meditation: the self as its own friend or enemy, the seat, posture and moderation of the meditator, the mind stilled like a lamp in a windless place, and the vision of the self in all beings. Arjuna objects that the mind is as hard to hold as the wind; Kṛṣṇa answers with practice and dispassion, and promises that no effort on this path is ever lost.
 
-# section 1-47 | The chapter
+@overview
+Chapter 6, *dhyāna-yoga*, completes the first hexad of the Gītā. Having established that one must act, and act without attachment, Kṛṣṇa now teaches the inner discipline that makes such action possible: meditation. The chapter is the Gītā's most technical yoga manual, but it is framed by two non-technical ideas. At the beginning, the true renunciant is one who does what should be done {6.1}. At the end, the highest yogin is the devotee {6.47}.
+The chapter's movement runs as follows. First comes self-mastery: "lift up the self by the self," for the self is its own friend and its own enemy {6.5–6}. Then comes the practice itself: a clean place, a firm seat, an erect body, moderate food and sleep, and a mind made one-pointed {6.10–17}. Then the fruit: the mind steady as a lamp in a windless place {6.19}, yoga as "unyoking from union with sorrow" {6.23}, and the vision of the self in all beings and all beings in the self {6.29–32}.
+Arjuna then raises the most honest objection in the Gītā: the mind is restless, "as hard to restrain as the wind" {6.34}. Kṛṣṇa does not deny it. He offers practice and dispassion {6.35} and, to the worried question of what becomes of one who tries and fails {6.37–39}, a reassurance: "no one who does good, my friend, comes to a bad end" {6.40}.
+
+@map
+node self | 0 | Lift the self by the self | kind=center | ref=6.5, 6.6 | term=ātman | text=The self is its own friend and its own enemy.
+node climb | 1 | Action, then calm | ref=6.3 | detail=1 | text=For the beginner, action is the means; for the one who has climbed to yoga, calm is the means.
+node seat | 1 | The practice: seat, posture, gaze | ref=6.11, 6.13 | term=dhyāna | text=A clean place, a firm seat, body erect, gaze steady, mind on God.
+node moder | 2 | Moderation in all things | ref=6.16, 6.17 | text=Neither too much nor too little food, sleep, effort.
+node lamp | 2 | A lamp in a windless place | kind=claim | ref=6.19 | text=The image of the steadied mind.
+node unyoke | 3 | Yoga: unyoking from sorrow | ref=6.23 | term=yoga | text=The definition that inverts the word: yoga as disunion from suffering.
+node all | 3 | The self in all, all in the self | ref=6.29, 6.30 | text=Meditation culminates in a universal vision, and in God's presence everywhere.
+node golden | 4 | Others' pain as one's own | ref=6.32 | term=ātmaupamya | text=The golden rule of the Gītā.
+node wind | 4 | "The mind is like the wind" | kind=contrast | ref=6.34 | term=manas | text=Arjuna's honest objection.
+node prac | 5 | Practice and dispassion | ref=6.35 | term=abhyāsa | text=The mind can be held.
+node nolose | 5 | No good effort is lost | kind=center | ref=6.40, 6.45 | text=The one who falls from yoga continues in another life.
+edge self > climb | dashed
+edge self > seat
+edge seat > moder
+edge moder > lamp
+edge lamp > unyoke
+edge unyoke > all
+edge all > golden
+edge lamp > wind | but
+edge wind > prac
+edge prac > nolose
+
+@research
+Historians of yoga treat Chapter 6 as one of the earliest systematic descriptions of seated meditation in Sanskrit, comparable to *Śvetāśvatara Upaniṣad* 2.8–15 and earlier than (or contemporary with) the *Yoga-sūtra*. The relationship between the Gītā's yoga and early Buddhist *jhāna* practice is debated (Johannes Bronkhorst, *The Two Traditions of Meditation in Ancient India*, 1986). The Gītā's emphasis on moderation {6.16–17} resembles the Buddha's "middle way" between indulgence and austerity.
+Contemporary contemplative science has taken interest in passages like 6.19 (one-pointedness) and 6.23 (yoga as freedom from suffering), sometimes uncritically. Scholars caution against reading modern mindfulness back into the Gītā, whose meditation is explicitly theistic ("with thought on me," 6.14) and soteriological. The teaching on the "one fallen from yoga" {6.37–45} is also discussed as an early Indian theory of moral and spiritual progress across lifetimes, with parallels in Buddhist accounts of the bodhisattva's long path.
+
+@questions
+- What does it mean to be one's own friend or enemy (6.5–6)? Give a concrete example.
+- Is the moderation of 6.16–17 a moral teaching or a practical one?
+- Arjuna says the mind is as hard to hold as the wind. Is Kṛṣṇa's answer (practice and dispassion) adequate?
+- How does the promise of 6.40 ("no one who does good comes to a bad end") function in the life of a practitioner?
+
+# section 1-9 | The true renunciant and the self as friend
+lead: The renunciant is one who does what should be done; one must lift oneself up by oneself, for the self is its own friend and enemy.
+@notes
+6.1 | *Na niragnir na cākriyaḥ*: not one who has abandoned the sacred fires or rites. The formal marks of the saṁnyāsin (who gives up the ritual fires) are explicitly declared insufficient.
+6.2 | *Saṅkalpa*, "intention" or "mental projection": the mind's willful scheming about outcomes. Renouncing it is the essence of both renunciation and yoga.
+6.3 | *Ārurukṣu* and *yogārūḍha*: "one wishing to climb" and "one who has climbed" to yoga. Action is the means for the first, calm (*śama*) for the second. Śaṅkara uses this verse to argue for monastic renunciation at the advanced stage.
+6.5 | *Uddhared ātmanātmānaṁ*: "lift up the self by the self." The word *ātman* here works on two levels: the lower, empirical self and the higher self. The verse is a cornerstone of Hindu ethics of self-effort.
+6.6 | The self conquered by the self is a friend; unconquered, it is an enemy. Compare Plato's "victory over oneself" (*Laws* 626e).
+6.8 | *Sama-loṣṭāśma-kāñcanaḥ*: "to whom a clod, a stone, and gold are the same," a formula repeated at 14.24.
+6.9 | A list of seven kinds of people, including the hateful, all regarded with an equal mind.
 @reconstruction
-Study materials for this section are in preparation.
+The true renunciant and yogin is the person who does the work that should be done without depending on its fruit, not the one who merely abandons rituals {6.1}. Renunciation and yoga are the same, since both mean giving up the mind's self-willed intentions {6.2}. Action is the way up, and calm is the way once one has arrived {6.3}. One has arrived when attached neither to objects nor to deeds {6.4}. One must raise oneself by one's own effort, for the self is its own friend and its own enemy {6.5–6}. The self-conquered remain composed in every condition {6.7}. They see a clod, a stone and gold as the same {6.8}, and regard friend and foe, saint and sinner, with an equal mind {6.9}.
+@insight
+The section's center of gravity is 6.5–6: self-responsibility. Neither fate nor others are finally in charge of one's inner life. The self can rescue or ruin itself. This is a striking emphasis on agency in a text that elsewhere says the guṇas do everything {3.27}. The two are reconciled by distinguishing levels. Nature acts, but the self chooses its identification and orientation.
+The redefinition of renunciation {6.1–2} continues Chapter 5's project. Renunciation is not giving up rituals or work but giving up *saṅkalpa*, the ego's insistent projecting of what must happen. That is subtler and harder than giving up possessions.
+@sources
+The two-level self appears in *Kaṭha* 3.1 (two "drinkers of truth," the lower and higher self) and in *Muṇḍaka* 3.1.1 (two birds on one tree, one eating, one watching). Self-effort (*puruṣakāra*) is a major theme in the epic's debates with fate (*daiva*).
+@context
+The idea that one can be one's own friend or enemy appears in Aristotle (*Nicomachean Ethics* IX.4: the good person is a friend to himself), in Seneca ("What progress have I made? I have begun to be a friend to myself," *Letters* 6), and in modern self-compassion research (Kristin Neff).
+@matters
+The section places the possibility of transformation in our own hands, without self-hatred: the self is to be befriended and raised, not punished.
+@questions
+- How can the self be both the one who lifts and the one who is lifted (6.5)?
+- Is "a clod, a stone and gold are the same" (6.8) wise or inhuman?
+- What is *saṅkalpa* (6.2), and why is renouncing it the essence of both renunciation and yoga?
 @argument
-C | Study materials in preparation
+P | The true renunciant does what should be done without depending on its fruit | ref=6.1 | term=saṁnyāsa | text=Not the one who merely abandons rites.
+P | Renunciation and yoga both mean giving up self-willed intention | ref=6.2 | text=The core is inner.
+C | Lift up the self by the self | ref=6.5, 6.6 | term=ātman | text=The self is its own friend and enemy.
+I | The self-conquered are equal-minded toward all | ref=6.8, 6.9 | term=samatva | text=Gold and stone, friend and foe alike.
+
+# section 10-23 | The practice of meditation
+lead: The yogin's seat, posture and moderation lead to the stilled mind, steady as a lamp in a windless place, and to the yoga that is unyoking from sorrow.
+@notes
+6.11 | *Śuci deśa*, a clean place; *sthira āsana*, a firm seat; kuśa grass, deerskin and cloth in layers: the traditional meditation seat.
+6.13 | *Nāsikāgram*, "the tip of the nose": a half-closed, downward gaze. Commentators note that this is not literally staring at the nose but resting the gaze.
+6.14 | *Brahmacārī-vrata*: the vow of celibacy, here for the period of practice. *Mac-citta, mat-para*: "thought on me, intent on me." The meditation is devotional.
+6.16 | Moderation in food, sleep and wakefulness. The Gītā rejects extreme fasting and sleep deprivation.
+6.17 | *Yuktāhāra-vihārasya*: one whose eating and recreation are "yoked," i.e., measured.
+6.19 | *Yathā dīpo nivāta-stho neṅgate*: "a lamp in a windless place does not flicker." One of the Gītā's best-known images.
+6.20 | *Paśyann ātmanātmānam ātmani tuṣyati*: "seeing the self by the self, one is content in the self." The triple *ātman* marks self-reflexive realization.
+6.21 | *Buddhi-grāhyam atīndriyam*: happiness "grasped by the understanding and beyond the senses." Spiritual joy is cognitive, not sensory.
+6.23 | *Duḥkha-saṁyoga-viyogaṁ yoga-saṁjñitam*: the Gītā's wordplay. *Yoga* is defined as *viyoga*, "unyoking" from union (*saṁyoga*) with sorrow.
+@reconstruction
+The yogin should practice in solitude, with mind and body controlled {6.10}. He sits on a firm seat in a clean place {6.11–12}, holds body, head and neck erect, lets the gaze rest, and turns his thought to God {6.13–14}. Practiced constantly, this brings peace in God {6.15}. Yoga is not for those who eat or sleep too much or too little {6.16}. It is for the moderate in food, recreation, effort and sleep {6.17}. When the controlled mind rests in the self, free of craving, one is yoked {6.18}. It is like a lamp in a windless place {6.19}. Then the mind rests, and one sees and enjoys the self {6.20}. One knows a happiness beyond the senses and does not waver from truth {6.21}. No gain seems greater, and no sorrow shakes it {6.22}. This is yoga: unyoking from sorrow. It is to be practiced resolutely and without discouragement {6.23}.
+@insight
+The passage is notable for its realism and moderation. It does not demand heroic austerities. It warns against them {6.16}. The yogin is not a fakir but a disciplined person with regular habits. The aim is not trance as such but a stable mind and a joy that does not depend on the senses.
+The definition of yoga in 6.23 is a philosophical pun with a serious point. Ordinary life is a "yoking" to sorrow through attachment. Yoga is the undoing of that yoke. The positive "union" sense of yoga (with God, with the self) and the negative "release" sense (from sorrow) are revealed as two aspects of one movement.
+@sources
+The closest parallel is *Śvetāśvatara Upaniṣad* 2.8–15, which describes the meditator's posture, place and breath. The lamp image recurs in later yoga and Buddhist literature (e.g., commentaries on the *Yoga-sūtra*). The *Kaṭha* (6.11) defines yoga as "the steady holding of the senses."
+@context
+Comparisons include the Buddhist *jhānas* (meditative absorptions), the Desert Fathers' instructions on stillness (*hesychia*), Ignatius of Loyola's *Spiritual Exercises* with their attention to posture and place, and modern contemplative research on attention regulation.
+@matters
+The passage offers a simple, sane discipline: a quiet place, an upright body, a moderate life, a steady attention. It makes the extraordinary (a mind like a windless flame) depend on the ordinary.
+@questions
+- Why does the Gītā insist on moderation (6.16–17) rather than austerity?
+- What makes the lamp in a windless place (6.19) such a powerful image? What does the "wind" represent?
+- Explain the wordplay of 6.23. What does it reveal about the meaning of yoga?
+@argument
+P | A steady seat, posture and gaze discipline the body | ref=6.11, 6.13 | term=dhyāna | text=The external conditions of practice.
+P | Moderation in food, sleep and effort is essential | ref=6.16, 6.17 | text=Extremes defeat yoga.
+C | The controlled mind is like a lamp in a windless place | ref=6.19 | text=Steady, it rests in the self.
+I | It knows a happiness beyond the senses | ref=6.21, 6.22 | text=No gain is greater; no sorrow shakes it.
+I | Yoga is unyoking from sorrow | ref=6.23 | term=yoga | text=Union with the highest is release from suffering.
+
+# section 24-32 | The self in all beings
+lead: Gradually stilling the mind, the yogin comes to see the self in all beings and all beings in the self, and God everywhere; the highest yogin feels others' pleasure and pain as their own.
+@notes
+6.24 | *Saṅkalpa-prabhavān kāmān*: "desires born of intention." Desire arises from the mind's projections.
+6.25 | *Śanaiḥ śanaiḥ*, "little by little": the gradualness of practice. *Na kiñcid api cintayet*: "one should think of nothing at all."
+6.26 | Practical advice for wandering attention: whenever the mind strays, bring it back. Every meditator will recognize this.
+6.27 | *Brahma-bhūta*, "having become brahman," as in 5.24.
+6.29 | *Sarva-bhūta-stham ātmānaṁ sarva-bhūtāni cātmani*: the vision of *Īśā* 6, here as the fruit of meditation.
+6.30 | *Tasyāhaṁ na praṇaśyāmi sa ca me na praṇaśyati*: "I am not lost to that one, and that one is not lost to me." A tender, personal verse in the middle of a technical chapter.
+6.31 | *Sarvathā vartamāno 'pi*: "however he lives." The vision matters more than outward lifestyle.
+6.32 | *Ātmaupamya*: see the translator's note. The highest yogin feels the pleasures and pains of others as his own.
+@reconstruction
+Abandoning desires born of intention and restraining the senses with the mind {6.24}, the yogin slowly comes to rest. With understanding held firm, he settles the mind in the self and thinks of nothing else {6.25}. When the mind wanders, he brings it back {6.26}. Supreme happiness comes to the calm, passionless yogin who has become brahman {6.27–28}. Then he sees the self in all beings and all beings in the self {6.29}. Whoever sees God everywhere and everything in God is never lost to God {6.30}. One who worships God in all beings abides in God, however he lives {6.31}. The highest yogin, taking himself as the measure, sees the same in all, pleasure or pain {6.32}.
+@insight
+This section answers a common objection to meditation: that it turns the meditator inward and away from others. Here the inward movement culminates in an outward vision. The self found in meditation is found in all beings. From that vision follows an ethic: others' joys and sorrows become one's own {6.32}.
+The passage also moves from impersonal to personal language. The self in all {6.29} becomes "me" in all {6.30}, and the vision becomes a relationship of mutual presence ("I am not lost to that one"). This anticipates the theistic turn of Chapters 7–12.
+@sources
+6.29 closely follows *Īśā Upaniṣad* 6. The ideal of feeling others' suffering as one's own is shared with Buddhist *karuṇā* (compassion) and the Jain principle that all beings value life (*Ācārāṅga Sūtra* 1.2.3).
+@context
+The "golden rule" in its many forms (Confucius' *shu*, the Torah's "love your neighbor as yourself," Kant's universalizability) can be compared with *ātmaupamya*. The Gītā grounds it not in reciprocity or reason but in metaphysical identity. Arthur Schopenhauer, deeply influenced by Indian thought, made a similar move: compassion rests on seeing through the illusion of separate selves.
+@matters
+If the meditator's deepest discovery is that others' pain is one's own, then contemplation and compassion are not opposites but one movement.
+@questions
+- How does the vision of 6.29 change the ethics of 6.32?
+- What does 6.30 add to 6.29? Why the shift from "self" to "me"?
+- Is the Gītā's golden rule (6.32) stronger or weaker than the reciprocity version?
+@argument
+P | The mind is stilled little by little | ref=6.25, 6.26 | term=abhyāsa | text=Patient return of attention.
+P | In stillness the self is seen | ref=6.27, 6.28 | term=ātman | text=One becomes brahman and knows its happiness.
+C | The yogin sees the self in all and all in the self | ref=6.29, 6.30 | text=And sees God everywhere.
+I | Others' pleasure and pain become one's own | ref=6.32 | term=ātmaupamya | text=Contemplation culminates in compassion.
+I | Outward lifestyle matters less than this vision | ref=6.31 | text="However he lives," he abides in God.
+
+# section 33-47 | The restless mind and the one who falls from yoga
+lead: Arjuna objects that the mind is as unruly as the wind; Kṛṣṇa answers with practice and dispassion and reassures him that no sincere effort is lost.
+@notes
+6.34 | *Cañcalaṁ hi manaḥ kṛṣṇa pramāthi balavad dṛḍham*: "restless, turbulent, strong and stubborn." It is Arjuna's most personal and relatable objection.
+6.35 | *Abhyāsena tu kaunteya vairāgyeṇa ca gṛhyate*: "held by practice and dispassion." Identical in substance to *Yoga-sūtra* 1.12.
+6.37 | *Ayati*, "one who strives but is uncontrolled." It is a person of faith whose practice is incomplete.
+6.38 | *Chinnābhram iva*: "like a scattered cloud," which belongs neither to the old cloud nor reaches the new. The fear of falling between worldly and spiritual life.
+6.40 | *Na hi kalyāṇa-kṛt kaścid durgatiṁ tāta gacchati*: "no one who does good, my friend, comes to a bad end." *Tāta*, "dear one, my son": an affectionate address.
+6.41 | *Yoga-bhraṣṭa*, "one fallen from yoga," is reborn in a pure and prosperous family.
+6.44 | *Śabda-brahmātivartate*: "goes beyond the word-brahman," i.e., beyond the Veda. Even the desire to know yoga surpasses ritual religion.
+6.46 | The yogin surpasses ascetics (*tapasvin*), the learned (*jñānin*) and ritualists (*karmin*).
+6.47 | The chapter's last word: among yogins, the devotee who worships "with inner self absorbed in me" is most fully yoked. It is a bridge to Chapters 7–12.
+@reconstruction
+Arjuna objects: the mind is restless and strong, as hard to hold as the wind, so this yoga of sameness seems unstable {6.33–34}. Kṛṣṇa agrees that the mind is hard to restrain but says it can be held by practice and dispassion {6.35}. Yoga is hard for the uncontrolled but attainable with effort and right means {6.36}. Arjuna then asks about the person of faith who falls short. Does he perish like a scattered cloud, having lost both worlds {6.37–39}? Kṛṣṇa assures him that no one who does good comes to a bad end {6.40}. Such a person enjoys heavenly worlds and is reborn among the pure or among wise yogins {6.41–42}. There he regains his former understanding and is carried forward by past practice {6.43–44}. Through many births he reaches perfection {6.45}. The yogin is above ascetic, scholar and ritualist {6.46}. The greatest yogin is the devotee absorbed in God {6.47}.
+@insight
+The section is the Gītā's most humane moment. Arjuna's objection is the beginner's real experience, and Kṛṣṇa honors it: "without doubt, the mind is hard to restrain." The answer is not a technique but a combination of habit (practice) and loosening of desire (dispassion), each supporting the other.
+The teaching on the one who falls from yoga introduces a theory of moral momentum. Effort is never wasted. Practice leaves traces that carry forward. Whatever one thinks of rebirth, the claim has psychological truth: the habits and aspirations we cultivate shape what we become. The chapter's turn to devotion at the very end {6.47} suggests that what finally steadies the restless mind is not technique but love.
+@sources
+6.35 is nearly identical to *Yoga-sūtra* 1.12 (*abhyāsa-vairāgyābhyāṁ tan-nirodhaḥ*). The doctrine of a yogin's rebirth in a favorable family parallels Buddhist accounts of rebirth according to one's practice (e.g., the *Saṅkhāruppatti Sutta*, Majjhima Nikāya 120).
+@context
+The image of the wind and the mind's restlessness recalls Augustine ("our heart is restless until it rests in you") and the "monkey mind" of later Buddhist and modern idiom. The reassurance that no effort is lost can be compared with Aristotle on habituation (we become just by doing just acts) and with modern research on skill acquisition.
+@matters
+Anyone who has tried to meditate, change a habit or keep a resolution knows Arjuna's objection. Kṛṣṇa's answer is realistic and encouraging: it is hard, but practice and loosening desire work, and no sincere effort is wasted.
+@questions
+- Is Kṛṣṇa's answer to Arjuna's objection (6.35) sufficient? What would you add?
+- What fear lies behind the image of the scattered cloud (6.38)? Do you recognize it?
+- Why does the chapter end by placing the devotee above all other yogins (6.47)?
+@argument
+P | The mind is restless, like the wind | ref=6.34 | term=manas | text=Arjuna's honest objection.
+P | Practice and dispassion hold the mind | ref=6.35 | term=abhyāsa | text=The two together steady it.
+C | No sincere effort on this path is lost | ref=6.40, 6.43 | text=The one who falls continues in a later life.
+I | Perfection may take many lives | ref=6.45 | text=Spiritual growth is cumulative.
+I | The devotee is the most fully yoked | ref=6.47 | term=bhakti | text=Love steadies what technique cannot. This leads into Chapters 7–12.

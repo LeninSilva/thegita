@@ -1,7 +1,165 @@
-summary: The verses of this chapter are complete; its study apparatus is being added.
+summary: Kṛṣṇa reveals that he taught this yoga at the beginning of time and takes birth "age after age" to restore dharma. He explains the subtle relation of action and inaction, describes many forms of sacrifice, and praises knowledge as the fire that burns all action to ashes. Arjuna is told to cut his doubt with the sword of knowledge and stand up.
 
-# section 1-42 | The chapter
+@overview
+Chapter 4 changes the status of the speaker. Until now Kṛṣṇa has spoken as a wise friend. Now he claims to have taught this yoga to the sun at the dawn of the world {4.1}, and he reveals the doctrine of divine descent: "whenever dharma declines… I send myself forth" {4.7}. The teaching is no longer simply wise; it is revealed.
+The chapter then deepens the theory of action. The famous paradox "one who sees inaction in action and action in inaction is wise" {4.18} becomes the key to a life of action without bondage. Next comes a remarkable catalogue of "sacrifices" {4.24–32}: offering the senses, the breath, study, austerity. It extends the ritual idea of 3.9–16 to every discipline of life. Finally knowledge is praised as the supreme sacrifice and the supreme purifier {4.33–39}, preparing the integration of action and knowledge that Chapter 5 will complete.
+The chapter title joins three terms: knowledge, action and renunciation. Its project is to show that they are not rivals.
+
+@map
+node lineage | 0 | An ancient yoga, renewed | ref=4.1, 4.3 | text=Taught to the sun, then Manu, then Ikṣvāku; lost over time; now taught again to Arjuna.
+node avatar | 1 | God takes birth age after age | kind=center | ref=4.7, 4.8 | term=avatāra | text=To protect the good, destroy evildoers and establish dharma.
+node divact | 1 | God acts but is not bound | ref=4.13, 4.14 | text=The maker of the social orders is the non-doer; actions do not taint him.
+node para | 2 | Inaction in action, action in inaction | kind=claim | ref=4.18 | text=The wise see through the outer form of action to its inner reality.
+node free | 2 | Action burned by knowledge | ref=4.19, 4.23 | text=Without desire or intention, action dissolves; one acts yet does nothing.
+node sacr | 3 | Every discipline is a sacrifice | ref=4.24, 4.32 | term=yajña | text=Offering is brahman; senses, breath, study and austerity are all sacrifices.
+node knowsac | 4 | Knowledge is the highest sacrifice | ref=4.33 | term=jñāna | text=All action culminates in knowledge.
+node teacher | 4 | Learn from those who see | ref=4.34 | detail=1 | text=By bowing down, inquiry and service.
+node fire | 5 | Cut doubt with the sword of knowledge | kind=center | ref=4.37, 4.42 | text=Knowledge is the fire that burns all actions; faith is the condition of receiving it.
+edge lineage > avatar
+edge avatar > divact
+edge divact > para | as God, so the wise
+edge para > free
+edge free > sacr
+edge sacr > knowsac
+edge teacher > knowsac | dashed
+edge knowsac > fire
+
+@research
+Chapter 4 is a key text for the history of *avatāra* theology. The word itself is absent, but 4.7–8 became its classic charter. Scholars debate how early Kṛṣṇa's identification with Viṣṇu was, and whether the Gītā presupposes a developed doctrine of multiple descents (Freda Matchett, Noel Sheth). Recent work by Angelika Malinar reads Chapter 4 as a political theology: the king-god who protects dharma models the ideal ruler.
+Another focus is 4.13's account of the four social orders "according to guṇa and action." Historians of caste (e.g., Brian K. Smith) read the verse within brahmanical ideology. Others, including some modern commentators, use it to argue that the Gītā defines class by character and conduct. The interpretive stakes for contemporary Hindu ethics are high. The catalogue of sacrifices in 4.25–32 is valuable evidence for the variety of ascetic and yogic practices of the period. Historians of yoga (e.g., David Gordon White, James Mallinson and Mark Singleton) use it alongside early Buddhist and Jain sources.
+
+@questions
+- How does the revelation of 4.1–8 change the authority of Kṛṣṇa's teaching? Should it change how we evaluate his earlier arguments?
+- Explain 4.18 in your own words. Construct an example of "inaction in action" and of "action in inaction."
+- Why does the Gītā redescribe so many practices as "sacrifice"? What is gained and what is lost?
+- Is faith (4.39–40) a condition of knowledge, or a substitute for it?
+
+# section 1-15 | The ancient yoga and God's descent
+lead: Kṛṣṇa reveals that he taught this yoga at the beginning and that he takes birth again and again to restore dharma.
+@notes
+4.1 | The lineage: Vivasvat (the sun), Manu (first human, law-giver), Ikṣvāku (founder of the solar dynasty, Rāma's lineage). The teaching is thus older than the Vedic ritual order Kṛṣṇa has been criticizing.
+4.2 | *Rājarṣi*, "royal seers": the yoga was originally a teaching for kings. The epic often presents wisdom as the province of the warrior class (cf. the Upaniṣadic kings Janaka and Pravāhaṇa Jaivali).
+4.5 | "Many births of mine have passed": the first claim of repeated divine birth. Arjuna, too, has had many births. The difference is knowledge.
+4.6 | *Ātma-māyā*, "my own māyā," i.e., power. The divine birth is not compelled by karma but freely chosen, "governing my own nature."
+4.7 | *Yadā yadā hi dharmasya glānir bhavati*: one of the most recited verses in the Gītā. *Glāni* means "fading, exhaustion."
+4.8 | *Paritrāṇāya sādhūnām*: three purposes of the descent. Note "age after age" (*yuge yuge*).
+4.11 | *Ye yathā māṁ prapadyante tāṁs tathaiva bhajāmy aham*: God responds to each according to their approach. Vivekananda and others read the second half ("people everywhere follow my path") as a charter of religious pluralism.
+4.13 | See the translator's note. *Cātur-varṇya*, the "fourfold order," is grounded in guṇa and karma. Its implications for caste are hotly debated.
+4.14 | God as model of non-attached action: "actions do not taint me."
 @reconstruction
-Study materials for this section are in preparation.
+This yoga is not new. Kṛṣṇa taught it at the beginning to the sun, and it passed down through royal sages until it was lost {4.1–2}. Arjuna objects that Kṛṣṇa was born recently {4.4}. Kṛṣṇa answers that he has had many births. Though unborn, he comes into being by his own power whenever dharma declines, to protect the good, destroy the wicked and restore order {4.5–8}. Whoever understands this divine birth and action is freed from rebirth {4.9–10}. God meets everyone in the way they approach him {4.11}. He created the four orders according to quality and action, yet is not their doer, since actions do not touch him {4.13–14}. Knowing this, the ancients acted, and so should Arjuna {4.15}.
+@insight
+The section transforms the dialogue. Earlier arguments could be judged on their merits. Now the speaker claims divine authority. Some readers see this as a weakening: argument gives way to revelation. Others see a deepening. The model of non-attached action is no longer a hypothetical sage but God himself, who acts constantly, takes birth freely, and is never bound.
+The doctrine of descent also gives the Gītā a philosophy of history. Dharma is not static. It decays and must be renewed, and the divine enters history to renew it. This links the teaching to the war. Arjuna's battle is part of God's work of restoring dharma.
+@sources
+The solar lineage (Vivasvat, Manu, Ikṣvāku) belongs to Purāṇic and epic genealogy. The idea of God's repeated intervention is developed later in the *Viṣṇu Purāṇa* and *Bhāgavata Purāṇa* lists of avatāras. The religious context is the Bhāgavata or Pāñcarātra worship of Vāsudeva, attested from the 2nd century BCE.
+@context
+Comparisons include the Christian doctrine of incarnation, which differs in being singular and in involving real suffering and death. Religious pluralism read from 4.11 resonates with Ramakrishna's "as many faiths, so many paths" and with John Hick's pluralist hypothesis in philosophy of religion.
+@matters
+The section raises a lasting question: when moral order collapses, does help come from beyond human effort? It also offers one of the oldest scriptural bases for religious pluralism.
+@questions
+- Does the revelation of Kṛṣṇa's divinity strengthen or weaken the force of his arguments?
+- Compare the Gītā's descent (avatāra) with Christian incarnation. What are the key differences?
+- Can 4.11 support religious pluralism? What in the text resists that reading?
 @argument
-C | Study materials in preparation
+P | This yoga is ancient and was lost | ref=4.1, 4.2 | text=Its authority predates the Vedic ritual order.
+P | God takes birth freely, by his own power | ref=4.6 | term=māyā | text=Unborn, he is not compelled by karma.
+C | God descends age after age to restore dharma | ref=4.7, 4.8 | term=avatāra | text=Divine action enters history to protect the good.
+I | God acts without being bound | ref=4.14 | text=He is the model of non-attached action.
+I | Knowing this frees from rebirth | ref=4.9 | text=Understanding divine action is itself liberating.
+
+# section 16-23 | Action, inaction and wrong action
+lead: Even the wise are confused about action; the true sage sees inaction in action and action in inaction.
+@notes
+4.16 | *Kiṁ karma kim akarmeti kavayo 'py atra mohitāḥ*: "even poets/seers are confused."
+4.17 | Three categories: *karma* (action), *vikarma* (wrong or forbidden action, or by some readings "special" action), *akarma* (inaction). *Gahanā karmaṇo gatiḥ*: "deep is the way of action."
+4.18 | The central paradox. Śaṅkara reads it as: the knower sees that the self does not act even when the body acts (inaction in action), and that the ignorant renunciant who claims to do nothing is actually acting (action in inaction). Rāmānuja reads "inaction" as knowledge of the self present within action.
+4.19 | *Jñānāgni-dagdha-karmāṇam*: actions "burned by the fire of knowledge," like seeds roasted so that they cannot sprout.
+4.20 | *Naiva kiñcit karoti saḥ*: such a one "does nothing at all," even while acting.
+4.22 | *Yadṛcchā-lābha-santuṣṭaḥ*: "content with whatever comes by chance."
+4.23 | *Pravilīyate*: action "dissolves," leaving no karmic residue.
+@reconstruction
+What action is, and what inaction is, puzzles even sages {4.16}. One must understand action, wrong action and inaction, for the way of action is deep {4.17}. The wise person sees inaction in action and action in inaction {4.18}. When undertakings are free of desire and intention, action is burned in knowledge's fire {4.19}. Without attachment to fruit, content and independent, one acts yet "does nothing at all" {4.20}. With a controlled mind and no possessiveness, bodily action incurs no fault {4.21}. Content with what comes, beyond opposites, the same in success and failure, one is not bound {4.22}. For one free and acting for sacrifice, action dissolves {4.23}.
+@insight
+The paradox of 4.18 is the conceptual knot of karma-yoga. It distinguishes the *outer form* of an act from its *inner reality*. An outwardly busy life can be inwardly still; an outwardly idle one can be inwardly frantic. "Action," in the binding sense, is the inner movement of desire and appropriation, not bodily movement. Once this is seen, Arjuna's dilemma (act and be bound, or refrain and be free) dissolves. He can act and be free.
+The danger is that the paradox can excuse anything: "I am not really acting." The Gītā blocks this by tying the state to strict conditions. Desire, intention, attachment and possessiveness must be gone {4.19–22}. The paradox is a description of a rare achievement, not a license.
+@sources
+The image of actions as seeds burned by knowledge appears in the *Yoga-sūtra* commentarial tradition and in Buddhist texts (the arhat's actions as "roasted seeds"). The phrase "deep is the way of action" echoes the epic's frequent "subtle is dharma."
+@context
+Daoism's *wu wei* ("non-action," acting without forcing) in the *Daodejing* (e.g., ch. 48: "doing nothing, yet nothing is left undone") is the closest parallel in world thought. Meister Eckhart's "releasement" (*Gelassenheit*) and contemporary psychology of "flow" (Mihaly Csikszentmihalyi), in which skilled action is effortless and self-forgetful, are also illuminating.
+@matters
+Most of us experience either busy agitation or guilty idleness. The Gītā describes a third possibility, full action with inner stillness, and defines its conditions precisely.
+@questions
+- Give a concrete example of "inaction in action" and of "action in inaction" (4.18).
+- How does the paradox avoid becoming an excuse for doing anything at all?
+- Compare 4.18 with Daoist *wu wei*. Is "non-action" the same idea in both?
+@argument
+P | Action binds through desire and intention | ref=4.19 | term=karma | text=The binding element is inner, not outward movement.
+P | The self is not the true agent | ref=4.20 | text=Without attachment, one "does nothing at all" even while acting.
+C | The wise see inaction in action and action in inaction | ref=4.18 | text=The inner reality of action differs from its outer form.
+I | Action done as sacrifice dissolves | ref=4.23 | term=yajña | text=It leaves no binding residue.
+I | Contentment and evenness are the conditions | ref=4.22 | term=dvandva | text=The paradox is not a license but a description of achievement.
+
+# section 24-32 | The many forms of sacrifice
+lead: Every discipline, from ritual to breath-control to study, can be a sacrifice offered into brahman.
+@notes
+4.24 | *Brahmārpaṇaṁ brahma haviḥ*: the most famous verse of this section, recited by many Hindus as a grace before meals. Every element of the sacrifice (offering, oblation, fire, offerer, goal) is brahman. It is an Advaitic verse par excellence.
+4.25 | Two kinds of yogins: some sacrifice to the gods (ritual), others offer "sacrifice by sacrifice," which may mean offering the self into brahman.
+4.26 | Two forms of sense-discipline: offering the senses into restraint (withdrawal), and offering objects into the senses (non-attached enjoyment).
+4.28 | *Dravya-yajña*, sacrifice with goods; *tapo-yajña*, of austerity; *yoga-yajña*, of yoga; *svādhyāya-jñāna-yajña*, of study and knowledge.
+4.29 | Breath-control (*prāṇāyāma*): in-breath (*prāṇa*) and out-breath (*apāna*) offered into each other. Early evidence for breath practices later systematized in haṭha yoga.
+4.31 | "This world is not for one who does not sacrifice," *nāyaṁ loko 'sty ayajñasya*.
+4.32 | *Brahmaṇo mukhe*: "in the mouth of brahman," either the Veda or the fire as divine mouth.
+@reconstruction
+In the highest view, every element of sacrifice is brahman {4.24}. From there, Kṛṣṇa lists the many sacrifices people make. Some offer to the gods, some offer the self into brahman {4.25}. Some offer the senses into restraint, some offer objects into the senses {4.26}. Some offer the activity of senses and breath into the fire of self-control {4.27}. Some offer goods, austerity, yoga, study {4.28}. Some practice breath-control or fasting {4.29–30}. All of them, eating the "nectar" of sacrifice, reach brahman. Without sacrifice, neither this world nor the next is possible {4.31}. All are born of action; knowing this, one is freed {4.32}.
+@insight
+This section universalizes sacrifice. The Vedic fire-ritual becomes a template for every kind of disciplined self-offering. The effect is twofold. First, it validates many paths: ritualist, ascetic, yogin and scholar all perform genuine sacrifices. Second, it shifts the essence of sacrifice from the external act to the inner attitude of offering. This is the bridge between the ritual world and the world of yoga and devotion.
+The opening verse (4.24) is also philosophically striking. It suggests a vision in which the distinction between agent, act, instrument and goal collapses into one reality. Advaitins treat it as a description of liberated action, which is entirely non-dual.
+@sources
+The interiorization of sacrifice is anticipated in the Upaniṣads, e.g., the *prāṇāgnihotra* (offering into the breath as a fire, *Chāndogya* 5.19–24) and the idea of "the sacrifice of the self" in the *Śatapatha Brāhmaṇa*. Breath-control as sacrifice is described in the *Kauṣītaki Upaniṣad* 2.5 ("the inner fire-offering").
+@context
+The spiritualization of sacrifice is a cross-cultural phenomenon. Compare the Hebrew prophets ("I desire mercy, not sacrifice," Hosea 6:6), Paul's "living sacrifice" (Romans 12:1), and Guy Stroumsa's *The End of Sacrifice* on late antiquity. The Gītā shows a parallel transformation in India.
+@matters
+The passage suggests that any committed discipline (study, generosity, self-restraint, attention to breath) can be lived as an offering rather than as a means to personal gain. That reframing changes how such practices feel and what they do to us.
+@questions
+- Why might 4.24 have become a grace before meals? What does reciting it do?
+- Is anything lost when ritual sacrifice is "interiorized"?
+- Which of the sacrifices of 4.25–30 have equivalents in your life?
+@argument
+P | All elements of sacrifice are brahman | ref=4.24 | term=brahman | text=Offerer, offering, fire and goal are one reality.
+P | Many disciplines are forms of sacrifice | ref=4.25, 4.30 | term=yajña | text=Sense-restraint, breath-control, austerity, study and more.
+C | Every discipline can be an offering into brahman | ref=4.32 | text=Sacrifice is defined by inner offering, not outward form.
+I | Without sacrifice there is no world | ref=4.31 | text=Self-offering sustains this world and the next.
+
+# section 33-42 | The fire of knowledge
+lead: Knowledge is the highest sacrifice and the supreme purifier; with faith and the guidance of teachers, it cuts doubt and frees from all bondage.
+@notes
+4.33 | *Jñāna-yajña*, "the sacrifice of knowledge," is better than material sacrifice. All action culminates (*parisamāpyate*) in knowledge.
+4.34 | *Praṇipātena paripraśnena sevayā*: three means of learning: prostration, inquiry and service. *Tattva-darśinaḥ*, "those who see the truth."
+4.35 | "You will see all beings in the self, and then in me" (*ātmany atho mayi*): a sequence from self-knowledge to knowledge of God.
+4.36 | A radical promise: "even the worst of all evildoers" crosses over by the "boat of knowledge."
+4.38 | *Na hi jñānena sadṛśaṁ pavitram iha vidyate*: "nothing here purifies like knowledge."
+4.39 | *Śraddhāvāl labhate jñānam*: "one who has faith gains knowledge." Faith is a precondition, not an opponent, of knowledge.
+4.40 | *Saṁśayātmā vinaśyati*: "the doubting self perishes." A strong condemnation of chronic doubt.
+4.42 | The chapter ends as Chapter 2 began: "Stand up!" (*uttiṣṭha*).
+@reconstruction
+Knowledge is the best sacrifice, for all action culminates in it {4.33}. Learn it from those who see the truth, by humility, inquiry and service {4.34}. With it you will see all beings in yourself and in God {4.35}. Even the worst sinner crosses over by its boat {4.36}. Like fire turning wood to ash, it burns all action {4.37}. Nothing purifies like it {4.38}. The one with faith and self-control gains it and finds peace {4.39}. The faithless doubter perishes {4.40}. Actions do not bind one whose doubts are cut by knowledge {4.41}. So cut your doubt with knowledge's sword, take up yoga, and stand {4.42}.
+@insight
+Here knowledge (*jñāna*) and action (*karma*) are brought together. Action culminates in knowledge, and knowledge frees action from bondage. Śaṅkara reads this as subordinating action to knowledge. Others read it as fusing them: knowledgeable action. The sword image of 4.42 is telling. Knowledge is not passive contemplation but a weapon that enables action.
+The treatment of faith and doubt is interesting philosophically. The Gītā does not oppose faith to knowledge. Faith is the disposition of trust that makes learning possible. The "doubting self" is not the critical inquirer (Arjuna's questions are welcomed) but the chronically divided mind that commits to nothing, the "many-branched" understanding of 2.41.
+@sources
+The teacher-student model of 4.34 echoes *Muṇḍaka* 1.2.12–13 and *Chāndogya* 6. The purifying power of knowledge is Upaniṣadic (*Muṇḍaka* 2.2.8: "when he is seen… all his actions perish"). The image of the boat appears in *Muṇḍaka* 1.2.7, ironically there applied to ritual as an "unsteady boat."
+@context
+The relation of faith and reason is a theme in many traditions: Anselm's *fides quaerens intellectum* ("faith seeking understanding"), William James's "The Will to Believe," and the Buddhist *saddhā* that initiates practice. The Gītā's "doubting self" resembles Kierkegaard's critique of the endlessly reflective spectator who never commits.
+@matters
+The passage asks whether understanding grows best through suspicion or through trust. It also suggests that wisdom is best learned in relationship, from those who embody it.
+@questions
+- What is the difference between a questioning mind and a "doubting self" (4.40)?
+- Why must knowledge be learned from teachers (4.34) rather than reasoned out alone?
+- Does "nothing purifies like knowledge" (4.38) fit with a moral teaching? What kind of knowledge is meant?
+@argument
+P | All action culminates in knowledge | ref=4.33 | term=jñāna | text=Knowledge is the highest sacrifice.
+P | Knowledge burns all actions to ashes | ref=4.37 | text=It removes karmic bondage.
+P | Faith and self-control are its conditions | ref=4.39 | term=śraddhā | text=Trust makes learning possible.
+C | Cut doubt with the sword of knowledge and stand up | ref=4.41, 4.42 | text=Knowledge does not replace action; it frees it.
+I | The chronically doubting self perishes | ref=4.40 | text=Endless division of mind prevents both knowledge and action.
