@@ -422,10 +422,23 @@ def main():
     out = ROOT / 'data' / 'gita.json'
     out.parent.mkdir(exist_ok=True)
     out.write_text(json.dumps(data, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
+    stamp_service_worker()
     nsec = sum(len(c['sections']) for c in chapters)
     nfn = sum(len(v.get('fnotes', [])) for c in chapters for v in c['verses'])
     words = len(json.dumps(data, ensure_ascii=False).split())
     print(f'ok: {len(chapters)} chapters, {nsec} sections, {nfn} footnotes, {len(glossary)} terms, ~{words} words -> {out.relative_to(ROOT)} ({out.stat().st_size // 1024} KB)')
+
+
+def stamp_service_worker():
+    """Version the offline cache by content hash so installed apps pick up new builds."""
+    import hashlib
+    h = hashlib.sha256()
+    for name in ('index.html', 'styles.css', 'app.js', 'data/gita.json', 'manifest.webmanifest'):
+        h.update((ROOT / name).read_bytes())
+    sw = ROOT / 'sw.js'
+    text = sw.read_text(encoding='utf-8')
+    text = re.sub(r"const VERSION = '[^']*';", f"const VERSION = 'gita-companion-{h.hexdigest()[:10]}';", text)
+    sw.write_text(text, encoding='utf-8')
 
 
 if __name__ == '__main__':

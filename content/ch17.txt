@@ -1,7 +1,161 @@
-summary: The verses of this chapter are complete; its study apparatus is being added.
+summary: Arjuna asks about those who act with faith but outside scripture. Kṛṣṇa answers that faith itself is threefold, shaped by the guṇas: "a person is made of faith." He classifies food, sacrifice, austerity and giving by the guṇas, and ends with Om tat sat, the threefold name of brahman that sanctifies every act, warning that whatever is done without faith counts for nothing.
 
-# section 1-28 | The chapter
+@overview
+Chapter 17 picks up a question left hanging by the end of Chapter 16. If scripture is the standard {16.24}, what about people who, without knowing or following scripture, still worship with sincere faith {17.1}? Kṛṣṇa answers not by condemning or approving them but by analyzing faith itself.
+The chapter's key verse is 17.3: "a person is made of faith; whatever one's faith is, that is what one is." Faith (*śraddhā*) is not just belief. It is the shape of a person's deepest orientation, and it comes in three kinds according to the guṇas {17.2–4}. Self-torturing austerities driven by ego and desire are demonic {17.5–6}.
+Then comes a systematic classification, in the manner of Chapters 14 and 18, of four everyday domains: food {17.7–10}, sacrifice {17.11–13}, austerity of body, speech and mind {17.14–19}, and giving {17.20–22}. In each, the sattvic form is done for its own sake, without seeking reward, with right attention. The rajasic is done for gain or show. The tamasic is done carelessly, without faith or respect.
+The chapter ends with a meditation on *oṁ tat sat*, the threefold name of brahman {17.23–27}. Om begins sacred acts, *tat* ("that") marks their offering without desire for fruit, and *sat* ("being, good") affirms their goodness. The final verse is a warning: what is done without faith is *asat*, of no account here or hereafter {17.28}.
+
+@map
+node q | 0 | Faith outside scripture? | kind=center | ref=17.1 | text=What of those who worship with faith but set aside the rule?
+node made | 1 | A person is made of faith | kind=claim | ref=17.3 | term=śraddhā | text=Whatever one's faith is, that one is.
+node three | 1 | Faith is threefold | ref=17.2, 17.4 | term=guṇa | text=Sattvic, rajasic and tamasic faith shape what one worships.
+node demonic | 2 | Self-torture is demonic | kind=contrast | ref=17.5, 17.6 | term=tapas | detail=1 | text=Austerities driven by ego and desire torment God within.
+node food | 2 | Food | ref=17.8, 17.10 | text=Nourishing, stimulating, or stale.
+node sacr | 3 | Sacrifice | ref=17.11, 17.13 | term=yajña | text=Offered because it ought to be, for show, or carelessly.
+node aust | 3 | Austerity of body, speech, mind | ref=17.14, 17.16 | term=tapas | text=Reverence and purity; truthful kind speech; calm and silence.
+node gift | 3 | Giving | ref=17.20, 17.22 | term=dāna | text=To one who cannot repay; for return; or with contempt.
+node om | 4 | Om tat sat | kind=center | ref=17.23, 17.27 | term=Om | text=The threefold name of brahman sanctifies every act.
+node asat | 5 | Without faith, nothing counts | ref=17.28 | term=sat and asat | text=Such acts are asat, here and hereafter.
+edge q > made
+edge q > three
+edge three > demonic | dashed
+edge made > food
+edge three > food
+edge food > sacr
+edge sacr > aust
+edge aust > gift
+edge gift > om
+edge om > asat
+
+@research
+Chapter 17 is a primary source for the Indian classification of food by guṇa, which shaped Āyurvedic dietetics and religious dietary practice (e.g., the "sāttvic diet" in yoga traditions). Historians note that the Gītā's food lists differ from later Āyurvedic ones, and that the modern "sattvic diet" (often vegetarian, avoiding onion and garlic) owes more to later texts than to the Gītā itself.
+The concept of *śraddhā* has been the subject of important studies (e.g., Hanns-Peter Schmidt; Minoru Hara), which trace it from the Vedic sense of "trust in the efficacy of ritual" to the Gītā's "orientation of the whole person." Philosophers of religion have compared 17.3 with existentialist accounts of faith as self-constituting commitment (Kierkegaard, Tillich's "ultimate concern"). Scholars of Indian giving (*dāna*) use 17.20–22 to analyze the ideal of the "pure gift" (Jonathan Parry, "The Gift, the Indian Gift and the 'Indian Gift'," 1986), connecting it to Mauss's theory of reciprocity.
+
+@questions
+- What does it mean that "a person is made of faith" (17.3)? Is faith chosen or given?
+- Why does Kṛṣṇa answer a question about scripture by analyzing faith?
+- Which of the sattvic forms of food, sacrifice, austerity and giving do you find most demanding?
+- How does *oṁ tat sat* transform an ordinary act?
+
+# section 1-6 | Faith is threefold: a person is made of faith
+lead: Asked about faith outside scripture, Kṛṣṇa explains that faith follows one's nature and takes three forms; self-torturing austerity is demonic.
+@notes
+17.1 | *Ye śāstra-vidhim utsṛjya yajante śraddhayānvitāḥ*: "those who set aside the rule of scripture but sacrifice with faith." Arjuna asks about their *niṣṭhā*, "standing" or "basis."
+17.2 | *Tri-vidhā bhavati śraddhā dehināṁ sā svabhāva-jā*: "faith is threefold, born of one's own nature."
+17.3 | *Sattvānurūpā sarvasya śraddhā*: "each person's faith follows his inner being (sattva)." *Śraddhā-mayo 'yaṁ puruṣo yo yac-chraddhaḥ sa eva saḥ*: "a person is made of faith; whatever one's faith is, that one is." This is one of the most quoted verses of the Gītā.
+17.4 | Sattvic people worship gods (*devas*); rajasic, *yakṣas* and *rākṣasas* (powerful nature-spirits and demons); tamasic, *pretas* and *bhūtas* (ghosts and spirits).
+17.5 | *Aśāstra-vihitaṁ ghoraṁ tapyante ye tapo janāḥ*: "those who practice terrible austerities not prescribed by scripture."
+17.6 | *Karśayantaḥ śarīra-sthaṁ bhūta-grāmam*: "tormenting the elements in the body," *māṁ caivāntaḥ-śarīra-stham*, "and me, who dwell within the body." Self-torture harms God within.
 @reconstruction
-Study materials for this section are in preparation.
+Arjuna asks the standing of those who sacrifice with faith but outside scripture {17.1}. Kṛṣṇa says faith is threefold, born of nature: sattvic, rajasic and tamasic {17.2}. Each person's faith follows their inner being. A person is made of faith; whatever one's faith is, that one is {17.3}. The sattvic worship gods, the rajasic powerful spirits, and the tamasic ghosts {17.4}. Those who practice terrible, unprescribed austerities from hypocrisy, ego, desire and passion {17.5} torment their own bodies and God within. Their resolve is demonic {17.6}.
+@insight
+Kṛṣṇa does not answer the question in legal terms (valid or invalid). He shifts to a psychology of faith. The quality of one's faith determines the quality of one's religion. Scripture is a guide, but faith is the deeper reality. This keeps the authority of scripture {16.24} while acknowledging that what people worship reveals who they are.
+17.3 is a profound claim about human identity. We are not fixed substances with beliefs attached. We are constituted by what we trust and orient ourselves toward. The verse also has a hopeful implication: since faith can be cultivated, a person can be transformed.
+The condemnation of self-torture {17.5–6} is important. The Gītā rejects extreme asceticism, as it did in 6.16, because it harms the body in which God dwells.
+@sources
+*Śatapatha Brāhmaṇa* 10.6.3.1 and *Chāndogya* 3.14.1 ("a person is made of resolve, *kratu-maya*; as is one's resolve in this world, so one becomes") are close precedents to 17.3. The Buddha's rejection of extreme asceticism (the middle way) is a parallel critique.
+@context
+Paul Tillich defined faith as "the state of being ultimately concerned." What we are ultimately concerned with shapes who we are. Augustine's "my weight is my love" (*pondus meum amor meus*) makes a similar point: we are carried where our love carries us.
+@matters
+The section invites a searching question: what do I actually trust and orient my life around? That, the Gītā says, is what I am.
+@questions
+- Unpack 17.3: "a person is made of faith." What does this imply about personal change?
+- Why does Kṛṣṇa answer a question about scripture with an analysis of faith?
+- Why is self-torture condemned (17.6)? How does it harm "God within"?
 @argument
-C | Study materials in preparation
+P | Faith is born of one's nature | ref=17.2 | term=svabhāva | text=It takes three forms.
+P | A person is made of faith | ref=17.3 | term=śraddhā | text=Whatever one's faith is, that one is.
+C | The quality of faith determines the quality of religion | ref=17.4 | term=guṇa | text=What one worships reveals who one is.
+I | Self-torturing austerity is demonic | ref=17.5, 17.6 | term=tapas | text=It harms the God who dwells in the body.
+
+# section 7-10 | Three kinds of food
+lead: Food too is threefold: the sattvic nourishes life and joy, the rajasic overstimulates and causes pain, the tamasic is stale and impure.
+@notes
+17.7 | *Āhāras tv api sarvasya tri-vidho bhavati priyaḥ*: "the food each likes is also threefold." Preference reveals disposition.
+17.8 | *Āyuḥ-sattva-balārogya-sukha-prīti-vivardhanāḥ*: food that increases "life, vitality, strength, health, happiness and satisfaction." *Rasyāḥ snigdhāḥ sthirā hṛdyāḥ*: savory, smooth (or oily), substantial, pleasing to the heart.
+17.9 | *Kaṭv-amla-lavaṇāty-uṣṇa-tīkṣṇa-rūkṣa-vidāhinaḥ*: bitter, sour, salty, very hot, pungent, dry and burning. The rajasic diet is overstimulating.
+17.10 | *Yāta-yāmaṁ gata-rasaṁ pūti paryuṣitaṁ ca yat*: food "stale (kept more than three hours), tasteless, putrid, left overnight." *Ucchiṣṭa*, "leftover," is ritually impure.
+@reconstruction
+The food people like is threefold, as are sacrifice, austerity and giving {17.7}. Sattvic people like food that increases life, strength, health and joy, savory, smooth, nourishing and pleasing {17.8}. Rajasic people like food that is bitter, sour, salty, very hot, pungent, harsh and burning, which causes pain and sickness {17.9}. Tamasic people like food that is stale, tasteless, putrid, leftover and impure {17.10}.
+@insight
+The classification of food might seem a digression, but it shows the Gītā's integration of spiritual and bodily life. What we eat reflects and reinforces our dispositions. The sattvic diet is defined not by rules (no meat, no onions) but by effects: it increases life, health and joy. The rajasic is defined by overstimulation, the tamasic by neglect.
+The passage also shows the principle that runs through the chapter. Preference (*priya*) reveals character. What one likes to eat, like what one worships, shows who one is.
+@sources
+Food classification by guṇa appears in *Chāndogya* 6.5 ("food eaten becomes threefold": the grossest becomes feces, the middle flesh, the subtlest mind) and in Āyurvedic texts like the *Caraka Saṁhitā*.
+@context
+Dietary ethics appear in many traditions: Pythagorean vegetarianism, Jewish kashrut, Islamic halal, Buddhist and Jain dietary rules. Contemporary nutrition science and research on diet and mood offer an empirical dimension.
+@matters
+The section reminds us that how we eat is part of how we live, and that food can serve clarity, agitation or dullness.
+@questions
+- Is the Gītā's food classification moral, medical, or both?
+- What does "preference reveals disposition" (17.7) suggest about other likes and dislikes?
+- How would you classify your own diet by these criteria?
+@argument
+P | Food preference reflects disposition | ref=17.7 | term=guṇa | text=Like faith, food is threefold.
+P | Sattvic food increases life, health and joy | ref=17.8 | term=sattva | text=Defined by its effects.
+C | Food is threefold: nourishing, stimulating, or stale | ref=17.9, 17.10 | text=Diet shapes and reveals character.
+
+# section 11-22 | Sacrifice, austerity and giving
+lead: Sacrifice, austerity and giving are each threefold; the sattvic form is done because it ought to be done, without seeking reward, with faith and right attention.
+@notes
+17.11 | *Yaṣṭavyam eveti manaḥ samādhāya*: sattvic sacrifice is done with the thought "this simply ought to be offered."
+17.12 | *Abhisandhāya tu phalaṁ dambhārtham api*: rajasic sacrifice aims at fruit or is "for show."
+17.13 | Five marks of tamasic sacrifice: no rule, no food distributed, no mantras, no priestly fee, no faith.
+17.14 | Austerity of the body: reverence for gods, the twice-born, teachers and the wise; purity, uprightness, celibacy, non-harming.
+17.15 | *Anudvega-karaṁ vākyaṁ satyaṁ priya-hitaṁ ca yat*: speech "that causes no distress, truthful, pleasant and beneficial." A classic formula for right speech.
+17.16 | *Manaḥ-prasādaḥ saumyatvaṁ maunam ātma-vinigrahaḥ*: austerity of mind: serenity, gentleness, silence, self-control.
+17.18 | *Satkāra-māna-pūjārthaṁ tapo dambhena caiva yat*: austerity "for respect, honor and reverence." Spiritual practice as self-promotion.
+17.20 | *Dātavyam iti yad dānaṁ dīyate 'nupakāriṇe*: a gift given "because it ought to be given, to one who cannot return the favor." The ideal of the pure gift.
+17.21 | *Parikliṣṭam*: a gift given "grudgingly, with pain."
+17.22 | *Asat-kṛtam avajñātam*: a gift given "without respect, with contempt." The manner of giving matters as much as the gift.
+@reconstruction
+Sattvic sacrifice is offered according to rule, without desire for fruit, simply because it ought to be done {17.11}. Rajasic sacrifice aims at fruit or show {17.12}. Tamasic sacrifice lacks rule, food, mantra, fee and faith {17.13}. Austerity of the body is reverence, purity, uprightness, celibacy and non-harming {17.14}. Austerity of speech is truthful, kind, beneficial speech that causes no distress, and study {17.15}. Austerity of mind is serenity, gentleness, silence, self-control and purity {17.16}. This threefold austerity done with faith and without desire is sattvic {17.17}. Done for respect or show, it is rajasic and unstable {17.18}. Done from delusion, self-torture or to harm others, it is tamasic {17.19}. A sattvic gift is given because it ought to be given, to one who cannot repay, at the right time and place {17.20}. A rajasic gift seeks return or is given grudgingly {17.21}. A tamasic gift is given wrongly, to the unworthy, with contempt {17.22}.
+@insight
+The section is a practical ethics of religious life, and its consistent criterion is motive. The same outward act (a sacrifice, a fast, a donation) can be sattvic, rajasic or tamasic depending on why and how it is done. The sattvic act is done "because it ought to be done" (*kartavyam iti*), for its own sake, not for return or display.
+The definition of austerity is notable for including speech and mind. Truthful, kind and beneficial speech is an austerity, and so is serenity of mind. This interiorizes and humanizes *tapas*. It is no longer only fasting and heat but the discipline of words and thoughts. The ideal gift, to one who cannot repay, is a radical standard in a world where gifts often create obligations.
+@sources
+The ideal of giving "to one who cannot repay" anticipates Jesus's "when you give a banquet, invite the poor… because they cannot repay you" (Luke 14:12–14). The formula for right speech parallels the Buddhist "right speech" (truthful, harmonious, gentle, meaningful) and *Manu* 4.138 ("speak the truth, speak what is pleasant; do not speak an unpleasant truth").
+@context
+Kant's distinction between acting from duty and acting from inclination illuminates the sattvic "because it ought to be done." Mauss and Derrida on the impossibility of a "pure gift" (any gift creates obligation) offer a philosophical challenge to 17.20.
+@matters
+The section offers a simple test for any good deed: am I doing this because it ought to be done, for something in return, or carelessly?
+@questions
+- What makes the same act sattvic, rajasic or tamasic?
+- Why does the Gītā count kind, truthful speech as an "austerity" (17.15)?
+- Is a "pure gift" (17.20) possible? How would Derrida or Mauss respond?
+@argument
+P | The same act can be sattvic, rajasic or tamasic | ref=17.11, 17.13 | term=guṇa | text=Motive and manner decide.
+P | Austerity includes speech and mind | ref=17.15, 17.16 | term=tapas | text=Truthful kind speech; serenity and silence.
+C | Do sacrifice, austerity and giving because they ought to be done | ref=17.11, 17.17, 17.20 | text=Without seeking return or display.
+I | The ideal gift goes to one who cannot repay | ref=17.20 | term=dāna | text=Free of the logic of exchange.
+
+# section 23-28 | Om tat sat
+lead: Om tat sat is the threefold name of brahman; Om begins sacred acts, tat marks their offering without desire, sat affirms their goodness; acts without faith are asat.
+@notes
+17.23 | *Oṁ tat sad iti nirdeśo brahmaṇas tri-vidhaḥ smṛtaḥ*: "Om tat sat is the threefold designation of brahman." By it the brāhmaṇas, Vedas and sacrifices were established.
+17.24 | Om is uttered by "expounders of brahman" (*brahma-vādinaḥ*) at the start of every sacrifice, gift and austerity.
+17.25 | *Tad ity anabhisandhāya phalam*: with "tat" (that), acts are done "without aiming at the fruit." *Tat* points away from the self to the transcendent.
+17.26 | *Sad-bhāve sādhu-bhāve ca sad ity etat prayujyate*: "sat" means "reality" and "goodness." *Praśaste karmaṇi*: also "a praiseworthy act."
+17.27 | *Karma caiva tad-arthīyaṁ sad ity evābhidhīyate*: action done for the sake of these is also "sat."
+17.28 | *Aśraddhayā hutaṁ dattaṁ tapas taptaṁ kṛtaṁ ca yat asad ity ucyate*: what is done without faith is "asat," worthless "here or hereafter."
+@reconstruction
+*Om tat sat* is the threefold name of brahman, by which brāhmaṇas, Vedas and sacrifices were established {17.23}. So the expounders of brahman begin sacrifice, giving and austerity with Om {17.24}. With *tat*, seekers of liberation perform such acts without aiming at fruit {17.25}. *Sat* means reality and goodness, and is used for praiseworthy acts {17.26}. Steadfastness in sacrifice, austerity and giving is *sat*, and so is action for their sake {17.27}. But whatever is offered, given or practiced without faith is *asat*, worthless here and hereafter {17.28}.
+@insight
+The three words map onto the act's structure. *Om* consecrates its beginning. *Tat* ("that," the transcendent) directs it away from the self and its desires. *Sat* ("being, good") affirms its reality and goodness. Together they turn ordinary ritual acts into offerings to brahman.
+The final verse brings the chapter full circle. It began with faith outside scripture and ends by declaring faith essential. Without faith, even perfectly performed acts are *asat*, unreal. Faith is not a substitute for right action but its life. The Gītā thus holds together scripture (the standard of action) and faith (its inner reality).
+@sources
+Om as the sacred syllable is Upaniṣadic (*Māṇḍūkya*, *Chāndogya* 1.1). *Tat* as designation of brahman recalls *tat tvam asi* ("that you are," *Chāndogya* 6.8.7). *Sat* as being is from *Chāndogya* 6.2.1 ("in the beginning, this was being alone").
+@context
+The consecration of acts by sacred words appears in many traditions: the Christian "in the name of the Father…," the Islamic *bismillāh*, the Jewish blessings (*berakhot*) before acts. Each frames ordinary actions as offered to the divine.
+@matters
+The section suggests that any act can be framed as an offering: begun in the sacred, done without grasping, and affirmed as good. Without inner faith, the frame is empty.
+@questions
+- What does each of the three words (Om, tat, sat) contribute to an act?
+- Why does the chapter end by declaring acts without faith "asat"?
+- How do scripture (16.24) and faith (17.28) fit together?
+@argument
+P | Om tat sat is the threefold name of brahman | ref=17.23 | term=Om | text=It established sacrifice and Veda.
+P | Om begins, tat renounces fruit, sat affirms goodness | ref=17.24, 17.26 | term=sat and asat | text=The structure of a consecrated act.
+C | Acts done this way are offerings to brahman | ref=17.27 | text=Ordinary acts become sacred.
+I | Without faith, any act is asat | ref=17.28 | term=śraddhā | text=Worthless here and hereafter.

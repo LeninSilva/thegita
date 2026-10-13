@@ -1,5 +1,5 @@
 /* Offline support: precache the app shell and data, serve cache-first, refresh in the background. */
-const VERSION = 'gita-companion-v1';
+const VERSION = 'gita-companion-775205eacf';
 const ASSETS = [
   './',
   'index.html',

@@ -403,12 +403,13 @@
       if (!r) continue;
       const k = r.length;
       const w = Math.min(k === 1 ? 230 : 160, (DW - padX * 2 - gapX * (k - 1)) / k);
-      const maxChars = Math.max(8, Math.floor((w - 14) / 6.4));
       let rowH = 0;
       const total = w * k + gapX * (k - 1);
       let x = (DW - total) / 2;
       for (const n of r) {
-        const lines = wrapLabel(n.label, maxChars);
+        // Bold labels (claims, centres) are wider per character than regular ones.
+        const charW = n.kind === 'claim' || n.kind === 'center' ? 7.4 : 6.6;
+        const lines = wrapLabel(n.label, Math.max(8, Math.floor((w - 16) / charW)));
         const h = 16 + lines.length * 15 + (n.tag ? 11 : 0);
         pos.set(n.id, { x, y, w, h, lines });
         rowH = Math.max(rowH, h);

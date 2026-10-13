@@ -1,7 +1,131 @@
-summary: The verses of this chapter are complete; its study apparatus is being added.
+summary: Kṛṣṇa contrasts two moral natures. The divine endowment (fearlessness, purity, generosity, non-harming, truth, compassion) leads to liberation; the demonic endowment (hypocrisy, arrogance, anger, cruelty) leads to bondage. He portrays the demonic person's worldview and self-talk, names desire, anger and greed as the three gates of hell, and ends by making scripture the standard of action.
 
-# section 1-24 | The chapter
+@overview
+Chapter 16 is the Gītā's most explicitly moral chapter. After the metaphysics of Chapters 13–15, it returns to character, describing two "endowments" (*sampad*) with which beings are born: the divine (*daivī*) and the demonic (*āsurī*).
+The divine qualities {16.1–3} form one of the finest lists of virtues in Indian literature: fearlessness, purity of being, steadfastness in knowledge, generosity, self-restraint, non-harming, truth, freedom from anger, compassion, gentleness, modesty, forgiveness. Kṛṣṇa reassures Arjuna that he is born to the divine endowment {16.5}.
+The heart of the chapter is a vivid psychological and philosophical portrait of the demonic person {16.7–20}. Such people deny that the world has truth, foundation or lord, and hold it to be produced by desire alone {16.8}. Driven by insatiable desire, bound by "hundreds of ties of hope," they pile up wealth by unjust means {16.10–12}. Their inner monologue is given in the first person: "This I have gained today… That enemy I have killed… Who is like me?" {16.13–15}. They end in delusion and lower births {16.16–20}.
+The chapter closes with practical counsel. Desire, anger and greed are "the threefold gate of hell" {16.21}. One who casts aside scripture and acts on impulse attains nothing, so "let scripture be your standard" {16.23–24}.
+
+@map
+node two | 0 | Two endowments | kind=center | ref=16.5, 16.6 | term=daivī and āsurī sampad | text=Divine leads to liberation, demonic to bondage.
+node divine | 1 | The divine qualities | ref=16.1, 16.3 | text=Fearlessness, purity, generosity, non-harming, truth, compassion, forgiveness.
+node demonic | 1 | The demonic qualities | kind=contrast | ref=16.4 | text=Hypocrisy, arrogance, pride, anger, harshness, ignorance.
+node view | 2 | The demonic worldview | ref=16.8, 16.9 | text=No truth, no foundation, no lord; desire alone.
+node desire | 3 | Insatiable desire and endless anxiety | ref=16.10, 16.12 | term=kāma | text=Bound by hundreds of ties of hope.
+node voice | 3 | "Who else is like me?" | ref=16.13, 16.15 | term=ahaṅkāra | text=The self-talk of the demonic mind.
+node fall | 4 | Descent into delusion | ref=16.16, 16.20 | detail=1 | text=Lower births, never reaching God.
+node gates | 4 | Three gates of hell | kind=claim | ref=16.21, 16.22 | text=Desire, anger, greed; release brings the supreme goal.
+node scripture | 5 | Scripture as standard | kind=center | ref=16.23, 16.24 | term=śāstra | text=Not impulse but authoritative teaching guides action.
+edge two > divine
+edge two > demonic
+edge demonic > view
+edge view > desire
+edge desire > voice
+edge voice > fall | dashed
+edge voice > gates
+edge divine > gates | free of
+edge gates > scripture
+
+@research
+Scholars have long asked whom the "demonic" worldview of 16.8 describes. The most common answer is the Lokāyata or Cārvāka materialists, who denied an afterlife, a soul and a moral order (see Debiprasad Chattopadhyaya, *Lokāyata*, 1959). Others see a broader target: the self-aggrandizing king or merchant whose creed is power and pleasure. The vivid first-person monologue {16.13–15} has been compared with satirical portraits in other literatures.
+The chapter's dualistic moral anthropology raises questions. Are people born divine or demonic? Kṛṣṇa says beings are "created" in two kinds {16.6}, which some commentators (notably Madhva) took to imply a permanent class of souls destined for damnation, an unusual doctrine in Hindu thought. Most others read the endowments as dispositions that can change. The appeal to scripture {16.24} has been debated as an endorsement of the dharma-śāstras (including their caste rules), or as a call for disciplined, tradition-informed judgment in place of impulse. Chapter 17 immediately complicates it.
+
+@questions
+- Are the divine and demonic endowments innate, acquired, or both? What follows ethically?
+- Is the demonic worldview of 16.8 a fair description of materialism? Can one be a materialist without being "demonic"?
+- Read the monologue of 16.13–15 aloud. Where do you recognize it in yourself or your society?
+- What does "let scripture be your standard" (16.24) require? Is it compatible with personal moral judgment?
+
+# section 1-5 | The divine and the demonic endowments
+lead: Kṛṣṇa lists the divine qualities and the demonic ones, and assures Arjuna that he is born to the divine.
+@notes
+16.1 | *Abhayam*, "fearlessness," is the first divine quality. Vivekananda took fearlessness as the core of the Gītā's message. *Sattva-saṁśuddhiḥ*: "purity of being."
+16.2 | *Ahiṁsā satyam akrodhaḥ*: "non-harming, truth, freedom from anger." *Dayā bhūteṣu*: "compassion toward beings." *Hrīḥ*: "modesty, a sense of shame." *Acāpalam*: "absence of fickleness."
+16.3 | *Tejaḥ kṣamā dhṛtiḥ*: "vigor, forgiveness, fortitude." Note that vigor and forgiveness sit side by side. The ideal is not passive.
+16.4 | *Dambha, darpa, abhimāna, krodha, pāruṣya, ajñāna*: hypocrisy, arrogance, conceit, anger, harshness and ignorance. Six demonic qualities.
+16.5 | *Mā śucaḥ sampadaṁ daivīm abhijāto 'si pāṇḍava*: "do not grieve; you are born to the divine endowment." This is pastoral reassurance.
 @reconstruction
-Study materials for this section are in preparation.
+Fearlessness, purity of being, steadfastness in knowledge, generosity, self-restraint, sacrifice, study, austerity and uprightness {16.1}; non-harming, truth, freedom from anger, renunciation, peace, refraining from slander, compassion, freedom from greed, gentleness, modesty and steadiness {16.2}; vigor, forgiveness, fortitude, purity, freedom from malice and from arrogance {16.3}: these belong to one born to the divine endowment. Hypocrisy, arrogance, conceit, anger, harshness and ignorance belong to the demonic {16.4}. The divine leads to liberation, the demonic to bondage. Arjuna should not grieve, for he is born to the divine {16.5}.
+@insight
+The divine list is remarkable for its balance. It combines inward qualities (purity, peace) with outward ones (generosity, compassion), and gentle qualities (forgiveness, gentleness) with strong ones (fearlessness, vigor, fortitude). It is not a monastic ideal but a complete human character, suited to a warrior as much as a sage.
+The demonic list is short and centered on ego: hypocrisy, arrogance, conceit. Anger and harshness follow from them, and ignorance underlies all. The contrast suggests that the root of evil is self-inflation, not desire alone.
+@sources
+Similar lists of virtues are in 13.7–11 and in the Dharmaśāstras (e.g., *Manu* 6.92). The Vedic myth of the conflict between gods (*devas*) and demons (*asuras*), told in the Brāhmaṇas and Upaniṣads (e.g., *Chāndogya* 8.7–12), lies behind the terminology.
+@context
+Moral catalogues of virtues and vices are found in Aristotle, in Paul's "fruits of the Spirit" and "works of the flesh" (Galatians 5:19–23), and in the Christian lists of the seven virtues and seven deadly sins. The Gītā's emphasis on fearlessness as first virtue is distinctive.
+@matters
+The list offers a mirror and a program: a portrait of a character that is fearless, generous, truthful and gentle, which anyone can study and grow toward.
+@questions
+- Why is fearlessness listed first among the divine qualities?
+- How do vigor and forgiveness (16.3) belong together?
+- What is the root of the demonic qualities (16.4)?
 @argument
-C | Study materials in preparation
+P | There are two moral endowments | ref=16.5 | term=daivī and āsurī sampad | text=Divine and demonic.
+P | The divine is fearless, truthful, compassionate and forgiving | ref=16.1, 16.3 | text=A complete human character.
+P | The demonic is hypocritical, arrogant and angry | ref=16.4 | text=Rooted in self-inflation.
+C | The divine leads to liberation, the demonic to bondage | ref=16.5 | text=Character is destiny.
+I | Arjuna is born to the divine; he need not grieve | ref=16.5 | text=Pastoral reassurance.
+
+# section 6-20 | The demonic mind
+lead: A portrait of the demonic: its creed that the world has no truth or lord, its insatiable desire, its self-glorifying inner voice, and its descent into delusion.
+@notes
+16.7 | *Pravṛttiṁ ca nivṛttiṁ ca janā na vidur āsurāḥ*: they do not know "engagement and withdrawal," i.e., when to act and when to refrain.
+16.8 | *Asatyam apratiṣṭhaṁ te jagad āhur anīśvaram*: "the world is without truth, without foundation, without a lord." *Kāma-haitukam*: "caused by desire." Often read as a description of Lokāyata materialism.
+16.9 | *Prabhavanty ugra-karmāṇaḥ kṣayāya jagato 'hitāḥ*: "they rise up as enemies for the destruction of the world." Worldview leads to action.
+16.10 | *Kāmam āśritya duṣpūram*: "relying on desire that cannot be filled."
+16.11 | *Cintām aparimeyāṁ ca pralayāntām upāśritāḥ*: "clinging to immeasurable anxiety that ends only with death." Anxiety is the companion of insatiable desire.
+16.12 | *Āśā-pāśa-śatair baddhāḥ*: "bound by hundreds of ties of hope."
+16.13 | The first-person monologue begins: *idam adya mayā labdham*, "this I have gained today."
+16.15 | *Ko 'nyo 'sti sadṛśo mayā*: "who else is like me?" *Yakṣye dāsyāmi modiṣye*: "I will sacrifice, I will give, I will rejoice." Even religion and generosity become displays of ego.
+16.18 | *Mām ātma-para-deheṣu pradviṣantaḥ*: "hating me, who dwell in their own bodies and in others." Cruelty to others is hatred of God within them.
+16.19 | *Kṣipāmy ajasram aśubhān āsurīṣv eva yoniṣu*: "I hurl them into demonic wombs." A harsh verse that raises questions about divine justice.
+@reconstruction
+Two kinds of beings are created: divine and demonic {16.6}. Demonic people do not know when to act or refrain, and have no purity, conduct or truth {16.7}. They say the world has no truth, foundation or lord, and arises from desire alone {16.8}. Holding this view, they become cruel and destroy the world {16.9}. Relying on insatiable desire, full of hypocrisy and pride, they act on impure vows {16.10}. Anxious till death, they hold enjoyment to be the highest end {16.11}. Bound by countless hopes, given to desire and anger, they amass wealth unjustly {16.12}. "This I have gained today; this I will gain; this wealth is mine" {16.13}. "I killed that enemy and will kill others. I am lord, enjoyer, successful, strong, happy" {16.14}. "I am rich and well-born; who is like me? I will sacrifice, give, rejoice" {16.15}. Deluded, they fall into hell {16.16}. Their sacrifices are for show {16.17}. Full of ego and anger, they hate God in themselves and others {16.18}. God casts them into demonic births {16.19}, and they sink lower, never reaching him {16.20}.
+@insight
+The portrait is psychologically acute. It traces a chain from worldview (no truth, no lord, only desire) to motivation (insatiable desire, anxiety, hope) to action (unjust acquisition, violence) to self-image ("who is like me?"). The first-person monologue is a literary masterstroke. It lets the reader recognize the voice of acquisitive ego from the inside.
+The claim that even sacrifice and generosity can be demonic {16.15, 16.17} is important. Outward religious or charitable acts done for self-display are not virtuous. The verse that God "hurls" the cruel into demonic births {16.19} is hard. Commentators soften it by noting that God merely administers the consequences of their own choices.
+@sources
+The demonic creed resembles the doctrines attributed to the Lokāyata/Cārvāka school in later Sanskrit doxographies (e.g., Mādhava's *Sarva-darśana-saṅgraha*, ch. 1). The idea that hurting others is hating God within them echoes 13.28.
+@context
+Comparisons include Plato's portrait of the tyrannical soul ruled by insatiable appetite (*Republic* IX), the "rich fool" of Luke 12:16–21 ("I will pull down my barns and build greater"), and modern critiques of consumerism and the "hedonic treadmill."
+@matters
+The demonic monologue is not about others only. It names the voice of acquisitive ego that runs in all of us, and shows where it leads.
+@questions
+- How does the demonic worldview (16.8) lead to demonic action (16.9)?
+- Why can sacrifice and generosity themselves become demonic (16.15, 16.17)?
+- Compare the monologue of 16.13–15 with the "rich fool" of Luke 12. What do they share?
+- How should we read 16.19, where God casts the cruel into demonic births?
+@argument
+P | The demonic deny truth, foundation and lord | ref=16.8 | text=The world is driven by desire alone.
+P | Insatiable desire breeds anxiety and injustice | ref=16.10, 16.12 | term=kāma | text=Bound by countless hopes.
+C | The demonic mind is self-glorifying and cruel | ref=16.13, 16.15 | term=ahaṅkāra | text="Who else is like me?"
+I | It hates God in self and others | ref=16.18 | text=Cruelty to others is hatred of the divine within.
+I | It descends into ever deeper delusion | ref=16.19, 16.20 | text=Never reaching God.
+
+# section 21-24 | The three gates of hell, and the standard of scripture
+lead: Desire, anger and greed are the threefold gate to hell; one who abandons them does what is good for the self, and should take scripture as the standard of action.
+@notes
+16.21 | *Tri-vidhaṁ narakasyedaṁ dvāraṁ nāśanam ātmanaḥ*: "this threefold gate of hell, destructive of the self." *Kāmaḥ krodhas tathā lobhaḥ*: desire, anger, greed.
+16.22 | *Ācaraty ātmanaḥ śreyas*: "does what is good for the self," the *śreyas* Arjuna asked for in 2.7.
+16.23 | *Yaḥ śāstra-vidhim utsṛjya vartate kāma-kārataḥ*: "who casts aside scriptural injunction and acts on the impulse of desire."
+16.24 | *Tasmāc chāstraṁ pramāṇaṁ te kāryākārya-vyavasthitau*: "therefore let scripture be your standard (*pramāṇa*) in determining what should and should not be done." *Pramāṇa* is the technical term for a valid means of knowledge.
+@reconstruction
+Desire, anger and greed are the threefold gate of hell, which destroys the self, so abandon them {16.21}. One freed from these three gates of darkness does what is good for the self and reaches the supreme goal {16.22}. One who casts aside scripture and acts on desire's impulse attains neither perfection, happiness nor the supreme goal {16.23}. So let scripture be the standard of what to do and not do. Knowing its injunctions, act in this world {16.24}.
+@insight
+The "three gates" give a compact moral psychology. Desire (wanting), anger (frustrated wanting) and greed (wanting more) are three faces of one appetite. Closing them is the condition of all real good.
+The appeal to scripture is a counterweight to the chapter's portrait of impulsive, self-willed people. Its point is that moral life needs an external standard against the self-deceptions of desire. The demonic person's chief error is to make desire the measure of right. This is not blind obedience. *Pramāṇa* means a valid source of knowledge, and the very next chapter raises the case of those who act with faith outside scripture.
+@sources
+The "three gates" of desire, anger and greed parallel the Buddhist "three poisons" (greed, hatred and delusion; *rāga, dveṣa, moha*). The authority of *śāstra* as *pramāṇa* is a principle of Mīmāṁsā hermeneutics.
+@context
+The role of authoritative tradition against private impulse is debated in many ethical traditions, for example in Burke's defense of inherited wisdom, in Catholic moral theology's magisterium, and in Gadamer's rehabilitation of tradition in *Truth and Method*.
+@matters
+The section offers a practical safeguard: when desire, anger or greed is steering, look to a standard outside oneself.
+@questions
+- How are desire, anger and greed related as "three gates" (16.21)?
+- What does it mean to make scripture a *pramāṇa*, a means of knowledge, rather than a rulebook?
+- Is the appeal to scripture compatible with the Gītā's emphasis on inner understanding?
+@argument
+P | Desire, anger and greed destroy the self | ref=16.21 | term=kāma | text=The threefold gate of hell.
+P | Acting on desire's impulse attains nothing | ref=16.23 | text=No perfection, happiness or supreme goal.
+C | Let scripture be your standard of action | ref=16.24 | term=śāstra | text=An external measure against self-deception.
+I | Freed from the three gates, one does the true good | ref=16.22 | term=śreyas | text=And reaches the supreme goal.

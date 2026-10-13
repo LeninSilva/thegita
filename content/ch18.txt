@@ -1,7 +1,268 @@
-summary: The verses of this chapter are complete; its study apparatus is being added.
+summary: The final chapter gathers the whole teaching. Kṛṣṇa distinguishes renunciation from relinquishment, analyzes action into five factors, and classifies knowledge, action, agent, understanding, steadfastness and happiness by the guṇas. He grounds each person's work in their nature, describes the path to brahman and supreme devotion, and gives his last word: "Abandon all dharmas and take refuge in me alone." Arjuna's delusion is gone; he will do as Kṛṣṇa says.
 
-# section 1-78 | The chapter
+@overview
+Chapter 18, *mokṣa-saṁnyāsa-yoga*, is both a summary and a culmination. It recapitulates nearly every theme of the Gītā (action and its fruits, the guṇas, svadharma, knowledge, devotion and grace) and draws them into a final synthesis.
+It begins by settling the long-running question of renunciation. *Saṁnyāsa* is giving up desire-driven acts. *Tyāga* is giving up the fruits of all acts. Sacrifice, giving and austerity should never be abandoned, only their fruits {18.1–12}. A Sāṅkhya analysis follows. Every act has five factors, of which the self is not the sole agent, so the person free of I-making "does not kill and is not bound" {18.13–17}. The long middle section classifies knowledge, action, agent, understanding, steadfastness and happiness by the three guṇas {18.18–40}, completing the analysis of Chapters 14 and 17.
+Next comes the social teaching. The duties of the four orders arise from each one's nature, and "a person attains perfection by worshiping through their own work the one from whom all beings arise" {18.41–48}. The path of knowledge leads to becoming brahman, and from there to "supreme devotion to me" {18.49–55}. Then come grace and surrender. By God's grace one reaches the eternal abode, even while acting {18.56–62}. The climax is the "most secret" word: "Let your mind be on me… Abandon all dharmas and take refuge in me alone. I will free you from all evils; do not grieve" {18.64–66}.
+The chapter, and the Gītā, close with Arjuna's answer: "My delusion is destroyed; I have regained my memory… I will do as you say" {18.73}. Sañjaya's ecstatic epilogue follows {18.74–78}.
+
+@map
+node tyaga | 0 | Relinquish fruits, not actions | ref=18.2, 18.11 | term=tyāga | text=Sacrifice, giving and austerity are never to be abandoned.
+node five | 1 | Five factors of action | ref=18.14, 18.16 | term=daiva | text=Body, agent, instruments, efforts, and the divine; the self is not sole doer.
+node notkill | 1 | Free of I-making, one is not bound | kind=contrast | ref=18.17 | term=ahaṅkāra | text=The most contested verse on agency.
+node gunas | 2 | Everything classified by the guṇas | ref=18.20, 18.39 | term=guṇa | text=Knowledge, action, agent, understanding, steadfastness, happiness.
+node sva | 3 | Worship through your own work | kind=claim | ref=18.46, 18.47 | term=svadharma | text=Perfection through one's own nature-born duty.
+node brahman | 4 | Becoming brahman, then supreme devotion | ref=18.54, 18.55 | term=bhakti | text=Knowledge flowers into love.
+node grace | 4 | By my grace | ref=18.56, 18.58 | term=prasāda | text=Even while acting, one reaches the eternal abode.
+node nature | 5 | Your nature will compel you | ref=18.59, 18.61 | term=svabhāva | text=The Lord in the heart turns all beings.
+node surrender | 6 | Abandon all dharmas, take refuge in me | kind=center | ref=18.65, 18.66 | term=carama-śloka | text=The final, most secret word.
+node resolve | 7 | "I will do as you say" | kind=center | ref=18.73 | text=Delusion gone, memory regained, doubt dispelled.
+edge tyaga > five
+edge five > notkill | dashed
+edge five > gunas
+edge gunas > sva
+edge sva > brahman
+edge brahman > grace
+edge grace > nature
+edge nature > surrender
+edge surrender > resolve
+
+@research
+Chapter 18 is the battleground for competing accounts of the Gītā's final teaching. Śaṅkara reads 18.66 as the renunciation of all action for knowledge, the culmination of the path of the monk. Rāmānuja reads it as surrender to God's grace. His tradition developed the doctrine of *prapatti* and made 18.66 the *carama-śloka*, the "final verse." Tilak reads the chapter's whole structure as affirming action for the world's welfare: Arjuna, after all, fights. Modern scholars such as Malinar emphasize that the chapter combines these strands without fully resolving them.
+18.17, "even if he kills these people, he does not kill and is not bound," has received sustained ethical scrutiny. Critics (from early Western Indologists to contemporary philosophers) see it as morally dangerous. Defenders argue that it describes a condition so demanding (complete freedom from ego) that it cannot serve as an excuse. The svadharma verses {18.41–48} are central to modern debates on caste. Ambedkar cited them as evidence that the Gītā sanctifies caste. Gandhi and others reinterpreted them as vocational. Recent scholarship (e.g., by Arvind Sharma) considers both the historical meaning and possible modern reinterpretations.
+
+@questions
+- What is the difference between renunciation and relinquishment (18.2)? Why does it matter?
+- Is 18.17 morally defensible? Under what conditions, if any?
+- Does 18.66 cancel the earlier teaching about dharma, or fulfill it?
+- Arjuna says "I will do as you say" (18.73). Has he been persuaded, converted, or commanded?
+- Having read the whole Gītā, what is your answer to Arjuna's original question?
+
+# section 1-12 | Renunciation and relinquishment
+lead: Kṛṣṇa distinguishes renunciation (giving up desire-driven acts) from relinquishment (giving up fruits), and declares that sacrifice, giving and austerity must be done, without attachment.
+@notes
+18.1 | Arjuna's last question returns to the issue of Chapters 3–6: what are *saṁnyāsa* and *tyāga*?
+18.2 | *Kāmyānāṁ karmaṇāṁ nyāsaṁ saṁnyāsaṁ kavayo viduḥ*: renunciation is giving up "desire-driven acts" (*kāmya karma*, rites done for specific rewards). *Sarva-karma-phala-tyāgaṁ prāhus tyāgam*: relinquishment is giving up the fruit of all acts.
+18.3 | Two schools of thought: some say all action should be abandoned as faulty (probably Sāṅkhya ascetics), others that sacrifice, giving and austerity should not be (probably Mīmāṁsā ritualists).
+18.5 | *Yajña-dāna-tapaḥ-karma na tyājyam*: "acts of sacrifice, giving and austerity are not to be abandoned." They purify the wise.
+18.6 | *Etāny api tu karmāṇi saṅgaṁ tyaktvā phalāni ca*: "but even these, giving up attachment and fruits." *Me matam uttamam*: "my highest view."
+18.7 | Giving up prescribed duty out of delusion is tamasic.
+18.8 | Giving it up "because it is painful" (*duḥkham ity eva*) is rajasic.
+18.9 | *Kāryam ity eva yat karma*: doing what ought to be done "because it ought to be done" is sattvic relinquishment.
+18.11 | *Na hi deha-bhṛtā śakyaṁ tyaktuṁ karmāṇy aśeṣataḥ*: "no embodied being can give up actions entirely." Repeats the logic of 3.5.
+18.12 | For those who have not relinquished, the fruit is threefold (unwanted, wanted, mixed). For renunciants there is none.
 @reconstruction
-Study materials for this section are in preparation.
+Arjuna asks to know the truth of renunciation and relinquishment {18.1}. Renunciation is giving up desire-driven acts. Relinquishment is giving up the fruits of all acts {18.2}. Some say all action is faulty and should be abandoned, and others say sacrifice, giving and austerity should not be {18.3}. Kṛṣṇa's view: sacrifice, giving and austerity should be done, for they purify {18.5}, but without attachment or fruit {18.6}. Abandoning duty from delusion is tamasic {18.7}. Abandoning it as painful is rajasic {18.8}. Doing it because it ought to be done, without attachment, is sattvic {18.9}. Such a one neither hates unpleasant work nor clings to pleasant {18.10}. Since no embodied being can stop acting, the true relinquisher is the one who gives up fruits {18.11}. For such a person, action leaves no binding fruit {18.12}.
+@insight
+The section settles the Gītā's long debate with renunciation. It takes the two positions of its time, the ascetic (abandon action) and the ritualist (keep sacred acts), and synthesizes them. Keep the acts, abandon the fruits. The definition of relinquishment as giving up fruits rather than acts is the Gītā's decisive contribution to Indian ethics.
+The guṇa analysis of relinquishment is psychologically penetrating. People abandon duties out of confusion (tamas) or because they are hard (rajas). Only doing what must be done, without attachment, is true freedom (sattva). This applies to anyone tempted to quit a responsibility under the banner of "letting go."
+@sources
+The debate between those who renounce all action and those who keep ritual reflects the Sāṅkhya-Mīmāṁsā tension visible throughout the epic. The classification of action into obligatory (*nitya*), occasional (*naimittika*) and desire-driven (*kāmya*) is Mīmāṁsā terminology.
+@context
+The distinction parallels debates about "quitting" versus "letting go" in contemporary psychology, and the Stoic distinction between abandoning one's post and enduring it without attachment (Epictetus on the soldier's post).
+@matters
+The section helps distinguish genuine detachment from avoidance: letting go of results is freedom, while dropping a duty because it is hard is not.
+@questions
+- What is the difference between renunciation and relinquishment (18.2)?
+- Give an example of tamasic, rajasic and sattvic "letting go" (18.7–9).
+- Why must sacrifice, giving and austerity never be abandoned (18.5)?
 @argument
-C | Study materials in preparation
+P | Renunciation is giving up desire-driven acts; relinquishment is giving up fruits | ref=18.2 | term=tyāga | text=Two different things.
+P | No embodied being can stop acting | ref=18.11 | text=Total renunciation of action is impossible.
+C | Do sacrifice, giving and austerity without attachment to fruits | ref=18.5, 18.6 | text=Kṛṣṇa's highest view.
+I | Quitting a duty because it is hard is not freedom | ref=18.8, 18.9 | term=guṇa | text=Only sattvic relinquishment frees.
+
+# section 13-18 | The five factors of action
+lead: Every act has five causes; one who thinks the self alone is the agent does not see, and one free of I-making is not bound even in killing.
+@notes
+18.13 | *Pañcaitāni mahā-bāho kāraṇāni nibodha me sāṅkhye kṛtānte*: "five causes, taught in the Sāṅkhya doctrine."
+18.14 | *Adhiṣṭhānaṁ tathā kartā karaṇaṁ ca pṛthag-vidham vividhāś ca pṛthak ceṣṭā daivaṁ caivātra pañcamam*: the basis (body), the agent, the instruments, the various efforts, and the divine (*daiva*). See the translator's note on *daiva*.
+18.16 | *Kevalam ātmānaṁ kartāram*: one who sees "the self alone as the agent" has an unformed understanding (*akṛta-buddhi*).
+18.17 | *Yasya nāhaṅkṛto bhāvo buddhir yasya na lipyate hatvāpi sa imāl lokān na hanti na nibadhyate*: "one free of I-making, whose understanding is untainted, even if he kills these people, does not kill and is not bound." See the chapter's research note.
+18.18 | The "impulse" (*codanā*) to action: knowledge, the known and the knower. The "components" (*saṅgraha*): instrument, act and agent.
+@reconstruction
+Every act has five causes, as Sāṅkhya teaches {18.13}: the body, the agent, the instruments, the various efforts, and the divine {18.14}. Whatever one does by body, speech or mind, right or wrong, these five are its causes {18.15}. So one who sees the self alone as the agent does not see {18.16}. One who is free of I-making, whose understanding is untainted, does not kill and is not bound, even in killing {18.17}. Knowledge, the known and the knower prompt action. Instrument, act and agent constitute it {18.18}.
+@insight
+The five-factor analysis is the Gītā's most explicit theory of agency. It denies that any act has a single cause. The body, the faculties, the efforts, the agent's will and the unforeseeable "divine" all contribute. The ego's claim "I did this" is therefore always an oversimplification.
+This leads to 18.17, the Gītā's most disturbing claim. The person free of I-making "does not kill" even when killing. Read carelessly, it seems to license atrocity. Read in context, it describes a condition of total egolessness so rare that no one could honestly claim it as an excuse. The verse is better read as a statement about the source of bondage (ego) than as a statement about the permissibility of acts. Even so, it remains a crux. Readers should weigh carefully whether the Gītā's metaphysics of agency is compatible with ordinary moral responsibility.
+@sources
+The five factors correspond to Sāṅkhya-Nyāya analyses of action. The idea of *daiva* as a factor beyond human control is pervasive in the epic's debates on fate and effort (e.g., *Mahābhārata* 3.33).
+@context
+Contemporary philosophy of action, the problem of "moral luck" (Bernard Williams, Thomas Nagel), and debates on distributed causation and collective responsibility all engage the insight that outcomes have many causes. Hannah Arendt's analysis of the "banality of evil," in which functionaries disclaim responsibility, is a sobering counterpoint to any misuse of 18.17.
+@matters
+Recognizing that every act has many causes can free us from both pride and crushing guilt, but it must not become a way of disowning what we do.
+@questions
+- What does the five-factor analysis (18.14) imply about praise and blame?
+- Is 18.17 morally dangerous? How would you defend or criticize it?
+- Compare 18.17 with a functionary's "I was just following orders." What distinguishes them?
+@argument
+P | Every act has five causes | ref=18.14, 18.15 | term=daiva | text=Body, agent, instruments, efforts, the divine.
+P | Seeing the self alone as agent is a distorted view | ref=18.16 | text=The ego oversimplifies.
+C | One free of I-making is not bound by action | ref=18.17 | term=ahaṅkāra | text=Bondage comes from ego, not from acts as such.
+I | The claim is easily abused | text=It describes rare egolessness, not an excuse.
+
+# section 19-40 | Knowledge, action, agent, understanding, steadfastness and happiness
+lead: Kṛṣṇa classifies by the three guṇas the knowledge that guides action, the action itself, the agent, the understanding, the steadfastness that sustains it, and the happiness it yields.
+@notes
+18.20 | *Sarva-bhūteṣu yenaikaṁ bhāvam avyayam īkṣate avibhaktaṁ vibhakteṣu*: sattvic knowledge sees "one imperishable being in all beings, undivided in the divided."
+18.21 | Rajasic knowledge sees separateness, many distinct beings.
+18.22 | Tamasic knowledge clings to "a single effect as if it were the whole," the narrow fanatic's view.
+18.25 | Tamasic action is undertaken "without regard to consequences, loss, harm or one's own capacity." This shows the Gītā does not advocate ignoring consequences.
+18.26 | The sattvic agent is *mukta-saṅgo 'nahaṁ-vādī*, "free of attachment, not speaking of himself," *dhṛty-utsāha-samanvitaḥ*, "with steadfastness and enthusiasm."
+18.28 | Eight marks of the tamasic agent, including *dīrgha-sūtrī*, "procrastinating," literally "long-threaded."
+18.30 | Sattvic understanding knows *pravṛtti* and *nivṛtti* (engagement and withdrawal), *bandha* and *mokṣa* (bondage and liberation).
+18.32 | Tamasic understanding "takes adharma for dharma." Moral perception itself can be inverted.
+18.37 | *Yat tad agre viṣam iva pariṇāme 'mṛtopamam*: sattvic happiness is "like poison at first and nectar in the end." The discipline of delayed gratification.
+18.38 | Rajasic happiness is "like nectar at first and poison in the end."
+18.40 | *Na tad asti pṛthivyāṁ vā divi deveṣu vā punaḥ sattvaṁ prakṛti-jair muktaṁ yad ebhiḥ syāt tribhir guṇaiḥ*: no being anywhere is free of the three guṇas.
+@reconstruction
+Knowledge, action and agent are threefold by the guṇas {18.19}. Sattvic knowledge sees one imperishable being in all, undivided in the divided {18.20}. Rajasic knowledge sees only separate beings {18.21}. Tamasic knowledge clings to one thing as if it were the whole {18.22}. Sattvic action is done without attachment or desire {18.23}. Rajasic action is done for desire, with ego and strain {18.24}. Tamasic action is done in delusion, heedless of consequence and capacity {18.25}. The sattvic agent is unattached, humble, steady and enthusiastic, unchanged by success or failure {18.26}. The rajasic is passionate, greedy, violent and volatile {18.27}. The tamasic is undisciplined, stubborn, deceitful, lazy and procrastinating {18.28}. Understanding and steadfastness are threefold too {18.29}. Sattvic understanding knows when to act and when to refrain, and knows bondage and liberation {18.30}. Rajasic understanding misjudges {18.31}. Tamasic understanding inverts dharma {18.32}. Sattvic steadfastness holds mind, breath and senses in yoga {18.33}. Rajasic steadfastness clings to duty, pleasure and wealth for gain {18.34}. Tamasic steadfastness clings to sleep, fear and grief {18.35}. Sattvic happiness is poison at first and nectar at last {18.37}. Rajasic happiness is nectar at first and poison at last {18.38}. Tamasic happiness is delusion throughout {18.39}. Nothing in any world is free of the guṇas {18.40}.
+@insight
+This long classification completes the Gītā's moral psychology. Its most important lesson is that the same faculties (knowledge, understanding, steadfastness, happiness) can be good, mixed or corrupt. Steadfastness, usually a virtue, can be tamasic, as in the stubborn clinging to grief. Happiness can be a trap.
+Two verses deserve particular attention. 18.22 describes tamasic knowledge as clinging to one fragment as if it were the whole, an exact description of fanaticism. 18.25 shows that the Gītā does *not* teach indifference to consequences. Action without regard for consequences is tamasic. Non-attachment to results is not the same as ignoring them.
+@sources
+The classification extends Chapters 14 and 17. The image of poison and nectar recalls *Kaṭha* 2.1–2 (the good, *śreyas*, versus the pleasant, *preyas*).
+@context
+Aristotle's distinction between true and apparent goods, his account of practical wisdom (*phronēsis*) as knowing when and how to act, and modern research on delayed gratification (Walter Mischel's "marshmallow test") all bear on this section.
+@matters
+The section offers a diagnostic for one's own knowing, acting and enjoying. Is my knowledge unifying or fragmenting? Is my steadfastness wise or stubborn? Is my happiness nectar now and poison later?
+@questions
+- Why is tamasic knowledge (18.22) a good description of fanaticism?
+- How does 18.25 refute the idea that the Gītā teaches indifference to consequences?
+- Give examples from your life of sattvic and rajasic happiness (18.37–38).
+@argument
+P | Knowledge, action and agent are each threefold | ref=18.19, 18.28 | term=guṇa | text=The same faculty can be good, mixed or corrupt.
+P | Understanding and steadfastness can also be distorted | ref=18.31, 18.35 | term=dhṛti | text=Even virtues can be tamasic.
+C | Sattvic knowledge sees unity; sattvic happiness ends in nectar | ref=18.20, 18.37 | term=sattva | text=The marks of a clarified life.
+I | Non-attachment is not indifference to consequences | ref=18.25 | text=Ignoring consequences is tamasic.
+I | No being is free of the guṇas | ref=18.40 | text=Self-knowledge requires seeing their mixture.
+
+# section 41-48 | Perfection through one's own work
+lead: The duties of the four orders arise from their nature; by worshiping God through one's own work one attains perfection; better one's own dharma, though flawed, than another's.
+@notes
+18.41 | *Svabhāva-prabhavair guṇaiḥ*: duties are distributed "according to the guṇas arising from their own nature."
+18.42 | The brāhmaṇa's nature: calm, self-restraint, austerity, purity, patience, uprightness, knowledge, discernment and faith (*āstikya*).
+18.43 | The kṣatriya's nature: heroism, vigor, steadfastness, skill, not fleeing in battle, generosity and leadership.
+18.44 | The vaiśya: farming, cattle-keeping, trade. The śūdra: service. This verse is central to critiques of the Gītā's caste ideology.
+18.45 | *Sve sve karmaṇy abhirataḥ saṁsiddhiṁ labhate naraḥ*: "each, delighting in his own work, attains perfection."
+18.46 | *Sva-karmaṇā tam abhyarcya siddhiṁ vindati mānavaḥ*: "worshiping him through one's own work, a person finds perfection." Work itself becomes worship.
+18.47 | Repeats 3.35: "better one's own dharma, though imperfect."
+18.48 | *Sarvārambhā hi doṣeṇa dhūmenāgnir ivāvṛtāḥ*: "all undertakings are clouded by flaws, as fire by smoke." No work is pure, so do not abandon your own for its flaws.
+@reconstruction
+The duties of brāhmaṇas, kṣatriyas, vaiśyas and śūdras are distributed according to the guṇas of their nature {18.41}. The brāhmaṇa's is calm, restraint, austerity, purity, patience, uprightness, knowledge and faith {18.42}. The kṣatriya's is heroism, vigor, steadiness, skill, courage, generosity and leadership {18.43}. The vaiśya's is farming, herding and trade, and the śūdra's is service {18.44}. Each attains perfection by delighting in their own work {18.45}. Worshiping through one's work the one from whom beings arise and who pervades all, one finds perfection {18.46}. Better one's own dharma, though imperfect, than another's well done {18.47}. Do not abandon your natural work even if flawed, for all work is clouded by flaws as fire by smoke {18.48}.
+@insight
+This section contains both the Gītā's most problematic and its most inspiring teaching on work. Problematic, because it describes a hereditary social order (as the tradition generally understood it) in which the śūdra's nature is service. Ambedkar and other critics rightly see here a sanctification of caste. Inspiring, because 18.46 makes every kind of work, however humble, a form of worship and a path to perfection.
+Modern readers have tried to separate these. They read *svabhāva* as individual temperament rather than birth, and the four orders as types of vocation. Whether this is faithful to the text or a creative reinterpretation is a genuine question. What is clear is that the principle of 18.46, worship through one's own work, can stand on its own. The realism of 18.48 ("all undertakings are clouded by flaws") is also valuable. No work is pure, and waiting for perfect conditions means never acting.
+@sources
+The duties of the four orders follow the Dharmaśāstras (*Manu* 1.87–91, 10.74–80). The image of fire and smoke recalls 3.38.
+@context
+Max Weber's analysis of the Protestant "calling" (*Beruf*), in which worldly work becomes a religious vocation, is the classic parallel to 18.46. Plato's *Republic*, where justice is each class doing its own work, offers a parallel to the social theory, with similar problems of hierarchy.
+@matters
+Whatever one makes of the social structure, the idea that one's own work, done well and offered, is a path to perfection gives dignity to every honest occupation.
+@questions
+- Can 18.41–44 be read without endorsing caste? What would be lost or gained?
+- What does it mean to "worship God through one's own work" (18.46)?
+- How does 18.48 ("all undertakings are clouded by flaws") help someone stuck in perfectionism?
+@argument
+P | Each order's duties arise from its nature | ref=18.41, 18.44 | term=varṇa | text=Brāhmaṇa, kṣatriya, vaiśya, śūdra.
+P | Work done as worship leads to perfection | ref=18.45, 18.46 | text=Each delighting in their own work.
+C | Better one's own dharma, though imperfect | ref=18.47 | term=svadharma | text=Do not abandon your work for its flaws.
+I | All work is clouded by flaws | ref=18.48 | text=Perfectionism is no reason to quit.
+I | The social framework is contested | text=Caste or vocation? Readers must judge.
+
+# section 49-55 | From perfection to brahman to supreme devotion
+lead: The one who has reached perfection in action, disciplined and free of ego, becomes brahman; from there comes supreme devotion, through which God is known in truth.
+@notes
+18.49 | *Naiṣkarmya-siddhiṁ paramāṁ saṁnyāsenādhigacchati*: "through renunciation one reaches the supreme perfection of freedom from action."
+18.50 | *Niṣṭhā jñānasya yā parā*: "the highest culmination of knowledge."
+18.51 | A summary of the contemplative discipline: purified understanding, steadfast self-control, withdrawal from sense-objects, solitude, light eating, restraint of speech, body and mind, meditation, dispassion, and freedom from ego, force, pride, desire, anger and possessiveness.
+18.54 | *Brahma-bhūtaḥ prasannātmā na śocati na kāṅkṣati samaḥ sarveṣu bhūteṣu mad-bhaktiṁ labhate parām*: "having become brahman, serene, one neither grieves nor desires; equal toward all beings, one attains supreme devotion to me." Devotion follows realization.
+18.55 | *Bhaktyā mām abhijānāti*: "through devotion one knows me in truth." *Viśate tad-anantaram*: "then enters me at once."
+@reconstruction
+With understanding unattached, self-conquered and free of longing, one reaches through renunciation the supreme perfection of freedom from action {18.49}. Kṛṣṇa will tell briefly how one reaches brahman, the culmination of knowledge {18.50}. With purified understanding, controlling the self, turning from sense-objects, setting aside attraction and aversion {18.51}, living in solitude, eating lightly, restraining speech, body and mind, intent on meditation, dispassionate {18.52}, free of ego, force, pride, desire, anger and possessiveness, at peace, one becomes fit for brahman {18.53}. Having become brahman and serene, one neither grieves nor craves and is equal toward all beings. Then one attains supreme devotion to God {18.54}. Through devotion one knows God truly, who and what he is, and having known him, enters him {18.55}.
+@insight
+This section resolves the relationship between knowledge and devotion with an unexpected sequence. The path of knowledge leads to "becoming brahman," and *then*, beyond that realization, comes supreme devotion {18.54}. Devotion is not a lower stage for those incapable of knowledge. It is what flowers after realization. And through it God is known "in truth" {18.55}.
+Advaitins read this as devotion that is identical with knowledge. Theists read it as love that surpasses even the realization of brahman. Either way, the Gītā refuses to set knowledge and love in opposition. Their deepest forms are one.
+@sources
+The contemplative program summarizes Chapters 2 and 6 and anticipates the *Yoga-sūtra*'s eightfold path. "Having become brahman" (*brahma-bhūta*) repeats 5.24 and 6.27.
+@context
+Christian mysticism debates whether knowledge or love is the higher union (Thomas Aquinas favors the intellect, while Bonaventure and *The Cloud of Unknowing* favor love). The Gītā's sequence of knowledge then love resembles Bernard of Clairvaux's view that love perfects understanding.
+@matters
+The section suggests that the end of the intellectual and contemplative path is not cold detachment but love.
+@questions
+- Why does supreme devotion come after "becoming brahman" (18.54)?
+- What does it mean to "know God in truth through devotion" (18.55)?
+- Is love higher than knowledge, or the same at its peak?
+@argument
+P | The disciplined, ego-free person reaches perfection | ref=18.49, 18.53 | term=naiṣkarmya | text=Freedom from action within action.
+P | Such a person becomes brahman | ref=18.54 | term=brahman | text=Serene, equal toward all.
+C | From brahman comes supreme devotion | ref=18.54 | term=bhakti | text=Love flowers after realization.
+I | Through devotion God is known in truth and entered | ref=18.55 | text=Knowledge and love meet.
+
+# section 56-66 | Grace and surrender: the most secret word
+lead: Even while acting, one who takes refuge in God reaches the eternal abode by grace; Arjuna's nature will compel him to act; the Lord moves all beings; the final teaching is to abandon all dharmas and take refuge in God.
+@notes
+18.56 | *Sarva-karmāṇy api sadā kurvāṇo mad-vyapāśrayaḥ mat-prasādād avāpnoti*: "even while always performing all actions, taking refuge in me, by my grace one attains." Grace is available to the active, not only to renunciants.
+18.57 | *Cetasā sarva-karmāṇi mayi saṁnyasya*: "mentally surrendering all actions to me." Renunciation is inner.
+18.58 | *Mac-cittaḥ sarva-durgāṇi mat-prasādāt tariṣyasi*: "with your thought on me, you will cross every obstacle by my grace."
+18.59 | *Mithyaiṣa vyavasāyas te prakṛtis tvāṁ niyokṣyati*: "this resolve of yours is vain; your nature will compel you." Arjuna's "I will not fight" (2.9) is overruled by his own nature.
+18.61 | *Īśvaraḥ sarva-bhūtānāṁ hṛd-deśe 'rjuna tiṣṭhati bhrāmayan sarva-bhūtāni yantrārūḍhāni māyayā*: the Lord in the heart turns all beings "as if mounted on a machine." It is a striking image of divine control.
+18.63 | *Vimṛśyaitad aśeṣeṇa yathecchasi tathā kuru*: "reflect on this fully, then do as you wish." Kṛṣṇa leaves the choice to Arjuna.
+18.64 | *Sarva-guhyatamam*: "most secret of all." *Iṣṭo 'si me dṛḍham*: "you are deeply loved by me."
+18.65 | Repeats 9.34, adding *satyaṁ te pratijāne priyo 'si me*: "I promise you truly, for you are dear to me."
+18.66 | *Sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja; ahaṁ tvā sarva-pāpebhyo mokṣayiṣyāmi mā śucaḥ*. The *carama-śloka*. See the translator's note.
+@reconstruction
+Even while always acting, one who relies on God reaches the eternal abode by his grace {18.56}. So surrender all actions to God in your mind, hold him supreme, take up the yoga of understanding, and keep him in thought {18.57}. With your mind on God you will cross all obstacles by grace. But if you will not listen, out of ego, you will perish {18.58}. If, from ego, you think "I will not fight," the resolve is vain, because your nature will compel you {18.59}. Bound by your own nature-born action, you will do what you do not wish to do {18.60}. The Lord dwells in every heart, turning all beings by his māyā as if on a machine {18.61}. Take refuge in him with your whole being, and by his grace reach supreme peace {18.62}. This is the most secret knowledge. Reflect and do as you wish {18.63}. Hear the supreme word, for you are deeply loved {18.64}. Fix your mind on me, devote yourself, sacrifice and bow to me. You will come to me, I promise, for you are dear {18.65}. Abandon all dharmas and take refuge in me alone. I will free you from all evils. Do not grieve {18.66}.
+@insight
+The section moves through three ideas that seem to pull in different directions. First, determinism: "your nature will compel you" {18.59–60}, and the Lord moves all beings like a machine {18.61}. Second, freedom: "reflect on this fully, then do as you wish" {18.63}. Third, grace: "take refuge in me alone; I will free you" {18.66}. How can Arjuna be both compelled by nature and free to choose, and both responsible and saved by grace?
+The Gītā's implicit answer is that Arjuna is not free to stop acting, since nature will act through him, but he is free in *how* he relates to his action: from ego, or in surrender. The deepest freedom is the freedom to take refuge. 18.66 then cuts through all the preceding structures of dharma, yoga and discipline with an offer of grace that asks only trust. "Do not grieve" (*mā śucaḥ*) answers the grief of Chapter 1 directly.
+@sources
+The image of beings on a machine (*yantra*) may refer to a puppet show or a potter's wheel. *Śvetāśvatara* 6.18 ("seeking liberation, I take refuge in that God who is the light of self-knowledge") is a precedent for 18.66's language of refuge.
+@context
+The tension between divine sovereignty and human freedom is central to Augustine, Luther (*The Bondage of the Will*) and Islamic theology. The language of surrender to grace in 18.66 has been compared with Luther's *sola gratia* and with the Pure Land teaching of reliance on Amida's "other-power" (*tariki*). Both comparisons are illuminating and both have limits.
+@matters
+The section speaks to anyone weighed down by duties and failures. After all the disciplines, the final offer is trust: "I will free you; do not grieve."
+@questions
+- How can Arjuna be compelled by his nature (18.59) and yet free to choose (18.63)?
+- What does "abandon all dharmas" (18.66) mean? Compare Śaṅkara's, Rāmānuja's and a modern reading.
+- How does "do not grieve" (18.66) answer the opening of the Gītā?
+@argument
+P | Grace is available even to those who act | ref=18.56, 18.58 | term=prasāda | text=Surrender all actions inwardly to God.
+P | Nature will compel Arjuna to act | ref=18.59, 18.61 | term=svabhāva | text=The Lord moves all beings.
+P | Arjuna is left free to reflect and choose | ref=18.63 | text="Do as you wish."
+C | Abandon all dharmas and take refuge in God alone | ref=18.66 | term=carama-śloka | text=The final, most secret word.
+I | God will free you from all evils; do not grieve | ref=18.66 | text=The answer to Arjuna's grief.
+
+# section 67-78 | The glory of the teaching and Arjuna's resolve
+lead: Kṛṣṇa praises those who teach and study this dialogue; Arjuna declares his delusion destroyed and his resolve restored; Sañjaya closes with rapture and a blessing.
+@notes
+18.67 | Conditions for teaching: not to one without austerity, devotion, willingness to listen, or who scorns God.
+18.68 | *Ya imaṁ paramaṁ guhyaṁ mad-bhakteṣv abhidhāsyati*: one who teaches this to devotees will come to God. Teaching the Gītā is itself devotion.
+18.70 | *Jñāna-yajñena*: studying the dialogue is worship by "the sacrifice of knowledge."
+18.72 | Kṛṣṇa asks two questions: did you hear with one-pointed mind? Is your delusion gone? The teacher checks the student's understanding.
+18.73 | *Naṣṭo mohaḥ smṛtir labdhā tvat-prasādān mayācyuta sthito 'smi gata-sandehaḥ kariṣye vacanaṁ tava*: "my delusion is destroyed, I have regained memory by your grace, Acyuta; I stand firm, doubt gone; I will do as you say." *Smṛti* (memory) reverses the "confusion of memory" of 2.63. *Sthito 'smi* ("I stand") answers 1.47, where he sank down.
+18.74 | *Romaharṣaṇam*: "hair-raising." The same bodily sign as Arjuna's terror in 1.29, now transformed into wonder.
+18.75 | *Vyāsa-prasādāt*: "by the grace of Vyāsa." Sañjaya heard by the gift of the epic's author.
+18.78 | *Yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanur-dharaḥ tatra śrīr vijayo bhūtir dhruvā nītir matir mama*: the Gītā ends with *mama*, "my" ("in my view"), framing the text from *dharma* (1.1) to *mama* (18.78).
+@reconstruction
+This teaching should not be given to the undisciplined, the undevoted, the unwilling or the scornful {18.67}. Whoever teaches it to devotees, with devotion, will come to God {18.68}, and no one is dearer to him {18.69}. Studying this dialogue is worship by the sacrifice of knowledge {18.70}. Even hearing it with faith brings good worlds {18.71}. Kṛṣṇa asks whether Arjuna has listened and whether his delusion is gone {18.72}. Arjuna answers that his delusion is destroyed and his memory regained by grace. He stands firm, without doubt, and will do as told {18.73}. Sañjaya says he has heard this wondrous, hair-raising dialogue {18.74} by Vyāsa's grace {18.75}. Remembering it, and remembering Hari's form, he rejoices again and again {18.76–77}. Where Kṛṣṇa, lord of yoga, and Arjuna, the archer, are, there are fortune, victory, prosperity and right policy {18.78}.
+@insight
+The ending completes the drama with precise echoes. Arjuna "sank down" (1.47) and now "stands" (18.73). His "confused" mind (2.7) is now free of doubt. The "confusion of memory" that destroys (2.63) is reversed: he has regained *smṛti*. The bodily trembling of terror (1.29) returns in Sañjaya as rapture (18.74). The Gītā is shaped as a story of restoration.
+What exactly has Arjuna regained? Commentators differ. Śaṅkara says knowledge of the self. Rāmānuja says remembrance of his true relation to God. Modern readers say clarity about his duty. Notice also what is *not* said: Arjuna does not say the war is good or that he is happy to kill. He says he will act. The Gītā ends at the threshold of action, and the rest of the epic will test it.
+@sources
+The rules about who may receive the teaching parallel the Upaniṣads' restrictions on transmitting secret knowledge (*Śvetāśvatara* 6.22). The closing blessing names the four goods of kingship: *śrī* (fortune), *vijaya* (victory), *bhūti* (prosperity) and *nīti* (policy).
+@context
+Classical drama often ends with a recognition (*anagnōrisis*, Aristotle's *Poetics*) and a reversal. The Gītā's ending, in which the hero recognizes the truth and turns to act, follows this pattern, but leaves the tragedy of the war ahead.
+@matters
+The ending asks each reader the question Kṛṣṇa asks Arjuna: has your delusion been destroyed? And what will you now do?
+@questions
+- What exactly has Arjuna "remembered" (18.73)?
+- Is Arjuna's "I will do as you say" persuasion, conversion or obedience?
+- Trace the echoes between Chapter 1 and 18.73–74. What do they show about the Gītā's shape?
+- The Gītā ends with "my" (*mama*). What is the significance of beginning with "dharma" and ending with "my"?
+@argument
+P | Teaching and studying the dialogue is worship | ref=18.68, 18.70 | term=jñāna | text=The sacrifice of knowledge.
+P | Kṛṣṇa checks Arjuna's understanding | ref=18.72 | text=Has your delusion gone?
+C | Arjuna's delusion is destroyed; he will act | ref=18.73 | term=śruti and smṛti | text=Memory regained, doubt gone, he stands.
+I | Where Kṛṣṇa and Arjuna are, there is fortune and right policy | ref=18.78 | text=Divine grace and human effort together.
+I | The Gītā ends at the threshold of action | text=The epic will test the teaching.
