@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Gītā Companion</title>
+<meta name="description" content="A study companion to the Bhagavad Gītā: a verse-by-verse translation with footnotes, analysis, diagrams, glossary, highlighting and notes. Works offline.">
+<meta name="theme-color" content="#f4ede0" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#17140f" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Gītā">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="topbar" id="topbar">
+  <button class="iconbtn" id="backBtn" aria-label="Back" hidden>
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>
+  </button>
+  <div class="toptitle" id="topTitle">Gītā Companion</div>
+  <button class="iconbtn" id="settingsBtn" aria-label="Reading settings">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 18L9 6l5 12M5.8 14h6.4M15 18l3-7 3 7M15.8 16h4.4"/></svg>
+  </button>
+</header>
+
+<main id="main" tabindex="-1">
+  <div class="loading" id="loading">
+    <div class="lotus" aria-hidden="true"></div>
+    <p>Opening the text…</p>
+  </div>
+</main>
+
+<nav class="tabbar" aria-label="Primary">
+  <a href="#/" data-tab="home"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 11l8-6 8 6v8H4z"/></svg><span>Home</span></a>
+  <a href="#/read" data-tab="read"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5c3 0 6 1 8 2.5C14 6 17 5 20 5v13c-3 0-6 1-8 2.5C10 19 7 18 4 18zM12 7.5v13"/></svg><span>Read</span></a>
+  <a href="#/search" data-tab="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6"/><path d="M20 20l-4.5-4.5"/></svg><span>Search</span></a>
+  <a href="#/glossary" data-tab="glossary"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 4h11v16H6a2 2 0 01-2-2V6a2 2 0 012-2zM8 8h6M8 12h6"/></svg><span>Glossary</span></a>
+  <a href="#/notes" data-tab="notes"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h14v12l-5 4H5zM14 20v-4h5M8 8h8M8 12h5"/></svg><span>My notes</span></a>
+</nav>
+
+<div class="selbar" id="selbar" role="toolbar" aria-label="Highlight selection" hidden>
+  <span class="selbar-label">Highlight</span>
+  <button class="dot c-yellow" data-color="yellow" aria-label="Yellow"></button>
+  <button class="dot c-green" data-color="green" aria-label="Green"></button>
+  <button class="dot c-blue" data-color="blue" aria-label="Blue"></button>
+  <button class="dot c-pink" data-color="pink" aria-label="Pink"></button>
+  <button class="dot c-purple" data-color="purple" aria-label="Purple"></button>
+  <button class="selbar-note" data-action="note">+ Note</button>
+</div>
+
+<div class="sheet-wrap" id="sheetWrap" hidden>
+  <div class="sheet-backdrop" data-close></div>
+  <section class="sheet" role="dialog" aria-modal="true" aria-labelledby="sheetTitle">
+    <div class="sheet-grip" aria-hidden="true"></div>
+    <button class="iconbtn sheet-close" data-close aria-label="Close">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
+    </button>
+    <div class="sheet-body" id="sheetBody"></div>
+  </section>
+</div>
+
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+<noscript><p style="padding:2rem">This study companion needs JavaScript to run.</p></noscript>
+<script src="app.js" defer></script>
+</body>
+</html>

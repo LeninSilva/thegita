@@ -1,0 +1,158 @@
+summary: On the field of Kurukṣetra the two armies face each other. Arjuna asks Kṛṣṇa to drive his chariot between them, sees his teachers, kinsmen and friends ready to die, and collapses. He gives four arguments against fighting, lays down his bow and sinks down in grief.
+
+@overview
+The first chapter is pure narrative and lament, with no teaching from Kṛṣṇa at all. Yet it is indispensable. It sets out the problem that the remaining seventeen chapters must solve, and it shows that problem not as an abstract puzzle but as a breakdown in a particular person at a particular moment.
+The chapter moves in a tightening spiral. It opens wide, with a blind king asking a seer what is happening, then the enemy commander listing champions, then the roar of conches. It narrows to Arjuna's chariot between the armies, then to what Arjuna sees, and finally to Arjuna's own trembling body and his collapse. The structure enacts the way a public crisis becomes a private one.
+Arjuna's arguments deserve to be taken seriously, and much modern scholarship does. He reasons from consequences (no good can come of killing kin), from the moral order of the family and its dharma, from the logic of desire (what is a kingdom without those to share it with?), and from a principle of non-resistance. Kṛṣṇa will not refute these arguments directly. He will change the level at which the question is asked.
+
+@map
+node field | 0 | The field of dharma | kind=center | ref=1.1 | term=kṣetra | text=The war is set "on the field of dharma, the field of the Kurus." The double name makes the battlefield a moral arena from the first line.
+node kaur | 1 | Kaurava army | ref=1.2, 1.11 | term=Kauravas | text=Led by Duryodhana, anxious and boastful, relying on Bhīṣma.
+node pand | 1 | Pāṇḍava army | ref=1.14, 1.19 | term=Pāṇḍavas | text=Kṛṣṇa and Arjuna blow divine conches; the sound tears the hearts of the other side.
+node sight | 2 | Arjuna sees his own people | ref=1.26 | text=Between the armies he sees fathers, teachers, uncles, brothers, sons and friends.
+node body | 3 | Bodily collapse | ref=1.29, 1.30 | term=viṣāda | text=Limbs fail, mouth dries, the bow slips. The crisis is physical before it is argued.
+node a1 | 4 | No good in killing kin | kind=premise | ref=1.31, 1.36 | text=A consequence argument: victory and pleasures are worthless at this price, and evil would cling to us.
+node a2 | 4 | Family dharma will collapse | kind=premise | ref=1.40, 1.43 | term=kula-dharma | text=A social-order argument: destroying families destroys the dharma that holds society and the ancestors together.
+node a3 | 5 | Better to die unresisting | kind=claim | ref=1.46 | text=Arjuna concludes he would rather be killed unarmed than fight.
+node mix | 5 | Mixing of social orders | kind=implication | ref=1.41 | term=varṇa-saṅkara | detail=1 | text=Arjuna's chain of feared consequences: lawlessness, corrupted women, mixed orders, fallen ancestors.
+node greed | 4 | They are blinded by greed; we are not | kind=premise | ref=1.38, 1.39 | detail=1 | text=An asymmetry argument: the enemy's wrong does not license ours.
+edge field > kaur
+edge field > pand
+edge kaur > sight
+edge pand > sight
+edge sight > body
+edge body > a1 | grief reasons
+edge body > a2 | grief reasons
+edge a1 > a3
+edge a2 > a3
+edge a2 > mix | dashed
+edge greed > a3 | dashed
+
+@research
+Scholars disagree on how to judge Arjuna. The commentarial tradition (Śaṅkara, Rāmānuja) treats his arguments as delusion (*moha*) produced by attachment, and the chapter's title, *viṣāda*, "despair," supports this. Modern moral philosophers have been more sympathetic. Amartya Sen (*The Idea of Justice*, 2009) argues that Arjuna's attention to the actual consequences of war, the *nyāya* or realized outcomes as opposed to the *nīti* or rules, is a serious ethical position that Kṛṣṇa's duty-based reply does not simply defeat. B. K. Matilal (*Ethics and Epics*) reads Chapter 1 as one of the classic expressions of genuine moral dilemma.
+Literary scholars stress that the Gītā's frame matters. The story is told by Sañjaya to a blind father who cannot stop the war. Alf Hiltebeitel and others read the chapter in the light of the epic's larger concern with dharma's "subtlety." Recent work on emotion in Sanskrit literature has also looked at the chapter's bodily rendering of grief (trembling, dry mouth, horripilation), which the aesthetic tradition associates with the pathetic mood (*karuṇa rasa*).
+
+@questions
+- Arjuna's arguments appeal to consequences, social order, the value of goods, and non-resistance. Which is strongest? Which would Kṛṣṇa find easiest to answer?
+- Why might the Gītā begin with a chapter in which the teacher says nothing? What does the reader learn from watching the collapse before any answer is given?
+- Duryodhana and Arjuna both survey the opposing army. Compare what each sees and what that reveals about them.
+- Is Arjuna's despair a moral achievement (he sees what others miss) or a moral failure (he loses his nerve)? Can it be both?
+
+# section 1-11 | The blind king's question and Duryodhana's review of the armies
+lead: The frame is set. A blind king asks what his sons are doing, and the Kaurava leader nervously reviews the champions on both sides.
+@notes
+1.1 | *Dharma-kṣetre kuru-kṣetre*: the opening words pair a moral field with a geographical one. Commentators note that the Gītā's first word is *dharma* and its last (18.78) is *mama*, "my" ("in my opinion"). Some read the whole text as framed between the cosmic order and a personal judgment. Dhṛtarāṣṭra's phrase "my sons and the sons of Pāṇḍu" already divides the world into *mine* and *other*, the attachment the Gītā will diagnose.
+1.2 | Duryodhana goes to Droṇa, not to Bhīṣma, the commander. His words to his teacher are edged with reproach. Droṇa trained Dhṛṣṭadyumna (1.3), the very man born to kill him.
+1.3 | The son of Drupada is Dhṛṣṭadyumna, commander of the Pāṇḍava army. According to the epic he was born from a sacrificial fire to kill Droṇa. Duryodhana's "your own gifted student" is a barb.
+1.7 | "Best of the twice-born" (*dvijottama*): Droṇa is a brāhmaṇa who has taken up arms, itself a departure from his class's dharma, which the epic notices.
+1.10 | See the translator's note. If *aparyāptam* means "insufficient," Duryodhana is betraying his anxiety. The two readings make him either boastful or afraid, and both fit his character.
+@reconstruction
+The chapter's first move is to locate us. We do not stand on the battlefield; we listen from the palace, with a king who cannot see. Dhṛtarāṣṭra's question is the question of an anxious father. It is already shaped by partiality, "my sons and the sons of Pāṇḍu," and by fear: what *did* they do, now that they are gathered on a field called "the field of dharma"?
+Duryodhana's speech then presents the war from the side of worldly calculation. He counts heroes, compares forces, and issues tactical orders, "protect Bhīṣma above all." It is the voice of a man who understands war entirely as power, numbers and positions. Nothing in his speech raises the question of whether the war should be fought. He is not divided against himself. That will be Arjuna's distinction.
+@insight
+The narrative frame is a structural argument in miniature. Each layer of narration (Vyāsa's epic, Sañjaya's report, Duryodhana's review) shows a different way of *seeing* the same event. The blind king cannot see. Sañjaya sees everything by divine gift. Duryodhana sees only power. Arjuna will see too much, and Kṛṣṇa will finally give him a "divine eye" (11.8). The Gītā is from its first verse a meditation on vision.
+Duryodhana's list is long and dry. That is deliberate. Its catalog of names and titles creates the weight of social reality, a whole warrior aristocracy assembled, against which Arjuna's individual conscience will soon break.
+@sources
+The frame narrative belongs to the *Bhīṣma Parvan* of the Mahābhārata, where Vyāsa grants Sañjaya divine sight so that he can narrate the war (*Mahābhārata* 6.2). The names of warriors in 1.4–9 match the epic's lists of the two armies' champions. The reference to the "son of Somadatta" is Bhūriśravas.
+@context
+Literature that opens on the eve of battle with a catalog of champions is widespread: the "Catalogue of Ships" in *Iliad* 2, the muster of the hosts in Norse and Irish epic. As in the *Iliad*, the catalog is followed by a story about one warrior whose inner state matters more than all the numbers. Homer's Achilles withdraws from battle in wrath. Arjuna withdraws in grief.
+@matters
+The opening teaches the reader to ask *who is seeing* and *from where*. That question will turn out to be the Gītā's deepest one: whether we see the world as "mine and theirs," or as the field in which one self is present in all.
+@questions
+- What is the effect of hearing the war through a blind king's question rather than directly?
+- Duryodhana addresses Droṇa rather than the commander Bhīṣma. What might this reveal about him?
+- How does the first verse's pairing of "field of dharma" and "field of the Kurus" prepare for what follows?
+@argument
+P | The war is a field of dharma | ref=1.1 | term=kṣetra | text=The setting is moral as much as physical.
+P | Duryodhana sees only power and numbers | ref=1.10, 1.11 | text=He compares forces and gives tactical orders, but never questions the war.
+C | The question of how to see the war is opened | text=Different narrators see the same event differently. The Gītā will be about learning to see rightly.
+I | Arjuna will see what Duryodhana cannot | ref=1.26 | text=His sight of kinsmen will turn the war into a moral crisis.
+
+# section 12-19 | The conches sound
+lead: Bhīṣma's lion-roar and conch begin the battle signals; Kṛṣṇa and Arjuna answer with divine conches.
+@notes
+1.12 | Bhīṣma blows his conch "to bring him joy," that is, to cheer Duryodhana. The aged grandsire knows the Kaurava cause is unjust but fights from loyalty to the throne he has sworn to serve.
+1.14 | The white horses and the great chariot are gifts of the fire-god Agni to Arjuna (*Mahābhārata* 1.216). Kṛṣṇa (Mādhava) blows first: the divine is the first to answer.
+1.15 | Each conch has a name. Kṛṣṇa's *Pāñcajanya* was taken from the demon Pañcajana; Arjuna's *Devadatta* means "god-given." Kṛṣṇa is called *Hṛṣīkeśa*, "lord of the senses," an epithet that will become thematic when the senses must be mastered.
+1.19 | The noise "tore the hearts" of the Kauravas: the sound itself is a weapon, a recurring epic motif.
+@reconstruction
+After the speech of calculation comes the language of sound. Bhīṣma's lion-roar is meant to steady a frightened leader. The Pāṇḍava conches answer one by one, named and owned, until the uproar fills heaven and earth. The war has effectively begun. There is now a public commitment that would be shameful to retract.
+@insight
+The section works by escalation. One conch, then a din of instruments, then a precise roll-call of the Pāṇḍava conches, then the earth itself resounding. The momentum is collective and almost irresistible. The poet makes us feel how hard it would be for any single warrior to step out of this rhythm. That is exactly what Arjuna is about to do.
+@sources
+The conch names and their origins are recorded in the epic (*Mahābhārata* 6.23 and parallel lists). The conch (*śaṅkha*) is also one of Viṣṇu's four emblems, which Arjuna will see Kṛṣṇa holding in 11.17 and 11.46 together with mace and discus.
+@context
+Ritual sound before battle (trumpets at Jericho, war-cries in the *Iliad*, bagpipes in Highland warfare) binds a group into a single will. The Gītā sets the solitary voice of conscience against this collective sound.
+@matters
+Moral crises often arrive after commitments have already been made publicly. Arjuna's doubt comes after the conches have sounded. The Gītā does not pretend that conscience operates in a vacuum.
+@questions
+- Why does the text name each conch? What does naming add?
+- How does the escalating sound make Arjuna's coming silence more dramatic?
+@argument
+P | Bhīṣma signals battle out of loyalty | ref=1.12 | term=Bhīṣma | text=Even the wisest elder is swept into the collective act.
+P | Kṛṣṇa and Arjuna answer with divine conches | ref=1.14 | text=The Pāṇḍava side commits publicly.
+C | The war has momentum beyond any individual | ref=1.19 | text=The sound fills heaven and earth; retreat would now be shameful.
+I | Arjuna's doubt will interrupt a collective will | ref=1.20 | text=The stage is set for a solitary crisis inside a public act.
+
+# section 20-27 | Arjuna surveys the field
+lead: Arjuna asks to be placed between the armies to see whom he must fight, and sees his own family.
+@notes
+1.20 | The "monkey-bannered" one: Hanumān rides on Arjuna's flag, a sign of protection from the Rāmāyaṇa world.
+1.21 | Arjuna calls Kṛṣṇa *Acyuta*, "the unfallen, the unshakable," just as he himself is about to be shaken. He *commands* God to drive his chariot. Kṛṣṇa, as charioteer, obeys. The roles are about to reverse.
+1.24 | *Guḍākeśa*, "thick-haired" or (by a later etymology) "master of sleep" (*guḍākā* + *īśa*). The epithet is sometimes read ironically here: the one who has conquered sleep is about to be overwhelmed by delusion.
+1.25 | Kṛṣṇa's first words in the Gītā are only these: "Pārtha, behold these Kurus assembled." The single word *Kurūn*, "Kurus," includes both armies, since both descend from Kuru. Some interpreters see it as a deliberate provocation. Kṛṣṇa makes Arjuna look at the enemy as family.
+1.26 | The list (fathers, grandfathers, teachers, uncles, brothers, sons, grandsons, friends) is the whole web of relationship that constitutes a person in an epic world.
+@reconstruction
+Arjuna wants to *see* whom he must fight. It is a warrior's request for reconnaissance. Kṛṣṇa places the chariot in front of Bhīṣma and Droṇa, the two people Arjuna loves most on the other side, and says only "behold the Kurus." Arjuna looks and sees not enemies but relations. The category "enemy" dissolves, and with it the possibility of acting as a warrior.
+@insight
+This is the hinge of the chapter. Kṛṣṇa says almost nothing, but his placement of the chariot is itself the first teaching. Everything Arjuna has suppressed in order to be a warrior is now set before his eyes. The section suggests that the crisis is not caused by new information but by *seeing* what one already knew. That is a profound point about moral perception, which philosophers like Iris Murdoch have emphasized: moral life is first of all a matter of attention.
+@sources
+The kinship relations listed in 1.26–27 correspond to the epic's genealogy. Bhīṣma is great-uncle to both parties. Droṇa and Kṛpa are their teachers. Śalya (on the Kaurava side) is maternal uncle to the twins Nakula and Sahadeva. Many sons and grandsons fight on each side.
+@context
+Moral philosophy has much to say about the "particular other": the face (Levinas), the special obligations of kinship (Bernard Williams on "one thought too many"), and the partiality of love. Arjuna's crisis is that the impersonal role of the warrior and the personal bonds of kinship meet in the same bodies.
+@matters
+We act more easily on categories ("the enemy," "the other side") than on persons. The Gītā makes us watch what happens when the category breaks down. That is a concern for anyone in a role that may require harming others: soldier, judge, surgeon, executive.
+@questions
+- Kṛṣṇa's only words in Chapter 1 are "behold these Kurus." Why is this a fitting first teaching?
+- Is Arjuna's crisis caused by what he sees, or by how he sees it?
+- What do roles (warrior, judge, parent) allow us to do that we could not do as private persons? What is the cost?
+@argument
+P | Arjuna asks to see whom he must fight | ref=1.21, 1.22 | text=A practical, warrior's request.
+P | Kṛṣṇa places him before Bhīṣma and Droṇa | ref=1.25 | term=Kṛṣṇa | text=The chariot is positioned to make Arjuna face those he loves.
+C | Arjuna sees kin, not enemies | ref=1.26, 1.27 | text=The role of warrior collapses into the web of relationships.
+I | Attention transforms the moral situation | text=Nothing new has happened. What has changed is how Arjuna sees.
+
+# section 28-47 | Arjuna's despair and his arguments against fighting
+lead: Overcome with pity, Arjuna describes his bodily collapse and gives reason after reason why he should not fight, then sits down and lets his bow fall.
+@notes
+1.28 | *Kṛpayā parayāviṣṭaḥ*: "filled with deep pity." The word *kṛpā* is ambiguous. It can be noble compassion or weak sentimentality. Kṛṣṇa will diagnose it in 2.2–3 and 2.7 as faintness and weakness of heart. Vivekananda argued that it is tamas wearing the mask of sattva.
+1.29 | The symptoms (trembling, dry mouth, hair standing on end, burning skin) are the standard signs of overwhelming emotion in Sanskrit poetics, here in a register of terror and grief. Ironically, the same horripilation (*romaharṣa*) will mark the ecstatic wonder of 11.14 and 18.74.
+1.32 | Arjuna's argument about the worthlessness of goods anticipates Kṛṣṇa's critique of desire, but from the opposite side. Arjuna renounces the fruit because it would be bitter. Kṛṣṇa will ask him to renounce the fruit even when it is sweet.
+1.36 | *Ātatāyin*: a legal term for an aggressor (arsonist, poisoner, armed attacker, thief of land or wife). Dharma texts permit killing such a person. Arjuna concedes the Kauravas are aggressors but argues that killing them would still bring evil. Śaṅkara does not dwell on the point, but later commentators debate whether Arjuna is here rejecting a legal permission for moral reasons.
+1.41 | The concern for women's "corruption" and the mixing of classes reflects the patriarchal and hierarchical logic of the dharma texts: lineage depends on control of marriage. Readers should note this frankly rather than explain it away.
+1.42 | The *piṇḍa* (rice-ball) and water offerings sustain the ancestors in the afterlife. Without legitimate descendants to make them, the ancestors "fall." The argument links metaphysics, ritual and family.
+1.47 | Arjuna "sank down on the seat of the chariot": the physical posture of refusal. The chapter ends not with a decision but with a collapse.
+@reconstruction
+Arjuna's reasoning has four strands, each serious. **Consequences**: no good can come of this. Victory would be bitter, because the people for whom one wants a kingdom would be dead {1.32–35}. **Moral pollution**: even though the Kauravas are aggressors, killing them would make us evil {1.36–37}. **Asymmetry**: they are blinded by greed, but we see the wrong. Their blindness does not license ours {1.38–39}. **Social order**: war destroys families, families carry dharma, and the collapse of dharma ruins women, lineage and ancestors {1.40–44}.
+From these he concludes that it would be better to be killed unresisting {1.46}. This is the logic of the renunciant: if action necessarily brings evil, refuse to act, and accept the consequences.
+@insight
+The argument is stronger than the tradition sometimes allows. Its consequence-strand is persuasive in its own terms. Its asymmetry-strand is an early statement of the principle that wrongs done to us do not justify wrongs we do. Yet there are visible tensions. Arjuna claims not to want kingdom or pleasure {1.32}, yet his arguments are full of concern for his own happiness: "how could we be happy?" {1.37}. He appeals to dharma {1.40} but abandons his own dharma as a warrior. And his conclusion that he would rather die passive {1.46} would not stop the war. It would only remove him from it.
+Kṛṣṇa will exploit these tensions. He will argue that Arjuna's grief rests on a confusion about what dies {2.11}, that his abandonment of duty is itself a breach of dharma {2.33}, and above all that Arjuna's real motive is not dharma but attachment (*moha*) to his own people.
+@sources
+Arjuna's social argument draws on the ideology of the *Dharmaśāstras*. The *Mānava Dharmaśāstra* (Laws of Manu) treats the "mixing of classes" (*varṇa-saṅkara*) as a fundamental danger, and its rules on ancestral offerings (*śrāddha*) are the background of 1.42. The legal concept of the *ātatāyin* appears in Vasiṣṭha's and Manu's law codes (e.g., *Manu* 8.350–351), which say an aggressor may be slain without sin.
+@context
+Arjuna's arguments have counterparts across moral traditions. His refusal resembles pacifist arguments that killing defiles the killer whatever the cause (e.g., early Christian refusal of military service, Tolstoy). His asymmetry argument recalls Socrates in the *Crito*: one must never return wrong for wrong. His consequence-reasoning anticipates utilitarian critiques of war. Simone Weil, who read the Gītā in Sanskrit during the Second World War, was deeply troubled by the question of whether Arjuna should fight.
+@matters
+The chapter shows that moral seriousness and moral confusion can coexist. Arjuna sees real goods and real harms, yet his paralysis also serves his own grief. Learning to tell these apart in ourselves is a lifelong task, and the Gītā begins it here.
+@questions
+- Reconstruct Arjuna's four arguments as premises and conclusions. Which premise would you challenge?
+- Arjuna admits the Kauravas are aggressors (*ātatāyin*). Does this weaken or strengthen his refusal?
+- How should a modern reader handle 1.41's language about women and caste? Is it possible to take Arjuna's argument seriously while rejecting its premises?
+- Is "better to die unresisting" a principled pacifism or a flight from responsibility?
+@argument
+P | Killing kin can bring no good | ref=1.31, 1.32, 1.36 | text=Victory and pleasure are worthless when those we love are dead, and evil would cling to us.
+P | War destroys the family and its dharma | ref=1.40 | term=kula-dharma | text=Collapse of family dharma leads to lawlessness, mixed orders, and fallen ancestors.
+P | Their blindness does not license ours | ref=1.38, 1.39 | text=We see the wrong; therefore we must refrain.
+C | Better to be killed unresisting than to fight | ref=1.46 | text=The renunciant's conclusion: refuse action, accept the cost.
+I | Arjuna lays down his bow | ref=1.47 | term=viṣāda | text=The crisis is complete. Teaching must begin.
+I | Kṛṣṇa must change the level of the question | text=Rather than refuting each argument, he will question the understanding of self, duty and action on which they all rest.

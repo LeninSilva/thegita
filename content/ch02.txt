@@ -1,0 +1,212 @@
+summary: Arjuna becomes Kṛṣṇa's student. Kṛṣṇa answers his grief first with the doctrine of the undying self, then with the warrior's duty, then with the yoga of understanding: act, but without attachment to the fruit. The chapter closes with the portrait of the person whose wisdom is steady.
+
+@overview
+Chapter 2 is the Gītā in miniature. Nearly every major theme of the later chapters is introduced here: the self, dharma, action without attachment, critique of ritualism, equanimity, sense-control, and the peace of brahman. Traditional teachers often say that one who understands the second chapter understands the whole.
+The chapter has a clear argumentative structure. After Arjuna surrenders as a student {2.7}, Kṛṣṇa gives two arguments for fighting that work at different levels. The first is metaphysical: the self cannot be killed, so grief is misplaced {2.11–30}. The second is ethical and social: a warrior's own dharma is to fight a just war, and refusing will bring disgrace {2.31–38}. Then Kṛṣṇa announces a new teaching, *buddhi-yoga*, the yoga of understanding {2.39}. This shifts the question from *whether* to act to *how* to act, culminating in the famous verse on action and its fruits {2.47} and in the definition "equanimity is called yoga" {2.48}.
+The chapter ends with Arjuna's question about the sage {2.54} and Kṛṣṇa's portrait of the *sthita-prajña*, the person of steady wisdom. Its psychological analysis of how desire leads to ruin {2.62–63} is among the most quoted passages in Indian literature.
+
+@map
+node grief | 0 | Arjuna's grief and surrender | kind=center | ref=2.7 | term=kārpaṇya | text=Arjuna admits his confusion and becomes a student. Teaching becomes possible.
+node self | 1 | The self is undying | ref=2.12, 2.20 | term=ātman | text=First argument: what is real never ceases to be. The self is not killed when the body is killed.
+node duty | 1 | Your own dharma: fight | ref=2.31, 2.33 | term=svadharma | text=Second argument: for a warrior a just battle is a duty; refusing brings disgrace.
+node buddhi | 2 | The yoga of understanding | ref=2.39, 2.49 | term=buddhi-yoga | text=A new standpoint: not whether to act but from what understanding to act.
+node vedic | 3 | Critique of ritual for rewards | kind=contrast | ref=2.42, 2.46 | term=Veda | detail=1 | text=Those who use the Veda for heaven and power have scattered, many-branched minds.
+node fruit | 3 | Right to action, not to fruits | kind=claim | ref=2.47 | term=phala | text=The famous formula: act, but do not make the result your motive.
+node equa | 3 | Equanimity is yoga | ref=2.48, 2.50 | term=samatva | text=Sameness in success and failure; yoga is skill in action.
+node chain | 4 | How desire ruins | kind=contrast | ref=2.62, 2.63 | term=kāma | text=Dwelling on objects leads to attachment, then desire, anger, delusion, loss of memory and understanding, and ruin.
+node sage | 4 | The person of steady wisdom | ref=2.55, 2.70 | term=sthita-prajña | text=Content in the self, unshaken, senses withdrawn like a tortoise's limbs, full like the ocean.
+node peace | 5 | The state of brahman | kind=center | ref=2.71, 2.72 | term=brahma-nirvāṇa | text=Without "mine" or I-making, one attains peace, the nirvāṇa of brahman.
+edge grief > self
+edge grief > duty
+edge self > buddhi
+edge duty > buddhi
+edge buddhi > vedic | contrasts with | dashed
+edge buddhi > fruit
+edge buddhi > equa
+edge fruit > sage
+edge equa > sage
+edge chain > sage | avoided by | dashed
+edge sage > peace
+
+@research
+Scholars have long debated how the two opening arguments relate. The metaphysical argument of 2.11–30 seems to prove too much: if no one is ever killed, why should anything matter, including duty? The social argument of 2.31–38 seems to prove too little, since it appeals to honor and heaven, motives the Gītā later rejects. One influential reading (developed in different ways by Malinar and by Ram-Prasad) is that both are *preparatory*. They loosen Arjuna's grip on his grief and on his warrior identity. The real teaching only begins with *buddhi-yoga* at 2.39.
+The phrase *sāṅkhya* at 2.39 has also been studied closely. In the Gītā it does not yet name Īśvarakṛṣṇa's classical system but an earlier, broader way of "discriminating" knowledge. Its relation to early Sāṅkhya fragments in the Mahābhārata's *Mokṣadharma* section is an active research topic (Johannes Bronkhorst, Gerald Larson). Psychologists have drawn on 2.47–48 and 2.62–63 to build measures of non-attachment (*anāsakti*), and studies (e.g., by Pande and Naidu, 1992) report associations with lower stress. This literature is suggestive but methodologically young.
+
+@questions
+- Do the arguments of 2.11–30 and 2.31–38 support each other, or pull in different directions?
+- What changes when the question moves from "should I act?" to "from what state should I act?"
+- Is the person of steady wisdom (2.55–72) a model for everyone, or only for a renunciant elite?
+- Can the analysis of desire in 2.62–63 be tested against modern psychology? What would count as evidence?
+
+# section 1-10 | Rebuke, confession, and surrender
+lead: Kṛṣṇa's first response is a stinging rebuke; Arjuna answers with the strongest form of his dilemma, then admits his confusion and asks to be taught.
+@notes
+2.2 | *Kaśmala*: a "stain," "faintness" or "stupor." The word suggests both moral taint and loss of consciousness. *Anārya-juṣṭa*, "practiced by the ignoble": Kṛṣṇa appeals to the warrior aristocracy's code of honor.
+2.3 | *Klaibya*, "unmanliness," literally the condition of a eunuch. It was the harshest insult in the warrior code. Vivekananda considered this verse the whole message of the Gītā: "Yield not to weakness." Note that Kṛṣṇa begins with an emotional shock, not an argument.
+2.5 | Arjuna's alternative, living on alms (*bhaikṣya*), is the life of a renunciant. He is not merely refusing to fight; he is proposing a different path of life.
+2.6 | The structure of a true dilemma: neither victory nor defeat would be good. This is perhaps Arjuna's strongest single statement.
+2.7 | The turning point of the Gītā. Arjuna says his very nature (*svabhāva*) is struck by a flaw, confesses confusion about dharma (*dharma-sammūḍha-cetāḥ*), and formally becomes a disciple: *śiṣyas te 'haṁ*, "I am your student." Teaching in the Indian tradition begins with such a request.
+2.10 | "As if smiling" (*prahasann iva*): Kṛṣṇa's smile, at the moment of greatest anguish, is much commented on. Is it compassion, irony, or the serenity of one who sees the whole?
+@reconstruction
+Kṛṣṇa first tries the language of honor. Arjuna's despair is unworthy of a noble warrior and will bring disgrace, so he should stand up. Arjuna answers that the issue is not courage. How can one shoot arrows at those one should worship? Better to beg than to enjoy blood-smeared pleasures. Neither outcome of the war is good.
+Then something changes. Arjuna stops arguing and admits that his own nature is damaged and his mind confused about dharma. He no longer claims to know what is right. He asks to be taught. Having said "I will not fight," he falls silent. Kṛṣṇa, smiling, begins to speak.
+@insight
+The section dramatizes a precondition of learning: the collapse of one's own certainty. While Arjuna argued in Chapter 1, he was still confident in his reasoning. Only when he confesses that his reasoning itself is clouded does teaching become possible. Philosophically, this is the recognition that the faculty that judges, the *buddhi*, can itself be distorted, which is exactly what Kṛṣṇa will address with the "yoga of understanding."
+Kṛṣṇa's failed first move matters too. Shame does not work on someone with a real moral objection. The Gītā shows its teacher adjusting his method to the student, a pattern it will repeat many times.
+@sources
+The ideal of the disciple who approaches a teacher in humility echoes the Upaniṣads (e.g., *Muṇḍaka* 1.2.12: approach a teacher "fuel in hand"). The structure of crisis followed by request for instruction also opens the *Kaṭha Upaniṣad*, where Naciketas, granted three boons by Death, asks about what lies beyond death.
+@context
+Many philosophical traditions begin with an admission of ignorance: Socratic *aporia*, Augustine's restlessness in the *Confessions*, Descartes's resolve to doubt. The Gītā's version is distinctive in being personal and urgent. Arjuna must act within hours.
+@matters
+Admitting that one's own judgment may be compromised is the hardest and most important step in any serious inquiry, moral, therapeutic or intellectual.
+@questions
+- Why does Kṛṣṇa's appeal to honor fail? What does that teach about moral persuasion?
+- What exactly does Arjuna confess in 2.7? Is the confession itself a moral achievement?
+- How do you read Kṛṣṇa's smile in 2.10?
+@argument
+P | Arjuna's grief is unworthy of a warrior | ref=2.2, 2.3 | term=klaibya | text=Kṛṣṇa's first, failed appeal to honor.
+P | Neither victory nor defeat would be good | ref=2.5, 2.6 | text=Arjuna restates the dilemma at its strongest.
+C | Arjuna surrenders his certainty and asks to be taught | ref=2.7 | term=kārpaṇya | text=The pivot of the Gītā: confession of confusion and request for instruction.
+I | Teaching can now begin | ref=2.10, 2.11 | text=Kṛṣṇa, smiling, starts the real instruction.
+
+# section 11-30 | The undying self
+lead: Kṛṣṇa's first argument: the self is eternal and cannot be killed; grief rests on mistaking what we are.
+@notes
+2.11 | "You grieve for those who should not be grieved for, and yet you speak words of wisdom." Kṛṣṇa catches Arjuna's performance of wisdom: he has argued like a sage while acting from grief. This verse begins the teaching proper.
+2.12 | A verse on the plurality and eternity of selves. "I, you, these kings" all always existed. Advaitins read the plurality as conventional speech. Rāmānuja cites this verse as proof that individual selves are real and eternal, even in liberation.
+2.13 | The analogy: as the self persists through childhood, youth and age, it persists through death. The argument rests on personal identity across bodily change.
+2.14 | *Mātrā-sparśa*, "contacts of the senses with their measures," i.e., sense-objects. The first lesson in equanimity: sensations are impermanent. Endure them (*titikṣasva*).
+2.16 | Perhaps the Gītā's most compressed metaphysical axiom. "Of the unreal (*asat*) there is no coming to be; of the real (*sat*) there is no ceasing to be." Śaṅkara takes it as the foundation of Advaita: what changes is not ultimately real. The Greek parallel with Parmenides ("what is, is; what is not, cannot be") is often noted.
+2.19 | Nearly identical to *Kaṭha Upaniṣad* 2.19. The killer and the killed are both mistaken about the self, which neither kills nor is killed.
+2.20 | *Kaṭha* 2.18. Note the cascade of negations and the triṣṭubh meter, which marks heightened speech.
+2.22 | The famous image of clothing. It implies a strong dualism of self and body, which some readers find consoling and others troubling.
+2.26 | A remarkable concession: "even if you think it is constantly born and constantly dies." Kṛṣṇa argues that even on a materialist or Buddhist view, grief over the inevitable is pointless.
+2.29 | Echoes *Kaṭha* 2.7: the self is a marvel; "even having heard of it, no one knows it." The truth cannot be transmitted as information.
+@reconstruction
+Kṛṣṇa's first argument is that Arjuna's grief rests on a mistake about what a person is. What is real does not cease to be, and what is unreal does not come to be {2.16}. The body is unreal in this sense: it comes and goes. The embodied self is real. It passed through childhood, youth and age without perishing {2.13} and passes through death the same way {2.22}. Weapons, fire and water cannot touch it {2.23}. So no one is really killed in battle {2.19}. Grief over the dead or the living is misplaced {2.11}.
+The argument closes with a fallback {2.26–27}. Even if the self were born and died constantly, death would be certain for whatever is born. Grieving over the inevitable is therefore pointless on any view.
+@insight
+The argument is powerful but strange. Its strength is that it attacks the root of Arjuna's distress: the identification of persons with their bodies. Its strangeness is that, taken alone, it seems to prove too much. If no one is ever killed, then killing is morally neutral, and so is saving life. Critics from early Western Indologists to contemporary ethicists have pointed out that such an argument could justify any violence.
+The tradition's best reply is that the argument is not a justification of killing but a cure for one particular delusion: the grief-paralysis that makes a person unable to act at all. It must be read together with what follows. The self's eternity removes *fear and grief*. It does not settle *what ought to be done*. That is the work of dharma (2.31–38) and of the yoga of understanding (2.39ff.). The fallback argument of 2.26–27 also shows Kṛṣṇa's pedagogy. He does not stake everything on one metaphysics.
+@sources
+Close parallels with the *Kaṭha Upaniṣad* (2.7, 2.18–19) are certain. The self as unborn, eternal and indestructible is the core of Upaniṣadic teaching (*Bṛhadāraṇyaka* 4.4.22–25: "this self is not this, not this… it does not tremble, it is not harmed"). The axiom of 2.16 also resembles the *Chāndogya*'s argument (6.2.1–2) that being cannot come from non-being.
+@context
+The section invites comparison with Plato's *Phaedo*, where Socrates, facing death, argues for the soul's immortality and chides his friends for weeping. Both use metaphysics to transform grief. It also invites comparison with Buddhism's denial of a permanent self (*anātman*). The Gītā's 2.26 seems to address that view directly. Modern philosophy of personal identity (Locke, Parfit) asks what persists through change, the very question of 2.13.
+@matters
+How we understand ourselves shapes how we grieve, fear and act. Whatever one thinks of the metaphysics, the section asks a question every person faces: what am I, if I am not my body's fate?
+@questions
+- Does the argument from the self's immortality prove too much? How would Kṛṣṇa answer that objection?
+- Compare the clothing image (2.22) with Socrates in the *Phaedo*. Is either consoling? To whom?
+- What work does the fallback argument of 2.26–27 do? Why include it?
+- Read 2.16 slowly. What does it mean for something to be "real" in this sense?
+@argument
+P | The real never ceases to be | ref=2.16 | term=sat and asat | text=Being and non-being cannot turn into each other.
+P | The self passes through changes without perishing | ref=2.13, 2.22 | term=dehin | text=Childhood, youth, age, and death are changes of body, not of self.
+P | The self cannot be harmed | ref=2.19, 2.23 | term=ātman | text=It neither kills nor is killed; weapons and fire do not touch it.
+C | Grief for the dead and living is misplaced | ref=2.11, 2.30 | text=Arjuna's sorrow rests on a mistake about what persons are.
+I | Even on other views, grief over the inevitable is pointless | ref=2.26, 2.27 | text=A fallback argument that works without the metaphysics.
+I | The self's eternity cures fear, but does not yet say what to do | text=That question is answered by dharma and by the yoga of understanding.
+
+# section 31-38 | The warrior's own dharma
+lead: Kṛṣṇa's second argument appeals to Arjuna's own duty as a warrior, to honor and to heaven, and ends with the first statement of equanimity.
+@notes
+2.31 | *Svadharma*, "one's own dharma," appears for the first time. For a kṣatriya, a dharmic war (*dharmya yuddha*) is the highest good. The argument shifts from metaphysics to social ethics.
+2.32 | "An open door to heaven": the warrior's heaven (*svarga*) was a standard reward in epic ideology for dying in battle. The Gītā will later criticize heaven-seeking (2.42–44), so this appeal is clearly provisional.
+2.34 | Disgrace "worse than death" (*maraṇād atiricyate*): the shame-culture of the warrior aristocracy.
+2.37 | A dilemma in Arjuna's favor: if killed, heaven; if victorious, the earth. Either way, act.
+2.38 | Crucial bridge verse. "Treat alike pleasure and pain, gain and loss, victory and defeat… thus you will not incur evil." It already undercuts the appeals to heaven and honor just made: fight, but not for these reasons.
+@reconstruction
+Kṛṣṇa now argues on the level Arjuna himself had appealed to: dharma. Arjuna's dharma is that of a warrior, and for a warrior nothing is better than a just war {2.31}. To abandon it would be to abandon both duty and honor and to incur evil {2.33}. People would say he fled from fear {2.35}. Either outcome, death or victory, is good for him {2.37}. Then comes the decisive qualification. He should fight treating victory and defeat alike {2.38}, and only so will he avoid evil.
+@insight
+The section is a rhetorical bridge. It meets Arjuna where he is, in a world of dharma, honor and heaven, and then, in its final verse, quietly prepares to leave that world behind. The appeal to disgrace is a "lower" motive, and Kṛṣṇa knows it. The equanimity of 2.38 is not about honor at all. Many commentators read this structure as Kṛṣṇa's skillful means: lower motives are invoked only to be transcended.
+There is a real tension here. Arjuna had argued from *family* dharma (1.40). Kṛṣṇa argues from *class* dharma. Neither is the final word. The Gītā will finally speak of a dharma that is God's to protect (4.7) and then of abandoning all dharmas (18.66). Readers should notice how many layers of "duty" the text contains.
+@sources
+The warrior's duty to fight and the promise of heaven for those slain facing the enemy are standard in the Dharmaśāstras (e.g., *Manu* 7.87–89). The epic's warrior ethos (*kṣatra-dharma*) is debated within the Mahābhārata itself, notably by Yudhiṣṭhira, who repeatedly questions it.
+@context
+The appeal to role-duty and honor recalls Homer's Sarpedon (*Iliad* 12): the nobles must fight in front because they are honored. Contemporary role-ethics (and debates about professional duty: the lawyer, the soldier) asks how far a role can justify acts that private morality would forbid.
+@matters
+Most people meet the question "should I?" through roles: parent, employee, citizen, soldier. The section asks how far a role's duties bind us, and hints that they bind best when performed without craving for reward or fear of shame.
+@questions
+- Is Kṛṣṇa's appeal to honor and heaven sincere, or merely tactical? What is the evidence in the text?
+- How does 2.38 change the meaning of the preceding verses?
+- Arjuna appealed to family dharma, Kṛṣṇa to warrior dharma. How should conflicts between dharmas be resolved?
+@argument
+P | A just war is a warrior's highest duty | ref=2.31 | term=svadharma | text=For a kṣatriya, nothing is better than a dharmic battle.
+P | Refusing would bring disgrace and evil | ref=2.33, 2.34 | text=Abandoning duty and honor is itself a wrong.
+C | Fight, as your dharma requires | ref=2.37 | text=Either outcome is good; so stand up and fight.
+I | But fight with equanimity | ref=2.38 | term=samatva | text=Treat victory and defeat alike. Only then is the act free of evil. This opens the next teaching.
+
+# section 39-53 | The yoga of understanding: action without attachment
+lead: Kṛṣṇa announces a new teaching: act with a resolute, single understanding, renounce the fruits, and let equanimity be your yoga.
+@notes
+2.39 | "Sāṅkhya" and "yoga" here mean two standpoints: theoretical discrimination (just given, 2.11–30) and practical discipline (now to come). This is not yet the classical Sāṅkhya system.
+2.40 | "In this no effort is lost": unlike ritual, which fails if done imperfectly, this yoga has no "reverse effect." Even a little protects.
+2.41 | *Vyavasāyātmikā buddhi*: the understanding whose very nature is resolve. It is unified, set against the "many-branched" minds of the irresolute. The theme of inner unification runs through the whole Gītā.
+2.42 | *Veda-vāda-ratāḥ*: "delighting in the letter of the Veda." The criticism targets ritualists who use Vedic rites to get heaven and power, an attitude associated with the Mīmāṁsā school.
+2.45 | *Nistraiguṇya*, "free of the three guṇas." It is the first mention of the guṇas, introduced to say the Vedas' domain is nature, and that one should go beyond it.
+2.46 | A deliberately shocking image: the Vedas are to the knower like a well in a flood. Commentators soften it: the Veda's ends are contained in the knower's realization, as the well's water is in the flood.
+2.47 | The most famous verse of the Gītā. *Karmaṇy evādhikāras te, mā phaleṣu kadācana*. Four clauses: (1) your right is to action alone; (2) never to its fruits; (3) do not let fruit be your motive (*hetu*); (4) do not be attached to inaction. Note that (4) blocks the misreading "if fruits don't matter, why act?"
+2.48 | "Equanimity is called yoga" (*samatvaṁ yoga ucyate*). One of the Gītā's three short definitions of yoga (with 2.50 and 6.23).
+2.49 | "Pitiable are those whose motive is the fruit" (*kṛpaṇāḥ phala-hetavaḥ*). The word *kṛpaṇa* echoes Arjuna's *kārpaṇya* (2.7). Craving makes one poor.
+2.50 | "Yoga is skill in actions" (*yogaḥ karmasu kauśalam*). Śaṅkara takes it to mean that the skill is in acting without being bound. A more modern reading is "excellence in work." Both are possible.
+2.53 | *Śruti-vipratipannā*: "bewildered by what you have heard," that is, by conflicting scriptural teachings. Arjuna's confusion is partly the confusion of too many authorities.
+@reconstruction
+Kṛṣṇa now shifts the ground. What matters is not only *that* one acts but the *understanding* (*buddhi*) from which one acts. An understanding that is resolute is single. One scattered among desires is many-branched {2.41}. The ritualists who use the Veda to get heaven and power have scattered minds {2.42–44}. One should go beyond the guṇas, beyond the pairs of opposites, beyond acquiring and keeping {2.45}.
+The practical rule follows. One has a right to the action, never to its fruit. Do not act for the fruit, and do not fall into inaction {2.47}. Act steadily, giving up attachment, the same in success and failure {2.48}. Such action does not bind. It leaves behind both good and bad deeds {2.50}. When the understanding passes beyond delusion and stands firm in concentration, one reaches yoga {2.52–53}.
+@insight
+This is the conceptual heart of karma-yoga and arguably of the Gītā. Its decisive move is to separate two things ordinarily fused: *doing* something and *staking oneself on its outcome*. The agent is responsible for the act, its rightness and skill, but not owner of the results. This dissolves the renunciant's dilemma. Action binds through attachment, and one can act without attachment.
+Critics have raised two objections. First, can one act intentionally without caring about results? Intentional action seems to *aim* at outcomes. The best reply is that 2.47 forbids making the fruit one's *motive* (*hetu*), not foreseeing it. The agent aims at doing the right act well, and the outcome follows or does not. Second, does indifference to consequences license recklessness? Here 18.25 helps: action "without regard to consequences" is called tamasic. The Gītā wants attention to consequences without anxiety about them. That distinction is fine but real.
+@sources
+The critique of desire-driven ritual draws on Upaniṣadic criticism of sacrifice (*Muṇḍaka* 1.2.7–10 calls ritualists "fools" who return again to this world). The single-pointed understanding resembles the *Kaṭha*'s image of the disciplined intellect as charioteer (*Kaṭha* 3.3–9). The *Īśā Upaniṣad* 2 ("action does not cling to a person") is the nearest anticipation of 2.47.
+@context
+Comparisons abound. Kant's good will, whose worth lies not in what it accomplishes but in its principle, is a near cousin. So is Stoic ethics (Epictetus, *Enchiridion* 1): some things are up to us (our acts and judgments), others not (outcomes), and freedom lies in caring only for the former. Both T. S. Eliot ("And do not think of the fruit of action. / Fare forward," *Four Quartets*) and Gandhi took 2.47 as a life-rule. Modern psychology's distinction between "process" and "outcome" goals, and research on performance anxiety, give the verse an empirical dimension.
+@matters
+Most suffering in work and relationships comes not from effort but from anxious attachment to results we cannot control. These verses offer a way to act wholeheartedly while staying free, a teaching that has helped soldiers, athletes, activists and ordinary workers.
+@questions
+- Can a person act intentionally without making the outcome their motive? Construct an example.
+- What is the difference between not caring about consequences and not being attached to them?
+- Compare 2.47 with Epictetus's distinction between what is and is not "up to us." Where do they differ?
+- Why does Kṛṣṇa add "do not be attached to inaction"? What misreading does it prevent?
+@argument
+P | Action binds through attachment to its fruit | ref=2.47, 2.49 | term=phala | text=Not action itself but the ego's stake in outcomes creates bondage.
+P | A resolute understanding is single, not scattered | ref=2.41, 2.44 | term=buddhi | text=Desire-driven minds are many-branched.
+C | Act without attachment, the same in success and failure | ref=2.47, 2.48 | term=karma-yoga | text=Your right is to action alone, never to its fruits. Equanimity is yoga.
+I | Such action does not bind | ref=2.50, 2.51 | text=One leaves behind good and bad deeds and reaches the place beyond sorrow.
+I | Ritual for rewards is superseded | ref=2.42, 2.46 | term=Veda | text=The Veda's purposes are fulfilled in the knower's understanding.
+
+# section 54-72 | The person of steady wisdom
+lead: Arjuna asks what the sage is like; Kṛṣṇa answers with a portrait of equanimity, sense-mastery and peace.
+@notes
+2.54 | Arjuna's questions are practical: how does such a person speak, sit, move? He wants to recognize the sage, and to become one.
+2.55 | The first mark: one gives up all desires and is "content in the self by the self alone." Satisfaction no longer depends on external objects.
+2.58 | The tortoise: a classic image. The withdrawal of the senses (*pratyāhāra* in later yoga) is voluntary and reversible, like a tortoise drawing in its limbs.
+2.59 | A subtle point. Abstaining removes objects but not the *taste* (*rasa*) for them. Only seeing the supreme removes the taste itself. Asceticism alone is insufficient.
+2.61 | *Mat-paraḥ*, "intent on me": the first hint of devotion in the Gītā. The sage controls the senses by turning toward God.
+2.62 | The causal chain begins: dwelling on objects leads to attachment, attachment leads to desire, and desire leads to anger.
+2.63 | And continues: anger leads to delusion, delusion to confusion of memory (*smṛti-vibhrama*), that to loss of understanding (*buddhi-nāśa*), and that to ruin. Note "memory." In 18.73 Arjuna's cure will be the recovery of *smṛti*.
+2.69 | "What is night for all beings, the self-controlled one is awake to." The sage's values invert the world's. What others ignore, he attends to; what excites them, he sleeps through.
+2.70 | The ocean image: rivers flow in and it stays full and unmoved. Desires still come, but they do not disturb.
+2.72 | *Brāhmī sthiti* and *brahma-nirvāṇa*: the first appearance of "nirvāṇa," a word of Buddhist resonance, here made "of brahman."
+@reconstruction
+Kṛṣṇa's answer is a description, not a rule. The sage is content in the self, so desires lose their grip {2.55}. The sage is unshaken in sorrow and without craving in pleasure {2.56}, withdraws the senses at will {2.58}, and controls them by turning toward the highest {2.61}. The reason control matters is given in a precise psychology: brooding on objects breeds attachment, attachment breeds desire, frustrated desire becomes anger, anger clouds memory and understanding, and the person is destroyed {2.62–63}. By contrast, one who moves among objects without attraction or aversion gains serenity, and in serenity sorrow ends {2.64–65}. Such a person is like the ocean, full and still while rivers pour in {2.70}. Without "mine" and without I-making, he reaches the peace of brahman {2.71–72}.
+@insight
+The passage is a phenomenology of freedom. Its insight is that the problem is not the senses or the world but *dwelling* (*dhyāyataḥ*) on objects, the mind's repeated return to what it wants. The chain of 2.62–63 is a remarkably modern model, in which attention drives appetite, appetite drives frustration, and frustration distorts cognition.
+The portrait also resolves an apparent paradox: how can one act fully without desire? The sage is not without inclinations (the "rivers" keep coming) but is not *moved* by them. The ideal is not a stone but an ocean, full and therefore undisturbed.
+One tension remains. The sage here "withdraws" and is "free of longing," while Arjuna is asked to fight. The portrait describes the inner state from which action should come, not a withdrawal from action. That reconciliation is the work of Chapter 3.
+@sources
+The tortoise image and the restraint of the senses appear in the epic's *Mokṣadharma* and in *Manu* 7.105. The chariot model of *Kaṭha* 3.3–9 lies behind the passage on the senses carrying off the mind (2.60, 2.67). The ocean image recalls *Muṇḍaka* 3.2.8 (rivers merging in the sea).
+@context
+Stoic *apatheia* and the Epicurean *ataraxia* (tranquility) are close parallels, as is the Buddhist account of craving (*taṇhā*) arising from contact and feeling in the twelvefold chain of dependent origination. Contemporary cognitive science of craving, and mindfulness-based interventions for addiction, explicitly describe the "elaboration" of desire through rumination, the *dhyāyataḥ* of 2.62. Gandhi had 2.54–72 recited every evening at his prayer meetings.
+@matters
+The passage offers a picture of a free and peaceful person who is not cut off from the world, and a precise account of how we lose that freedom. It is one of the most practically useful pages in world literature.
+@questions
+- Trace the chain of 2.62–63 in an experience of your own. Where could it be broken?
+- What is the difference between suppressing a desire and losing the taste for it (2.59)?
+- Is the ocean (2.70) a better image of the ideal than the tortoise (2.58)? What does each emphasize?
+- Why might Gandhi, an activist, have chosen these verses for daily recitation?
+@argument
+P | Dwelling on objects breeds desire, anger and ruin | ref=2.62, 2.63 | term=kāma | text=A causal chain from attention to destruction.
+P | Moving among objects without attraction or aversion brings serenity | ref=2.64, 2.65 | term=prasāda | text=Control of the senses yields clarity and the end of sorrow.
+C | The sage is content in the self and unshaken | ref=2.55, 2.56, 2.70 | term=sthita-prajña | text=Full like the ocean, the sage is not moved by desires that still arise.
+I | Without "mine" and I-making, one reaches peace | ref=2.71 | term=ahaṅkāra | text=Freedom from possessiveness is the key to peace.
+I | The state of brahman, even at death | ref=2.72 | term=brahma-nirvāṇa | text=The goal of the teaching is named.

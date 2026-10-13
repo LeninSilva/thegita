@@ -1,0 +1,19 @@
+{
+  "name": "Gītā Companion",
+  "short_name": "Gītā",
+  "description": "A study companion to the Bhagavad Gītā: translation, footnotes, analysis, diagrams, glossary, highlights and notes. Works offline.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4ede0",
+  "theme_color": "#f4ede0",
+  "lang": "en",
+  "categories": ["books", "education"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

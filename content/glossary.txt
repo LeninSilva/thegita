@@ -1,0 +1,1035 @@
+@term dharma
+sanskrit: धर्म
+aliases: dharmas, dharmic
+short: Right order: the law that holds the cosmos and society together, and the duty that falls to each being within it.
+refs: 1.1, 2.31, 3.35, 4.7, 18.47, 18.66
+related: adharma, svadharma, varṇa, kula-dharma, śāstra
+From the root *dhṛ*, "to hold, support." Dharma is what holds things in place: cosmic regularity, social law, ritual obligation, moral virtue, and the particular duty of a particular person. In the Mahābhārata it is famously "subtle" (*sūkṣma*). Its demands conflict, and the epic is largely a meditation on that conflict.
+The Gītā opens on "the field of dharma" {1.1}. Arjuna's crisis is a clash of dharmas: the warrior's duty to fight against the family dharmas he fears to destroy {1.40}. Kṛṣṇa answers on several levels. First comes one's own dharma {2.31}. Next, dharma performed without attachment {3.19}. Then dharma as what God descends to protect {4.7}. Finally comes the startling "abandon all dharmas and take refuge in me" {18.66}. How these levels fit together is one of the central interpretive questions of the text.
+
+@term adharma
+sanskrit: अधर्म
+short: The breakdown of right order; lawlessness, injustice, the opposite of dharma.
+refs: 1.40, 4.7, 18.32
+related: dharma, avatāra
+Adharma is not simply individual wrongdoing but the systemic collapse of order. Arjuna fears it will follow the destruction of families {1.40}. Kṛṣṇa says he takes birth "whenever there is a decline of dharma and a rise of adharma" {4.7}. The understanding darkened by tamas "takes adharma for dharma" {18.32}: moral perception itself can be inverted.
+
+@term svadharma
+sanskrit: स्वधर्म
+aliases: sva-dharma, one's own dharma
+short: One's own dharma: the duty proper to one's nature, station and stage of life.
+refs: 2.31, 3.35, 18.47
+related: dharma, svabhāva, varṇa
+"Better one's own dharma, though imperfect, than another's dharma well performed" {3.35}, {18.47}. The doctrine ties duty to one's nature (*svabhāva*) and was historically read in terms of caste. Modern readers (Gandhi, Aurobindo, many contemporary teachers) reinterpret it as vocation: the work that fits one's actual temperament and capacities. Either way, its philosophical point is that the good is not one-size-fits-all. Imitating another's path, however admirable, is "dangerous."
+
+@term karma
+sanskrit: कर्म
+aliases: karman
+short: Action, any deed, ritual or ordinary, together with the binding consequences it sets in motion.
+refs: 2.47, 3.5, 4.17, 18.23
+related: karma-yoga, phala, saṅga, naiṣkarmya, saṁsāra
+In the Vedic world *karma* first meant ritual action. By the Upaniṣads it had come to name the moral law by which actions bear fruit (*phala*) in this and later lives, binding the agent to saṁsāra. The Gītā's problem follows from this. If all action binds, liberation seems to require ceasing to act; yet "no one can remain even for a moment without acting" {3.5}. The Gītā's answer is that it is not action but attachment to its fruit that binds {2.47}.
+
+@term karma-yoga
+sanskrit: कर्मयोग
+aliases: karma yoga, karmayoga, yoga of action
+short: The discipline of action: doing what must be done without attachment to its results.
+refs: 2.47, 2.48, 3.3, 3.19, 5.2
+related: karma, niṣkāma karma, yoga, jñāna-yoga, bhakti-yoga
+Kṛṣṇa's first and most characteristic teaching. One acts fully but gives up claim on the fruit. Success and failure are met with equanimity (*samatva*), and the work is offered as sacrifice or to God. It answers the dilemma of action and liberation without requiring withdrawal from the world. Tilak (*Gītā Rahasya*, 1915) and Gandhi (*Anāsaktiyoga*, 1929) made it the key to the whole text and a charter for public engagement.
+
+@term niṣkāma karma
+sanskrit: निष्काम कर्म
+aliases: nishkama karma, niskama karma, desireless action, work without motive
+short: "Desireless action": action without craving for its fruit; the ethical core of karma-yoga.
+refs: 2.47, 3.19, 4.20, 18.6
+related: karma-yoga, kāma, phala, saṅga
+The phrase is not in the Gītā itself, but it became the standard name for its teaching. It does not mean action without purpose. As Vivekananda insisted, the desireless worker is not "like a brute, nor inert, nor heartless." It means action whose purpose is the act's rightness, freed from the ego's stake in outcomes. Philosophers have compared it with Kant's duty for duty's sake, and have asked whether an agent can act well while indifferent to consequences.
+
+@term naiṣkarmya
+sanskrit: नैष्कर्म्य
+aliases: naishkarmya, freedom from action
+short: Freedom from action: the state of no longer being bound by karma, reached not by ceasing to act but by acting without attachment.
+refs: 3.4, 18.49
+related: karma, saṁnyāsa, karma-yoga
+"Not by abstaining from actions does a person attain freedom from action" {3.4}. The Gītā turns the renunciant's ideal inside out. The goal of the monk (*naiṣkarmya*) is reached in the midst of action, by the one who "sees inaction in action" {4.18}.
+
+@term phala
+sanskrit: फल
+aliases: fruit of action, fruits of action
+short: The fruit of action: its result, reward, or karmic consequence.
+refs: 2.47, 5.12, 18.12
+related: karma, saṅga, tyāga
+The image is agricultural: deeds are seeds that ripen. Renouncing the fruit (*karma-phala-tyāga*) is, for the Gītā, the essence of true renunciation {18.2}. Note that the verse forbids making the fruit one's *motive* (*hetu*) {2.47}. It does not forbid foreseeing consequences.
+
+@term saṅga
+sanskrit: सङ्ग
+aliases: sanga
+short: Attachment, clinging: the bond between the self and an object or outcome.
+refs: 2.47, 2.62, 3.9, 5.10
+related: kāma, rāga and dveṣa, vairāgya
+Literally "sticking-together." In the causal chain of {2.62–63}, dwelling on objects produces attachment, attachment produces desire, and desire produces anger and ruin. Non-attachment (*asaṅga*) is the axe that cuts down the world-tree {15.3}.
+
+@term kāma
+sanskrit: काम
+aliases: kama
+short: Desire, craving; also pleasure as one of the legitimate aims of life.
+refs: 2.62, 3.37, 7.11, 16.21
+related: krodha, saṅga, puruṣārtha
+The Gītā names desire "the enemy here" {3.37}, an insatiable fire that covers knowledge. Yet Kṛṣṇa is also "desire not opposed to dharma" {7.11}. The problem is not desire as such but desire cut loose from right order. Kāma is one of the three gates of hell, with anger and greed {16.21}.
+
+@term krodha
+sanskrit: क्रोध
+aliases: 
+short: Anger: frustrated desire turned against its obstacle.
+refs: 2.62, 3.37, 16.21
+related: kāma
+In {2.62} anger is born from thwarted desire. In {3.37} desire and anger are named together as one enemy, "born of rajas." The pairing anticipates modern psychology's treatment of anger as a response to blocked goals.
+
+@term rāga and dveṣa
+sanskrit: राग, द्वेष
+aliases: raga, dvesha, rāga, dveṣa, attraction and aversion
+short: Attraction and aversion: the twin reflexes of liking and disliking that bind the mind to objects.
+refs: 2.64, 3.34, 7.27, 18.51
+related: dvandva, saṅga
+"Attraction and aversion lie in wait in the objects of each sense" {3.34}. The sage moves among objects with senses "free from attraction and aversion" {2.64}. Yoga-sūtra 2.7–8 makes the same pair two of the five afflictions (*kleśa*).
+
+@term dvandva
+sanskrit: द्वन्द्व
+aliases: pairs of opposites, dvandvas
+short: The pairs of opposites: heat and cold, pleasure and pain, honor and dishonor, success and failure.
+refs: 2.14, 2.45, 4.22, 7.27
+related: samatva, rāga and dveṣa
+To be "free of the pairs" {2.45} is to stop being yanked back and forth by every reversal of fortune. The same word names the copulative compound in Sanskrit grammar, and Kṛṣṇa says, "among compounds I am the *dvandva*" {10.33}.
+
+@term samatva
+sanskrit: समत्व
+aliases: samatvam, equanimity
+short: Equanimity, evenness: the mind's sameness in success and failure. "Equanimity is called yoga" (2.48).
+refs: 2.38, 2.48, 5.18, 6.9, 6.29
+related: yoga, dvandva, sthita-prajña
+The Gītā's most compact definition of yoga {2.48}. Equanimity is psychological (unshaken in gain and loss), ethical (seeing the same in the scholar and the outcaste {5.18}), and metaphysical (seeing the same brahman everywhere {5.19}). The three levels support one another.
+
+@term yoga
+sanskrit: योग
+aliases: yogas
+short: Literally "yoking": discipline, method, concentration, union; in the Gītā, any integrated path that binds the self to the highest.
+refs: 2.48, 2.50, 6.23, 9.5
+related: yukta, karma-yoga, jñāna-yoga, bhakti-yoga, dhyāna, Yoga school
+The word yokes many meanings: harnessing horses, applying a method, concentrating the mind, joining with God. The Gītā defines it as equanimity {2.48}, as "skill in actions" {2.50}, and as "unyoking from union with sorrow" {6.23}. Every chapter is titled a "yoga." God's own creative power is also "my sovereign yoga" {9.5}, and Kṛṣṇa is "lord of yoga" {18.78}.
+
+@term yukta
+sanskrit: युक्त
+aliases: yoked
+short: Yoked: disciplined, integrated, concentrated, joined to the highest.
+refs: 2.61, 5.12, 6.8, 6.47
+related: yoga
+The past participle of the root of *yoga*. The translation keeps "yoked" throughout so that the reader can hear the single image: the person whose faculties are harnessed together and steered. The unyoked (*ayukta*) are dragged by their senses {2.66}.
+
+@term jñāna
+sanskrit: ज्ञान
+aliases: jnana, gnana
+short: Knowledge: liberating insight into the nature of the self and reality.
+refs: 4.33, 4.37, 7.2, 13.11
+related: vijñāna, jñāna-yoga, ātman, buddhi
+Not information but transformative recognition. "Nothing here purifies like knowledge" {4.38}; its fire burns all actions to ashes {4.37}. Śaṅkara makes knowledge alone the direct means of liberation. Rāmānuja makes it a component of devotion.
+
+@term vijñāna
+sanskrit: विज्ञान
+aliases: vijnana, discernment
+short: Discernment: knowledge made specific, realized, or applied; paired with jñāna.
+refs: 3.41, 6.8, 7.2, 9.1
+related: jñāna
+The pair *jñāna-vijñāna* recurs. Commentators differ: general vs. specific knowledge, theoretical vs. experiential knowledge, knowledge of the unmanifest vs. of the manifest God. Chapter 7 is titled by the pair.
+
+@term jñāna-yoga
+sanskrit: ज्ञानयोग
+aliases: jnana-yoga, jnana yoga, jñāna yoga, yoga of knowledge
+short: The discipline of knowledge: liberation through discriminating insight into the self.
+refs: 3.3, 13.24, 16.1
+related: jñāna, Sāṅkhya, karma-yoga
+In {3.3} Kṛṣṇa names two ancient paths: knowledge for the followers of Sāṅkhya, action for the yogins. Much of the Gītā's subtlety lies in showing that they converge {5.4–5}.
+
+@term bhakti
+sanskrit: भक्ति
+aliases: bhakta, bhaktas
+short: Devotion: loving participation in God; from the root bhaj, "to share, partake."
+refs: 9.26, 11.54, 12.13–20, 18.55
+related: bhakti-yoga, Bhagavān, prasāda, prapatti
+The root *bhaj* means "to share in." Bhakti is not mere emotion but participation, a relation in which God also "shares himself" with the devotee {4.11}. The Gītā is among the earliest texts to make loving devotion to a personal God a full path to liberation. "Through devotion one knows me in truth" {18.55}. It was decisive for the later bhakti movements across India.
+
+@term bhakti-yoga
+sanskrit: भक्तियोग
+aliases: bhakti yoga, yoga of devotion
+short: The discipline of devotion; title of Chapter 12.
+refs: 12.2, 12.8–12, 14.26
+related: bhakti
+Chapter 12 offers a graded ladder: fix the mind on God. If you cannot, practice. If not that, work for God. If not even that, give up the fruits of action {12.8–11}. The path accommodates every capacity.
+
+@term dhyāna
+sanskrit: ध्यान
+aliases: dhyana, meditation
+short: Meditation: sustained, one-pointed contemplation.
+refs: 6.10–28, 12.12, 18.52
+related: yoga, samādhi, abhyāsa
+Chapter 6 gives the Gītā's manual of meditation: posture, gaze, breath, diet, and the image of the lamp in a windless place {6.19}. In {12.12} meditation ranks above knowledge but below giving up the fruits of action, a striking reversal of the ascetic hierarchy.
+
+@term samādhi
+sanskrit: समाधि
+aliases: samadhi
+short: Concentration, absorption: the settled, unified state of a mind fully gathered.
+refs: 2.44, 2.53, 2.54
+related: dhyāna, sthita-prajña
+In the Gītā *samādhi* means steadiness of understanding more than trance {2.53}. Arjuna's question about the person "established in samādhi" {2.54} opens the portrait of the sage.
+
+@term buddhi
+sanskrit: बुद्धि
+aliases: buddhis
+short: Understanding: the discerning, deciding faculty, above the mind and the senses.
+refs: 2.39, 2.41, 2.49, 3.42, 18.30
+related: manas, buddhi-yoga, indriya, ātman
+This translation always renders *buddhi* as "understanding." In Sāṅkhya psychology it is the first evolute of nature: the intellect that judges and wills. The Gītā's hierarchy runs senses, mind, understanding, then the self beyond understanding {3.42}, echoing *Kaṭha Upaniṣad* 3.10. The "understanding whose essence is resolve" is single, while that of the irresolute is "many-branched" {2.41}.
+
+@term buddhi-yoga
+sanskrit: बुद्धियोग
+aliases: buddhi yoga, yoga of understanding
+short: The yoga of understanding: acting from a settled, discerning mind rather than from desire.
+refs: 2.49, 10.10, 18.57
+related: buddhi, karma-yoga
+In {2.49} it is contrasted with mere action. Action alone is inferior. What counts is the understanding from which one acts. God gives this yoga to devotees {10.10}.
+
+@term manas
+sanskrit: मनस्
+aliases: manas
+short: Mind: the coordinating faculty that receives sense impressions and wanders after them.
+refs: 3.42, 6.34, 6.35, 15.7
+related: buddhi, indriya
+Distinct from *buddhi*. The mind is restless "like the wind" {6.34} and must be steadied by practice and dispassion {6.35}. It is counted as the sixth sense {15.7}.
+
+@term indriya
+sanskrit: इन्द्रिय
+aliases: indriyas
+short: The senses: the five organs of perception (and five of action), the doors through which objects enter the mind.
+refs: 2.58, 2.60, 3.42, 13.5
+related: manas, buddhi
+Named after Indra ("belonging to Indra," powers). The senses are like a tortoise's limbs to be withdrawn {2.58}, and turbulent horses that carry off the mind {2.60, 2.67}. The chariot image of *Kaṭha Upaniṣad* 3.3–6 lies behind these verses.
+
+@term ahaṅkāra
+sanskrit: अहङ्कार
+aliases: ahankara, ahamkara, ahaṁkāra, I-making
+short: "I-making": the ego-sense that says "I am the doer" and "this is mine."
+refs: 2.71, 3.27, 7.4, 18.17, 18.58
+related: buddhi, prakṛti, ātman
+A Sāṅkhya technical term: the evolute of nature that appropriates experience to a self. The translation renders it literally as "I-making" to keep its constructive sense. One "deluded by I-making thinks: 'I am the doer'" {3.27}. Freedom from it changes the moral status of even terrible acts {18.17}, one of the most debated claims in the text.
+
+@term ātman
+sanskrit: आत्मन्
+aliases: atman, ātmā, atma
+short: The self: the conscious, unchanging core of a person. Also simply the reflexive "oneself."
+refs: 2.20, 6.5, 6.29, 13.22
+related: dehin, brahman, puruṣa, jīva
+The same word serves as the ordinary reflexive pronoun and as the metaphysical Self. The Gītā exploits the double sense: "lift up the self by the self" {6.5}. The self is unborn and undying {2.20}, beyond weapons and fire {2.23}, the witness of all {13.22}. For Advaita Vedānta ātman is identical with brahman. For Rāmānuja the self is a real, eternal mode of God. For Madhva it is eternally distinct from God.
+
+@term dehin
+sanskrit: देहिन्
+aliases: embodied one
+short: The embodied one: the self as dwelling in a body.
+refs: 2.13, 2.22, 2.30, 14.5
+related: ātman, jīva
+From *deha*, body. The term emphasizes that the self *has* a body as one wears clothes {2.22}. The guṇas "bind the imperishable embodied one in the body" {14.5}.
+
+@term jīva
+sanskrit: जीव
+aliases: jiva, jīva-bhūta, living being
+short: The individual living being or soul; in 15.7, "a fragment of me."
+refs: 7.5, 15.7
+related: ātman, prakṛti
+God's "higher nature" is the *jīva-bhūta*, the life-principle that sustains the world {7.5}. The individual soul is "an eternal fragment (*aṁśa*) of me" {15.7}. Whether this fragment is ultimately identical with, distinct from, or a part of God is the fault line between the Vedānta schools.
+
+@term brahman
+sanskrit: ब्रह्मन्
+aliases: 
+short: The absolute: the ultimate ground of all that is; also the Veda, sacred utterance, and primal nature.
+refs: 2.72, 4.24, 8.3, 13.12, 14.27
+related: ātman, akṣara, Brahmā, brahma-nirvāṇa, Om
+Originally the power of sacred speech in the Vedic hymns, then the Upaniṣadic absolute. The Gītā uses it in several senses. It is the supreme imperishable {8.3}, "neither being nor non-being" {13.12}. It is also the Veda {3.15} and the great womb of nature {14.3}. Strikingly, Kṛṣṇa calls himself "the foundation of brahman" {14.27}. This verse is pivotal for theistic readings in which the personal God exceeds the impersonal absolute. Do not confuse it with Brahmā, the creator god.
+
+@term Brahmā
+sanskrit: ब्रह्मा
+short: The creator god, seated on the lotus; his day and night measure cosmic time.
+refs: 8.16, 8.17, 11.15, 11.37
+related: brahman, kalpa
+A personal deity within the cosmos, not the absolute (*brahman*). Even "all worlds up to the realm of Brahmā" are subject to return {8.16}. Arjuna sees Brahmā within Kṛṣṇa's body {11.15}.
+
+@term brahma-nirvāṇa
+sanskrit: ब्रह्मनिर्वाण
+aliases: brahma nirvāṇa, brahma-nirvana, nirvāṇa of brahman, nirvāṇa
+short: The "blowing-out in brahman": final peace and liberation.
+refs: 2.72, 5.24, 5.25, 5.26, 6.15
+related: mokṣa, brahman
+*Nirvāṇa*, "extinction" like a flame blown out, is the Buddhist word for liberation. The Gītā's compound "nirvāṇa of brahman" is often read as a deliberate dialogue with Buddhism. It accepts the ideal of extinguished craving but grounds it in a positive absolute rather than in emptiness or cessation.
+
+@term mokṣa
+sanskrit: मोक्ष
+aliases: moksha, moksa, liberation
+short: Liberation: release from the cycle of rebirth and the bondage of karma.
+refs: 5.28, 18.30, 18.66
+related: saṁsāra, brahma-nirvāṇa
+The final goal of Indian soteriology. The Gītā's distinctive claim is that liberation is compatible with full engagement in the world. Chapter 18 is titled "liberation through renunciation."
+
+@term saṁsāra
+sanskrit: संसार
+aliases: samsara, saṃsāra
+short: The round of birth, death and rebirth, driven by karma and ignorance.
+refs: 9.3, 12.7, 16.19
+related: karma, mokṣa
+Literally "flowing together, wandering." The Gītā images it as an ocean of death {12.7}, as the coming and going of those who seek heaven {9.21}, and as the upside-down world-tree {15.1–3}.
+
+@term Īśvara
+sanskrit: ईश्वर
+aliases: Ishvara, Isvara, īśvara
+short: The Lord: God as sovereign ruler and inner controller of all beings.
+refs: 4.6, 15.17, 18.61
+related: Bhagavān, puruṣottama
+"The Lord dwells in the heart of all beings, causing them to revolve by his māyā" {18.61}. The Gītā's God is both immanent (seated in the heart) and transcendent (greater than the imperishable).
+
+@term Bhagavān
+sanskrit: भगवान्
+aliases: Bhagavan, Blessed Lord
+short: "The Blessed One," the Lord: Kṛṣṇa's title as speaker; the God who possesses all excellences (bhaga).
+related: Kṛṣṇa, Īśvara, bhakti
+*Bhaga* means fortune, share, excellence. The Bhagavat is the one who possesses them. The title gives the text its name, *Bhagavad-gītā*, "the song of the Blessed One." Traditions devoted to Bhagavān (Bhāgavatas, Pāñcarātra) formed the Gītā's early religious context.
+
+@term puruṣa
+sanskrit: पुरुष
+aliases: purusha, purusa
+short: Person, spirit: in Sāṅkhya the pure conscious witness distinct from nature; in the Gītā also God as Supreme Person.
+refs: 8.4, 13.19–22, 15.16–18
+related: prakṛti, puruṣottama, kṣetrajña, Sāṅkhya
+In classical Sāṅkhya, puruṣa is pure consciousness, many in number, inactive, merely witnessing nature's play. The Gītā takes over the polarity {13.19–23} and then crowns it with a third term. Beyond the perishable and the imperishable stands the Supreme Person {15.16–18}.
+
+@term puruṣottama
+sanskrit: पुरुषोत्तम
+aliases: purushottama, purusottama, Supreme Person
+short: The Supreme Person: God as beyond both the perishable world and the imperishable self.
+refs: 8.1, 15.18, 15.19
+related: puruṣa, akṣara, Īśvara
+The title of Chapter 15 and the summit of the Gītā's theology. It is pivotal for theistic Vedānta (Rāmānuja, Madhva, the Vaiṣṇava schools). Advaitins read it as the absolute described from the standpoint of the world.
+
+@term prakṛti
+sanskrit: प्रकृति
+aliases: prakriti, prakrti
+short: Nature: the dynamic matrix of matter, mind and energy, made of the three guṇas.
+refs: 3.27, 7.4, 9.8, 13.19, 18.59
+related: guṇa, puruṣa, Sāṅkhya, svabhāva, māyā
+In Sāṅkhya, prakṛti evolves into intellect, ego, mind, senses and elements. All activity is hers. The Gītā makes her God's own nature: lower (eightfold, material) and higher (the life-principle) {7.4–5}. "Actions are performed in every case by the guṇas of nature" {3.27}. This is the basis of the teaching that the self is not the doer.
+
+@term guṇa
+sanskrit: गुण
+aliases: guṇas, guna, gunas, three guṇas
+short: Strand, quality: the three constituents of nature: sattva, rajas and tamas.
+refs: 3.27, 14.5–20, 17.2, 18.40
+related: sattva, rajas, tamas, prakṛti
+*Guṇa* means a strand of a rope. Nature is a cord twisted of three strands, and everything (food, faith, gifts, knowledge, happiness) is analyzed by their mixture (Chapters 14, 17, 18). To "go beyond the guṇas" (*guṇātīta*) is a mark of the liberated person {14.22–25}.
+
+@term sattva
+sanskrit: सत्त्व
+aliases: sattvic, sāttvika, sattvika, sāttvic
+short: The guṇa of clarity, goodness, light and balance.
+refs: 14.6, 14.11, 17.11, 18.20
+related: guṇa, rajas, tamas
+From *sat*, "being, good." Sattva illuminates and harmonizes, but it still binds, "by attachment to happiness and to knowledge" {14.6}. The word also means "being, essence" ({10.36}, {17.3}).
+
+@term rajas
+sanskrit: रजस्
+aliases: rajasic, rājasika, rājasic
+short: The guṇa of passion, activity, restlessness and craving.
+refs: 3.37, 14.7, 14.12, 17.12
+related: guṇa, kāma
+Literally "dust, haze," that which colors. Desire and anger are "born of rajas" {3.37}. Its fruit is pain {14.16}.
+
+@term tamas
+sanskrit: तमस्
+aliases: tamasic, tāmasika, tāmasic
+short: The guṇa of darkness, inertia, dullness and delusion.
+refs: 14.8, 14.13, 17.13, 18.32
+related: guṇa, sattva
+Tamas binds by negligence, laziness and sleep {14.8}. Vivekananda saw Arjuna's refusal to fight as tamas disguised as sattva: fear masquerading as compassion.
+
+@term māyā
+sanskrit: माया
+aliases: maya, yoga-māyā, yogamāyā
+short: Māyā: God's power of appearance; the bewildering, creative power that both manifests and veils.
+refs: 4.6, 7.14, 7.25, 18.61
+related: prakṛti, Īśvara
+In the Gītā māyā is first of all divine power: Kṛṣṇa takes birth "by my own māyā" {4.6}. That same power veils him: "this divine māyā of mine, made of the guṇas, is hard to cross" {7.14}. Later Advaita develops māyā into the doctrine that the world is an appearance superimposed on brahman. The Gītā itself is less committal.
+
+@term avatāra
+sanskrit: अवतार
+aliases: avatar, avatara, avatāras
+short: "Descent": God's taking birth in the world to restore dharma.
+refs: 4.6, 4.7, 4.8
+related: dharma, Kṛṣṇa
+The word itself does not occur in the Gītā, but {4.7–8} is its classic charter. "Whenever dharma declines… I come into being age after age." The verses ground the later doctrine of Viṣṇu's ten (or more) descents.
+
+@term sthita-prajña
+sanskrit: स्थितप्रज्ञ
+aliases: sthitaprajna, sthita-prajna, steady in wisdom, steady wisdom
+short: The person "steady in wisdom": the Gītā's portrait of the sage (2.54–72).
+refs: 2.54, 2.55, 2.58, 2.70
+related: samatva, samādhi, guṇa
+Arjuna asks how such a person speaks, sits and moves {2.54}. The answer is a portrait. The sage is content in the self, unshaken in sorrow, withdraws the senses like a tortoise, and stays full like the ocean while rivers flow in. Gandhi had these verses recited daily at his prayer meetings.
+
+@term saṁnyāsa
+sanskrit: संन्यास
+aliases: sannyasa, samnyasa, sannyāsa, renunciation, renunciant
+short: Renunciation: giving up actions themselves; formally, the life of the wandering ascetic.
+refs: 3.4, 5.1, 6.1, 18.2
+related: tyāga, naiṣkarmya, āśrama
+The Gītā redefines it. The true renunciant is one who does what should be done without depending on its fruit, not one who merely abandons the sacred fires {6.1}. In {18.2} Kṛṣṇa distinguishes saṁnyāsa (renouncing desire-driven acts) from tyāga (relinquishing the fruit of all acts).
+
+@term tyāga
+sanskrit: त्याग
+aliases: tyaga, relinquishment
+short: Relinquishment: giving up the fruit of actions, not the actions themselves.
+refs: 18.2, 18.4–11
+related: saṁnyāsa, phala
+"One who relinquishes the fruit of action is called a relinquisher" {18.11}. Chapter 18 classifies relinquishment by the guṇas. Giving up duty out of delusion is tamasic. Giving it up for fear of hardship is rajasic. Doing duty because it ought to be done, without attachment, is sattvic {18.7–9}.
+
+@term yajña
+sanskrit: यज्ञ
+aliases: yajna, yagya, yajñas
+short: Sacrifice: the Vedic ritual offering, and by extension any action offered beyond the self.
+refs: 3.9–16, 4.23–33, 9.16, 17.11
+related: karma, loka-saṅgraha, Om
+In the Vedic world sacrifice sustains the cosmos. Gods and humans nourish one another {3.11}, and food, rain and sacrifice form a wheel {3.14–16}. The Gītā interiorizes and universalizes it. Breath-control, study, self-restraint and knowledge are all sacrifices {4.25–33}, and "brahman is the offering" {4.24}. Action done "for the sake of sacrifice" does not bind {3.9}.
+
+@term loka-saṅgraha
+sanskrit: लोकसंग्रह
+aliases: loka-sangraha, lokasangraha, lokasaṅgraha, holding-together of the world
+short: The holding-together of the world: action for the cohesion and welfare of society.
+refs: 3.20, 3.25
+related: karma-yoga, dharma
+Even one who has nothing left to gain should act, to hold the world together and set an example {3.20–21}. God himself acts for this reason {3.22–24}. Tilak and Gandhi read it as the Gītā's social ethic.
+
+@term varṇa
+sanskrit: वर्ण
+aliases: varna, varnas, varṇas, four social orders, cātur-varṇya, caturvarnya
+short: The four social orders of brahmanical theory: brāhmaṇa, kṣatriya, vaiśya and śūdra.
+refs: 4.13, 18.41–44
+related: brāhmaṇa, kṣatriya, vaiśya, śūdra, svadharma, varṇa-saṅkara
+Literally "color, class." Kṛṣṇa says he created the four orders "according to the division of guṇa and action" {4.13}. Whether the Gītā means birth-based caste or qualities of character is contested. Traditional commentators largely assume birth. Reformers (Vivekananda, Gandhi in part, Aurobindo, Ambedkar's critics and critics of Ambedkar) argue over whether quality-based readings are faithful or apologetic. B. R. Ambedkar read the Gītā as a defense of caste. That reading must be taken seriously.
+
+@term varṇa-saṅkara
+sanskrit: वर्णसङ्कर
+aliases: varna-sankara, varṇasaṅkara, mixing of social orders
+short: "Mixing of the orders": the confusion of social classes Arjuna fears as the fruit of war.
+refs: 1.41–43, 3.24
+related: varṇa, kula-dharma
+Arjuna's chain of fears {1.40–44} runs: war kills the men, family dharma collapses, women are "corrupted," orders mix, ancestors fall. The argument reveals how deeply his ethics is tied to lineage. Kṛṣṇa turns the word back on Arjuna: if God ceased to act, *he* would cause confusion {3.24}.
+
+@term kula-dharma
+sanskrit: कुलधर्म
+aliases: kula dharma, family dharma, family dharmas
+short: Family dharma: the hereditary duties and rites that sustain a lineage.
+refs: 1.40, 1.43, 1.44
+related: dharma, varṇa-saṅkara
+The ground of Arjuna's first argument against fighting. His dharma is that of the clan. Kṛṣṇa will argue from a different level: the warrior's dharma, then the self, then God.
+
+@term brāhmaṇa
+sanskrit: ब्राह्मण
+aliases: brahmana, brahmin, brahmins, brāhmaṇas
+short: Member of the priestly and learned order; also a Vedic ritual text (the Brāhmaṇas).
+refs: 2.46, 5.18, 18.42
+related: varṇa
+The Gītā's ideal brāhmaṇa is marked by calm, self-restraint, austerity and knowledge {18.42}. The wise see "the same" in a learned brāhmaṇa and an outcaste {5.18}.
+
+@term kṣatriya
+sanskrit: क्षत्रिय
+aliases: kshatriya, ksatriya, kṣatriyas, warrior order
+short: Member of the warrior-ruler order; Arjuna's class.
+refs: 2.31, 2.32, 18.43
+related: varṇa, svadharma
+For a kṣatriya "nothing is better than a battle fought in accord with dharma" {2.31}. Heroism, vigor, generosity and leadership are his nature {18.43}.
+
+@term vaiśya
+sanskrit: वैश्य
+aliases: vaishya, vaisya, vaiśyas
+short: Member of the order of farmers, herders and traders.
+refs: 9.32, 18.44
+related: varṇa
+
+@term śūdra
+sanskrit: शूद्र
+aliases: shudra, sudra, śūdras
+short: Member of the serving order, the fourth varṇa.
+refs: 9.32, 18.44
+related: varṇa
+{9.32} declares that śūdras, with women and vaiśyas, reach the supreme goal by taking refuge in God. It was a radical opening of liberation beyond the Vedic elite, though framed in hierarchical language.
+
+@term śreyas
+sanskrit: श्रेयस्
+aliases: sreyas, shreyas
+short: The better, the highest good: what is truly beneficial, as against the merely pleasant (preyas).
+refs: 1.31, 2.7, 3.2, 3.35
+related: dharma
+Arjuna asks to be told "decisively what is better" {2.7}. The distinction of *śreyas* and *preyas* comes from *Kaṭha Upaniṣad* 2.1–2.
+
+@term kārpaṇya
+sanskrit: कार्पण्य
+aliases: karpanya, flaw of pity
+short: Pitiable weakness, poverty of spirit: Arjuna's self-diagnosis in 2.7.
+refs: 2.7
+related: klaibya
+Arjuna says his being is "struck by the flaw of *kārpaṇya*," a word covering both pity and meanness. It is the moment he turns from arguing to asking, and becomes a student.
+
+@term klaibya
+sanskrit: क्लैब्य
+aliases: klaibyam, unmanliness
+short: "Unmanliness": the faint-heartedness Kṛṣṇa first rebukes (2.3).
+refs: 2.3
+related: kārpaṇya
+A harsh, gendered word of the warrior code. Kṛṣṇa's first response is a shaming appeal to honor. Only from {2.11} does he begin to teach. Vivekananda took {2.3} as the whole Gītā in one verse: "Yield not to weakness."
+
+@term śraddhā
+sanskrit: श्रद्धा
+aliases: shraddha, sraddha
+short: Faith: trust, orientation of the heart toward what one holds true and good.
+refs: 4.39, 6.47, 7.21, 17.3
+related: bhakti, guṇa
+"A person is made of faith: whatever one's faith is, that is what one is" {17.3}. Faith is not belief in propositions but the shape of one's deepest commitment, and it too comes in three guṇa-kinds.
+
+@term prasāda
+sanskrit: प्रसाद
+aliases: prasada, prasad
+short: Serenity and grace: the mind's clarity, and God's favor; one word for both.
+refs: 2.64, 2.65, 18.56, 18.58, 18.62
+related: bhakti, prapatti
+In {2.64–65} prasāda is the serenity of a mind freed from attraction and aversion. In {18.56–62} it is God's grace by which one reaches the eternal abode. The single word suggests that inner clarity and divine favor are two faces of one gift.
+
+@term prapatti
+sanskrit: प्रपत्ति
+aliases: śaraṇāgati, saranagati
+short: Surrender, taking refuge in God; developed by Śrīvaiṣṇavas from 18.66.
+refs: 18.62, 18.66
+related: bhakti, carama-śloka
+Rāmānuja's tradition made *prapatti* a distinct means of salvation: total surrender to God's grace, especially in reading {18.66}.
+
+@term carama-śloka
+sanskrit: चरमश्लोक
+aliases: carama sloka, charama shloka, final verse
+short: "The final verse": 18.66, regarded by Śrīvaiṣṇavas as the culmination of the Gītā.
+refs: 18.66
+related: prapatti
+"Abandon all dharmas and take refuge in me alone." Śaṅkara reads it as renouncing all action for knowledge. Rāmānuja reads it as relying on God rather than on one's own means. Modern readers often take it as abandoning attachment to the results of dharma.
+
+@term abhyāsa
+sanskrit: अभ्यास
+aliases: abhyasa
+short: Practice: repeated, sustained effort that trains the mind.
+refs: 6.35, 8.8, 12.9
+related: vairāgya, dhyāna
+"The mind is held by practice and dispassion" {6.35}. The same pair appears in *Yoga-sūtra* 1.12.
+
+@term vairāgya
+sanskrit: वैराग्य
+aliases: vairagya, dispassion
+short: Dispassion: the fading of craving for objects.
+refs: 6.35, 13.8, 18.52
+related: abhyāsa, saṅga
+Literally "loss of color," the fading of the passion (*rāga*) that colors the mind.
+
+@term ahiṁsā
+sanskrit: अहिंसा
+aliases: ahimsa, ahiṃsā, non-harming, non-violence
+short: Non-harming: refraining from injury to any being.
+refs: 10.5, 13.7, 16.2, 17.14
+related: dharma
+The Gītā lists ahiṁsā among the divine qualities while urging Arjuna to fight. Gandhi resolved the tension by reading the war as allegory. Others accept it as the tension of a warrior ethic: violence that is just, dispassionate, and a last resort.
+
+@term kṣetra
+sanskrit: क्षेत्र
+aliases: kshetra, ksetra
+short: The field: the body, and by extension all of nature as the arena of experience.
+refs: 1.1, 13.1, 13.5–6
+related: kṣetrajña, prakṛti
+The Gītā opens on "the field of dharma, the field of the Kurus" {1.1}. Chapter 13 reveals the body itself as the field. The battlefield and the body are one image.
+
+@term kṣetrajña
+sanskrit: क्षेत्रज्ञ
+aliases: kshetrajna, ksetrajna, knower of the field
+short: The knower of the field: the conscious self that witnesses the body and nature.
+refs: 13.1, 13.2, 13.26, 13.34
+related: kṣetra, puruṣa, ātman
+"Know that I am the knower of the field in all fields" {13.2}. Advaitins read this as the identity of self and God. Theists read it as God's indwelling in every knower.
+
+@term akṣara
+sanskrit: अक्षर
+aliases: akshara, aksara, the imperishable
+short: The imperishable: the undying reality; also "syllable," above all the syllable Om.
+refs: 8.3, 8.11, 8.13, 12.3, 15.16
+related: brahman, avyakta, Om
+The word means both "indestructible" and "syllable," and the Gītā plays on both. Brahman is the supreme *akṣara* {8.3}, and Om is the "one-syllabled brahman" {8.13}. In {15.16–18} the imperishable is surpassed by the Supreme Person.
+
+@term avyakta
+sanskrit: अव्यक्त
+aliases: avyakta, the unmanifest
+short: The unmanifest: what has not yet taken form; primal nature, or the formless absolute.
+refs: 2.25, 2.28, 8.18–21, 12.1–5
+related: akṣara, prakṛti
+The word has two senses. One is cosmological: primal matter from which beings arise at Brahmā's dawn {8.18}. The other is metaphysical: the eternal unmanifest beyond that {8.20}. Chapter 12 weighs worship of the unmanifest against worship of the personal God.
+
+@term kūṭastha
+sanskrit: कूटस्थ
+aliases: kutastha, kūṭa-stha, kuta-stha
+short: "Standing on the summit," or "like an anvil": unchanging, immovable.
+refs: 6.8, 12.3, 15.16
+related: akṣara
+Commentators explain it as the anvil on which everything is hammered while it stays unchanged.
+
+@term adhyātma
+sanskrit: अध्यात्म
+aliases: adhyatma, adhibhūta, adhidaiva, adhiyajña, adhibhuta, adhidaiva, adhiyajna
+short: The "pertaining to" series: what pertains to the self, to beings, to the gods, and to sacrifice (7.29–8.4).
+refs: 7.29, 7.30, 8.1, 8.3, 8.4
+related: brahman
+These categories come from Upaniṣadic correspondences between the individual (*adhyātma*), the cosmos (*adhibhūta*), the divine (*adhidaiva*) and ritual (*adhiyajña*). Arjuna asks for definitions {8.1–2}. Kṛṣṇa answers that he himself is the principle of sacrifice "here in the body" {8.4}.
+
+@term vibhūti
+sanskrit: विभूति
+aliases: vibhuti, vibhūtis, extended power
+short: Extended power, manifestation: the excellences through which God is visible in the world.
+refs: 10.7, 10.16, 10.40, 10.41
+related: viśvarūpa
+Chapter 10 lists them: among lights the sun, among mountains Meru, among letters A. "Whatever being has power, splendor, or vigor arises from a fraction of my brilliance" {10.41}. Theologically, God is to be found in the excellent and the extraordinary.
+
+@term viśvarūpa
+sanskrit: विश्वरूप
+aliases: vishvarupa, visvarupa, viśva-rūpa, universal form
+short: The universal form: the cosmic vision of God shown to Arjuna in Chapter 11.
+refs: 11.9–34
+related: kāla, vibhūti
+Given a divine eye, Arjuna sees all worlds in Kṛṣṇa's body. He sees "the light of a thousand suns" {11.12}, and then the warriors of both armies rushing into God's mouths. It is one of the great theophanies of world literature. J. Robert Oppenheimer recalled {11.12} and {11.32} at the first atomic test.
+
+@term kāla
+sanskrit: काल
+aliases: kala
+short: Time, as destroyer: Kṛṣṇa's self-revelation in 11.32.
+refs: 10.30, 10.33, 11.32
+related: viśvarūpa
+"I am time, the mighty destroyer of worlds" {11.32}. Time here is an active power that devours. Arjuna is told the warriors are already slain, and he is to be "merely the instrument."
+
+@term nimitta-mātra
+sanskrit: निमित्तमात्र
+aliases: nimitta matra, nimittamatra, merely the instrument
+short: "Merely the instrument": Arjuna's role in God's action (11.33).
+refs: 11.33
+related: kāla, ahaṅkāra
+One of the most morally fraught phrases in the text. Does it dissolve Arjuna's responsibility, or relocate it? It parallels the teaching that the self is not the doer {3.27}, {18.16}.
+
+@term aśvattha
+sanskrit: अश्वत्थ
+aliases: ashvattha, asvattha, sacred fig, world-tree
+short: The sacred fig tree; in 15.1–3, the inverted tree of saṁsāra, roots above and branches below.
+refs: 10.26, 15.1–3
+related: saṁsāra, vairāgya
+The image comes from *Kaṭha Upaniṣad* 6.1. The world grows down from its source. Its leaves are Vedic hymns, its shoots are sense objects, and it must be cut down with the axe of non-attachment.
+
+@term Om
+sanskrit: ॐ
+aliases: Oṁ, Aum, Om tat sat, oṁ tat sat, tat
+short: The sacred syllable; with tat ("that") and sat ("being, good"), the threefold name of brahman (17.23).
+refs: 7.8, 8.13, 9.17, 17.23–27
+related: akṣara, brahman, sat and asat
+Om is the "one-syllabled brahman" {8.13}, chanted at the beginning and end of Vedic recitation. In {17.23–27} *oṁ tat sat* sanctifies sacrifice, gift and austerity: Om to begin, *tat* to renounce the fruit, *sat* to affirm goodness.
+
+@term sat and asat
+sanskrit: सत्, असत्
+aliases: asat, sat-asat, sat/asat
+short: Being and non-being; real and unreal; good and not-good.
+refs: 2.16, 9.19, 11.37, 13.12, 17.26–28
+related: brahman, Om
+"Of the unreal there is no coming to be; of the real there is no ceasing to be" {2.16}. This is the Gītā's most compressed metaphysical axiom. God is both *sat* and *asat* {9.19} and what is beyond both {11.37}. Brahman is "neither being nor non-being" {13.12}.
+
+@term tapas
+sanskrit: तपस्
+aliases: tapasya, austerity
+short: Austerity: "heat," disciplined effort and self-restraint; one of the three sanctifying acts.
+refs: 7.9, 17.14–19
+related: yajña, dāna
+From *tap*, "to heat." Chapter 17 distinguishes austerity of body, speech and mind, and condemns self-torture as demonic {17.5–6}.
+
+@term dāna
+sanskrit: दान
+aliases: dana
+short: Giving, generosity, the gift.
+refs: 16.1, 17.20–22, 18.5
+related: yajña, tapas
+The sattvic gift is given "because it ought to be given," to one who cannot repay, at the right place and time {17.20}.
+
+@term daivī and āsurī sampad
+sanskrit: दैवी, आसुरी सम्पद्
+aliases: daivi sampad, asuri sampad, divine endowment, demonic endowment, āsura, asura, asuras, demonic
+short: The divine and demonic endowments: two moral natures (Chapter 16).
+refs: 16.1–5, 16.6–20
+related: guṇa, śāstra
+Chapter 16 sets out two clusters of character. The divine includes fearlessness, purity, generosity, non-harming and truth. The demonic includes hypocrisy, arrogance, anger and the creed that the world has no lord and is driven by desire alone. Its vivid portrait of the materialist {16.13–15} has been read as a critique of Lokāyata (Indian materialism).
+
+@term śāstra
+sanskrit: शास्त्र
+aliases: sastra, shastra, śāstras
+short: Authoritative teaching, scripture: the injunctions that determine what should and should not be done.
+refs: 16.23, 16.24, 17.1
+related: dharma, Veda
+"Let scripture be your standard" {16.24}. Chapter 16 ends on scriptural authority, yet Chapter 17 immediately asks about those who act with faith outside scripture.
+
+@term daiva
+sanskrit: दैव
+aliases: daivam, providence, fate
+short: "The divine": fate, providence, unseen causes; the fifth factor of action (18.14).
+refs: 18.14
+related: karma
+The fifth of the five causes of every act, after the body, agent, instruments and efforts. It names the portion of any outcome beyond the agent's control.
+
+@term svabhāva
+sanskrit: स्वभाव
+aliases: svabhava, inherent nature
+short: Own-being, inherent nature: the innate disposition from which one's actions flow.
+refs: 5.14, 8.3, 18.41–47, 18.60
+related: svadharma, prakṛti, guṇa
+"Your nature will compel you" {18.59–60}. Svabhāva grounds both the determinism of nature and the dignity of each person's own path.
+
+@term dhṛti
+sanskrit: धृति
+aliases: dhriti, dhrti, steadfastness
+short: Steadfastness, resolve: the power that holds a course.
+refs: 18.26, 18.33–35
+related: buddhi
+Analyzed by the guṇas in {18.33–35}. Even steadfastness can be tamasic: the fool's stubborn grip on sleep, fear and grief.
+
+@term yoga-kṣema
+sanskrit: योगक्षेम
+aliases: yoga-ksema, yogakshema, yoga-kshema
+short: "Gaining and keeping": acquisition and security. God secures it for exclusive devotees (9.22).
+refs: 2.45, 9.22
+related: bhakti
+In {2.45} Arjuna is told to be free of "acquiring and keeping." In {9.22} God promises to provide it. Today it is the motto of the Life Insurance Corporation of India.
+
+@term ātmaupamya
+sanskrit: आत्मौपम्य
+aliases: atmaupamya, ātmaupamyena, comparison with oneself
+short: "Taking oneself as the measure": seeing others' pleasure and pain as one's own (6.32).
+refs: 6.32
+related: samatva
+The Gītā's version of the golden rule, rooted in the metaphysics of one self in all {6.29}.
+
+@term prāṇa
+sanskrit: प्राण
+aliases: prana, prāṇāyāma, pranayama, breath-control
+short: Breath, vital energy; prāṇāyāma is its regulation.
+refs: 4.29, 5.27, 8.10, 8.12
+related: yoga, dhyāna
+The in-breath and out-breath (*prāṇa, apāna*) are offered into each other as a sacrifice {4.29}. At death the yogin draws the breath between the eyebrows or into the head {8.10, 8.12}.
+
+@term kalpa
+sanskrit: कल्प
+aliases: yuga, yugas, kalpas, day of Brahmā
+short: Cosmic ages: a yuga is a world-age; a thousand yugas make a day of Brahmā; a kalpa is a cycle of creation.
+refs: 4.8, 8.17, 9.7
+related: Brahmā
+Indian cosmology measures time in vast cycles. Beings emerge at Brahmā's dawn and dissolve at his dusk {8.18–19}. God sends them forth at the beginning of each kalpa {9.7}.
+
+@term bright and dark paths
+sanskrit: देवयान, पितृयान
+aliases: devayāna, pitṛyāna, devayana, pitryana
+short: The two paths of the dead: the bright path of no return and the dark path of return (8.24–26).
+refs: 8.23–27
+related: mokṣa
+The doctrine comes from *Chāndogya Upaniṣad* 5.10 and *Bṛhadāraṇyaka* 6.2. The Gītā's point comes in {8.27}: the yogin who *knows* both paths is not deluded. Knowledge relativizes the cosmology.
+
+@term śruti and smṛti
+sanskrit: श्रुति, स्मृति
+aliases: shruti, smriti, sruti, smrti
+short: "What is heard" (revealed Veda) and "what is remembered" (tradition); also simply hearing and memory.
+refs: 2.53, 18.73
+related: Veda, Mahābhārata
+Formally the Gītā is *smṛti*, part of the epic, but tradition treats it as having the authority of an Upaniṣad. Arjuna's final words play on the other sense: "I have regained my memory (*smṛti*)" {18.73}.
+
+@term puruṣārtha
+sanskrit: पुरुषार्थ
+aliases: purusartha, purushartha, aims of life, artha
+short: The aims of human life: dharma (right order), artha (wealth, power), kāma (pleasure), and mokṣa (liberation).
+refs: 18.34
+related: dharma, kāma, mokṣa
+The rajasic person "holds to dharma, pleasure and wealth" out of attachment {18.34}, that is, the first three aims pursued for their fruits.
+
+@term āśrama
+sanskrit: आश्रम
+aliases: ashrama, asrama, stages of life
+short: The stages of life: student, householder, forest-dweller, renunciant.
+related: saṁnyāsa, varṇa
+Not named in the Gītā but presupposed. The text's argument with renunciation is partly an argument about whether liberation requires leaving the householder stage.
+
+@term viṣāda
+sanskrit: विषाद
+aliases: vishada, visada, despair
+short: Despair, dejection: Arjuna's state in Chapter 1, "the yoga of Arjuna's despair."
+refs: 1.28, 2.1, 2.10
+related: kārpaṇya
+That a chapter of pure despair is called a *yoga* has prompted reflection. Crisis is the first step of the path.
+
+@term Veda
+sanskrit: वेद
+aliases: Vedas, Vedic, Ṛg, Sāman, Yajus, Sāmaveda, three Vedas, veda-vāda
+short: The Veda: the oldest scriptures (Ṛg, Sāma, Yajur, later Atharva), with their ritual and philosophical appendices.
+refs: 2.42–46, 9.20, 15.1, 15.15
+related: Upaniṣad, yajña, śruti and smṛti
+The Gītā is ambivalent. It criticizes those who "delight in the letter of the Veda" for heavenly rewards {2.42–44} and calls the Vedas useless to the knower as a well in a flood {2.46}. Yet God is "what is to be known through all the Vedas" {15.15}, and the world-tree's leaves are Vedic hymns {15.1}.
+
+@term Upaniṣad
+sanskrit: उपनिषद्
+aliases: Upanishad, Upanisad, Upaniṣads, Upanishads, Upanishadic, Upaniṣadic
+short: The philosophical texts concluding the Veda (c. 800–200 BCE), source of the doctrines of ātman and brahman.
+related: Veda, Vedānta, Kaṭha Upaniṣad, Īśā Upaniṣad
+The Gītā calls itself an Upaniṣad in its colophons and quotes or echoes them repeatedly: *Kaṭha* above all, also *Īśā*, *Śvetāśvatara*, *Muṇḍaka*, *Chāndogya*. A traditional verse calls the Upaniṣads the cows, Kṛṣṇa the milker, Arjuna the calf, and the Gītā the milk.
+
+@term Kaṭha Upaniṣad
+sanskrit: कठोपनिषद्
+aliases: Katha Upanishad, Kaṭha, Katha
+short: Upaniṣad of the boy Naciketas and Death; the Gītā's closest Upaniṣadic source.
+related: Upaniṣad
+Several Gītā verses are near-quotations: the unborn, undying self {2.19–20} = *Kaṭha* 2.18–19; the marvel no one knows {2.29} ≈ *Kaṭha* 2.7; the hierarchy of senses, mind and understanding {3.42} ≈ *Kaṭha* 3.10; the inverted tree {15.1} ≈ *Kaṭha* 6.1. The *Kaṭha* also has the chariot image and the *śreyas/preyas* distinction.
+
+@term Īśā Upaniṣad
+sanskrit: ईशोपनिषद्
+aliases: Isha Upanishad, Īśā, Isa Upanisad
+short: Brief Upaniṣad that already joins renunciation with continued action.
+related: Upaniṣad, karma-yoga
+"Doing works here, one may wish to live a hundred years; thus it is with you, not otherwise; action does not cling to a person" (*Īśā* 2). Many scholars see it as a seed of the Gītā's karma-yoga. Its verses on seeing all beings in the self {6.29} also anticipate the Gītā.
+
+@term Vedānta
+sanskrit: वेदान्त
+aliases: Vedanta, Vedantic
+short: "End of the Veda": the Upaniṣads and the philosophical schools that interpret them through three foundational texts.
+related: Advaita Vedānta, Viśiṣṭādvaita, Dvaita, Brahma-sūtra
+Classical Vedānta rests on the *prasthāna-traya*, the "triple foundation": the Upaniṣads, the *Brahma-sūtra*, and the Bhagavad Gītā. Every major Vedāntin therefore wrote a Gītā commentary.
+
+@term Advaita Vedānta
+sanskrit: अद्वैत
+aliases: Advaita, non-dualism, Advaitin, Advaitins
+short: Non-dual Vedānta: the self is identical with brahman; the world of difference is appearance.
+related: Śaṅkara, Vedānta, māyā
+Śaṅkara's school. For Advaita the Gītā's final teaching is knowledge of the self as brahman. Karma-yoga purifies the mind but does not itself liberate.
+
+@term Viśiṣṭādvaita
+sanskrit: विशिष्टाद्वैत
+aliases: Visistadvaita, Vishishtadvaita, qualified non-dualism
+short: Qualified non-dualism: God is the one reality, with souls and world as his real body or modes.
+related: Rāmānuja, Vedānta, bhakti
+Rāmānuja's school. The Gītā is read as teaching devotion to a personal God, Nārāyaṇa, whose body is the universe. Selves are real and eternal, distinct yet inseparable from him.
+
+@term Dvaita
+sanskrit: द्वैत
+aliases: dualism, Dvaita Vedānta
+short: Dualist Vedānta: God, souls and matter are eternally distinct.
+related: Madhva, Vedānta
+Madhva's school reads the Gītā as teaching the eternal distinction between Viṣṇu and the souls who depend on him.
+
+@term Sāṅkhya
+sanskrit: साङ्ख्य
+aliases: Sankhya, Samkhya, Sāṁkhya
+short: "Enumeration": the dualist philosophy of puruṣa and prakṛti; in the Gītā also simply "discriminating understanding."
+related: prakṛti, puruṣa, guṇa, Yoga school
+In the Gītā "Sāṅkhya" does not yet mean the later classical system of Īśvarakṛṣṇa (c. 350–450 CE). It means an older, theistic proto-Sāṅkhya and, more broadly, the way of discriminative knowledge {2.39}, {3.3}. Its categories (guṇas, the evolutes of nature, the inactive witness) structure Chapters 13, 14 and 18.
+
+@term Yoga school
+sanskrit: योगदर्शन
+aliases: Yoga-sūtra, Yoga-sutra, Yoga Sutra, Yoga Sutras, Patañjali, Patanjali
+short: The classical school of Yoga, codified in Patañjali's Yoga-sūtra (c. 2nd–5th c. CE).
+related: yoga, dhyāna, abhyāsa
+The *Yoga-sūtra* is probably later than the Gītā but shares its vocabulary: practice and dispassion (YS 1.12, Gītā {6.35}), the afflictions of attraction and aversion, and concentration.
+
+@term Mīmāṁsā
+sanskrit: मीमांसा
+aliases: Mimamsa, Mīmāṃsā, Pūrva Mīmāṁsā
+short: The school of Vedic ritual interpretation, focused on injunctions and their fruits.
+related: Veda, yajña, karma
+The ritualists of {2.42–44}, who "delight in the letter of the Veda" for heavenly rewards, resemble the Mīmāṁsā outlook. The Gītā keeps its doctrine of duty but strips it of desire for fruit.
+
+@term Brahma-sūtra
+sanskrit: ब्रह्मसूत्र
+aliases: Brahma-sutra, Brahma Sutras, Brahma-sūtras, Vedānta-sūtra
+short: Bādarāyaṇa's aphorisms systematizing the Upaniṣads; one of Vedānta's three foundations.
+related: Vedānta
+{13.4} mentions "the words of the Brahma-sūtras." Whether this refers to Bādarāyaṇa's text, perhaps later than the Gītā, or to Upaniṣadic statements about brahman is debated.
+
+@term Mahābhārata
+sanskrit: महाभारत
+aliases: Mahabharata
+short: The great Sanskrit epic of the Bhārata war, of which the Gītā forms part (Bhīṣma Parvan 23–40).
+related: Kurukṣetra, Vyāsa, Pāṇḍavas, Kauravas
+Some 75,000 verses (in the Critical Edition) composed and expanded c. 400 BCE–400 CE. It tells of the feud between the Pāṇḍavas and the Kauravas, culminating in an eighteen-day war at Kurukṣetra. The Gītā is narrated by Sañjaya to the blind king Dhṛtarāṣṭra just before the war begins. Its themes — dharma's subtlety, fate and effort, and the cost of violence — run through the whole epic.
+
+@term Kurukṣetra
+sanskrit: कुरुक्षेत्र
+aliases: Kurukshetra, Kuruksetra
+short: "The field of the Kurus": the plain north of Delhi where the war is fought; "the field of dharma."
+refs: 1.1
+related: kṣetra, Mahābhārata
+
+@term Pāṇḍavas
+sanskrit: पाण्डव
+aliases: Pandavas, Pāṇḍava, sons of Pāṇḍu
+short: The five sons of Pāṇḍu (Yudhiṣṭhira, Bhīma, Arjuna, Nakula, Sahadeva), the epic's heroes.
+related: Kauravas, Arjuna
+Divinely fathered, raised in exile, cheated of their kingdom at dice. Their claim to the throne is the war's cause.
+
+@term Kauravas
+sanskrit: कौरव
+aliases: Kaurava, Kurus, sons of Dhṛtarāṣṭra
+short: The hundred sons of Dhṛtarāṣṭra, led by Duryodhana; the Pāṇḍavas' cousins and opponents.
+related: Pāṇḍavas, Duryodhana
+Strictly both sides descend from Kuru. In usage "Kauravas" means Dhṛtarāṣṭra's party.
+
+@term Arjuna
+sanskrit: अर्जुन
+aliases: Pārtha, Partha, Dhanañjaya, Dhananjaya, Guḍākeśa, Gudakesha
+short: Third of the Pāṇḍava brothers, peerless archer, friend of Kṛṣṇa, the Gītā's questioner.
+related: Pāṇḍavas, Kṛṣṇa
+"Arjuna" means "bright, white." He is the epic's model warrior and the son of Indra. His collapse on the battlefield is the occasion of the Gītā. That such a hero breaks down makes the question universal: if Arjuna cannot act, who can?
+
+@term Kṛṣṇa
+sanskrit: कृष्ण
+aliases: Krishna, Krsna, Keśava, Keshava, Mādhava, Madhava, Govinda, Janārdana, Janardana, Madhusūdana, Madhusudana, Hṛṣīkeśa, Hrishikesha, Acyuta, Achyuta, Vāsudeva, Vasudeva, Hari, Vārṣṇeya
+short: Prince of the Yādavas, Arjuna's charioteer and friend, revealed as the Blessed Lord; speaker of the Gītā.
+related: Bhagavān, avatāra, Arjuna
+"Kṛṣṇa" means "dark." In the epic he is a cousin and ally of the Pāṇḍavas, a statesman and strategist who will not bear arms. In the Gītā he speaks as God. Later traditions (*Harivaṁśa*, *Bhāgavata Purāṇa*) add the cowherd childhood in Vraja. Scholars debate how the epic hero, the Vāsudeva cult, and Viṣṇu came to be identified.
+
+@term Sañjaya
+sanskrit: सञ्जय
+aliases: Sanjaya
+short: Dhṛtarāṣṭra's charioteer and bard, granted divine sight by Vyāsa to narrate the battle.
+refs: 18.74, 18.75
+related: Dhṛtarāṣṭra, Vyāsa
+The Gītā is thus doubly framed. We hear Kṛṣṇa through Sañjaya, telling a blind king, inside an epic recited by Vyāsa's disciple.
+
+@term Dhṛtarāṣṭra
+sanskrit: धृतराष्ट्र
+aliases: Dhritarashtra, Dhrtarastra
+short: The blind Kuru king, father of the Kauravas; the Gītā's first speaker.
+refs: 1.1
+related: Kauravas, Sañjaya
+His blindness has been read symbolically: the attached father who cannot see dharma. His question, "what did my sons and the sons of Pāṇḍu do?", already divides the world into "mine" and "theirs."
+
+@term Duryodhana
+sanskrit: दुर्योधन
+aliases: Duryodhan
+short: Eldest son of Dhṛtarāṣṭra, leader of the Kauravas.
+refs: 1.2, 1.3
+related: Kauravas
+
+@term Bhīṣma
+sanskrit: भीष्म
+aliases: Bhishma, Bhisma
+short: The great-uncle of both parties, commander of the Kaurava army, bound by a vow of lifelong celibacy.
+refs: 1.8, 1.11, 2.4, 11.26
+related: Kauravas
+The revered elder whom Arjuna cannot bear to kill {2.4}. He fights for the side he knows to be wrong out of loyalty to the throne. He embodies the tragedy of conflicting duties.
+
+@term Droṇa
+sanskrit: द्रोण
+aliases: Drona, Droṇācārya, Dronacharya
+short: Brāhmaṇa teacher of arms to both Pāṇḍavas and Kauravas; Arjuna's beloved guru.
+refs: 1.2, 2.4, 11.26
+related: Kauravas
+
+@term Karṇa
+sanskrit: कर्ण
+aliases: Karna
+short: Kuntī's first-born son, raised by a charioteer; ally of Duryodhana and secretly Arjuna's elder brother.
+refs: 1.8, 11.26, 11.34
+related: Kauravas
+Called "that son of a charioteer" {11.26}. The epic's great tragic figure, who learns his true birth and still keeps faith with his friend.
+
+@term Vyāsa
+sanskrit: व्यास
+aliases: Vyasa, Veda-Vyāsa, Vedavyasa
+short: The legendary author of the Mahābhārata and arranger of the Vedas.
+refs: 10.13, 10.37, 18.75
+related: Mahābhārata, Sañjaya
+Also grandfather of both Pāṇḍavas and Kauravas, a character inside his own epic. Vivekananda notes "Vyāsa" was a title borne by many.
+
+@term Janaka
+sanskrit: जनक
+aliases: Janak
+short: King of Videha, model of the royal sage who reached perfection while ruling.
+refs: 3.20
+related: karma-yoga
+"Janaka and others attained perfection through action alone" {3.20}. Janaka is the questioner of Yājñavalkya in the *Bṛhadāraṇyaka Upaniṣad* and the disciple in the *Aṣṭāvakra Gītā*.
+
+@term Śaṅkara
+sanskrit: शङ्कर
+aliases: Shankara, Sankara, Śaṅkarācārya, Shankaracharya
+short: Ādi Śaṅkara (c. 8th century CE), founder-systematizer of Advaita Vedānta; author of the oldest surviving Gītā commentary.
+related: Advaita Vedānta, Vedānta
+His *Gītā-bhāṣya* argues that liberation comes through knowledge alone. Action cannot coexist with knowledge of the actionless self. Karma-yoga therefore prepares the mind but is transcended by renunciation. He reads {18.66} as renouncing all action.
+
+@term Rāmānuja
+sanskrit: रामानुज
+aliases: Ramanuja
+short: Rāmānuja (traditionally 1017–1137), theologian of Viśiṣṭādvaita; his Gītā commentary centers on devotion.
+related: Viśiṣṭādvaita, bhakti, prapatti
+Rāmānuja reads the Gītā as culminating in loving devotion (*bhakti*) to Nārāyaṇa. Knowledge and action are its auxiliaries. Against Śaṅkara he insists that selves and world are real.
+
+@term Madhva
+sanskrit: मध्व
+aliases: Madhvacharya, Madhvācārya
+short: Madhva (13th century), founder of Dvaita Vedānta; wrote two Gītā commentaries.
+related: Dvaita
+
+@term Abhinavagupta
+sanskrit: अभिनवगुप्त
+aliases: Abhinava
+short: Kashmiri philosopher (c. 950–1016) who commented on the Kashmir recension of the Gītā from a non-dual Śaiva standpoint.
+related: Vedānta
+His *Gītārtha-saṅgraha* reads the text through Tantric non-dualism. It shows that the Gītā mattered beyond the Vaiṣṇava fold.
+
+@term Jñāneśvara
+sanskrit: ज्ञानेश्वर
+aliases: Jnaneshwar, Jñāneśvar, Dnyaneshwar, Jnanadeva
+short: Marathi saint-poet (1275–1296) whose Jñāneśvarī is a celebrated vernacular commentary on the Gītā.
+related: bhakti
+Composed when he was about sixteen, the *Jñāneśvarī* brought the Gītā into Marathi verse. It joins non-dual insight with devotion and became the foundation of the Vārkarī tradition.
+
+@term Tilak
+sanskrit: टिळक
+aliases: Bal Gangadhar Tilak, Lokmanya Tilak, Gītā Rahasya
+short: B. G. Tilak (1856–1920), nationalist leader; his Gītā Rahasya reads the Gītā as a gospel of action.
+related: karma-yoga, loka-saṅgraha
+Written in Mandalay jail (published 1915), the *Gītā Rahasya* argues against Śaṅkara that the Gītā's final teaching is energetic, selfless action for the world's welfare. It was intellectual armor for the independence movement.
+
+@term Gandhi
+sanskrit: गांधी
+aliases: M. K. Gandhi, Mahatma Gandhi, Mohandas Gandhi, Anāsaktiyoga
+short: M. K. Gandhi (1869–1948) called the Gītā his "spiritual dictionary" and translated it as Anāsaktiyoga, "the yoga of non-attachment."
+related: ahiṁsā, karma-yoga, sthita-prajña
+Gandhi read the battle as allegory, the war within, and the Gītā as teaching selfless action consistent with non-violence. Critics have asked whether this does justice to a text in which God urges a warrior to fight.
+
+@term Aurobindo
+sanskrit: अरविन्द
+aliases: Sri Aurobindo, Essays on the Gita
+short: Sri Aurobindo (1872–1950), revolutionary turned philosopher; his Essays on the Gita read it as a synthesis of works, knowledge and love.
+related: karma-yoga, bhakti
+
+@term Vivekananda
+sanskrit: विवेकानन्द
+aliases: Swami Vivekananda
+short: Swami Vivekananda (1863–1902), disciple of Ramakrishna, who presented Vedānta and the Gītā to the West.
+related: Vedānta, niṣkāma karma
+Vivekananda saw the Gītā's originality in two things: harmonizing the paths of yoga, knowledge and devotion, and "work without desire." He took {2.3} as its whole message: strength, not weakness. His lectures *Karma Yoga* (1896) made the Gītā's ethic famous in the West.
+
+@term Bhāgavata Purāṇa
+sanskrit: भागवतपुराण
+aliases: Bhagavata Purana, Bhāgavata, Bhagavatam
+short: The great devotional Purāṇa (c. 9th–10th century) narrating Kṛṣṇa's life, central to later Kṛṣṇa devotion.
+related: Kṛṣṇa, bhakti
