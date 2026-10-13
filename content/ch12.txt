@@ -1,7 +1,102 @@
-summary: The verses of this chapter are complete; its study apparatus is being added.
+summary: Arjuna asks which worshipers know yoga better: those devoted to the personal God or those who worship the imperishable unmanifest. Kṛṣṇa answers that both reach him, but devotion to the personal God is easier and best. He offers a ladder of practices for every capacity, then portrays the devotee who is dear to him: free of hatred, friendly and compassionate, the same in honor and dishonor.
 
-# section 1-20 | The chapter
+@overview
+Chapter 12, the shortest after Chapter 15, is one of the most loved. It answers a question left open by the preceding chapters. After the cosmic vision, should one worship God in a personal form or the formless absolute? Arjuna asks directly {12.1}.
+Kṛṣṇa's answer is balanced. Those who worship him with faith and fixed minds are "most fully yoked" {12.2}. Those who worship the imperishable unmanifest also reach him {12.3–4}, but their path is harder for embodied beings {12.5}. Devotees who surrender all to him are quickly delivered {12.6–7}.
+Then comes the chapter's practical genius: a graded ladder {12.8–12}. Fix your mind on God. If you cannot, practice. If you cannot practice, work for God. If not even that, give up the fruits of all action. Verse 12.12 even reverses the expected hierarchy, ranking giving up the fruits of action above meditation, because "from giving up comes peace immediately."
+The second half {12.13–20} is a portrait of the devotee, parallel to the sage of 2.54–72 and the one beyond the guṇas of 14.21–25. Each verse ends with the refrain "is dear to me." The qualities are ethical as much as devotional: no hatred, friendliness, compassion, freedom from "mine," patience, contentment, and equanimity toward friend and foe. Devotion and virtue turn out to be one character.
+
+@map
+node q | 0 | Personal God or unmanifest? | kind=center | ref=12.1 | text=Which worshipers know yoga better?
+node pers | 1 | Devotees of the personal God | ref=12.2 | term=bhakti | text=Most fully yoked.
+node unman | 1 | Worshipers of the unmanifest | ref=12.3, 12.4 | term=avyakta | text=They too reach God.
+node hard | 2 | The unmanifest is harder for the embodied | kind=contrast | ref=12.5 | text=More struggle on that path.
+node deliver | 2 | God quickly delivers devotees | ref=12.6, 12.7 | text=From the ocean of death and saṁsāra.
+node ladder | 3 | A ladder for every capacity | kind=claim | ref=12.8, 12.11 | text=Mind on God; or practice; or work for God; or give up fruits.
+node peace | 3 | Giving up fruits brings peace at once | ref=12.12 | term=tyāga | text=Ranked above meditation.
+node dear | 4 | The devotee who is dear to God | kind=center | ref=12.13, 12.20 | text=Without hatred, friendly, compassionate, without "mine," equal in all conditions.
+edge q > pers
+edge q > unman
+edge unman > hard
+edge pers > deliver
+edge hard > ladder | so
+edge deliver > ladder
+edge ladder > peace
+edge peace > dear
+
+@research
+Chapter 12 is central to the comparison of "theistic" (saguṇa) and "monist" (nirguṇa) paths. Śaṅkara, who regards knowledge of the attributeless brahman as highest, reads 12.2 carefully. The devotee is "most fully yoked" *relative to* those still struggling, while the knowers of the unmanifest "reach me" because they are identical with God. Rāmānuja reads it straightforwardly as the superiority of devotion. The question became a defining dispute of later Indian religious history, for instance in the debates between Advaita and the Bengal Vaiṣṇavas.
+The ladder of 12.8–12 is studied as an early example of "graded spirituality," accommodating different capacities (*adhikāra*). Its reversal in 12.12, placing renunciation of fruits above meditation, has puzzled commentators, and some read it as a statement about which step brings immediate peace rather than which is highest. The portrait of the devotee {12.13–20} is used in comparative virtue ethics. Its qualities closely match the Buddhist *brahma-vihāras* (friendliness, compassion, sympathetic joy, equanimity), suggesting shared ethical ideals across traditions.
+
+@questions
+- Is devotion to a personal God "better" than worship of the formless? What does "better" mean in 12.2?
+- Why does 12.12 rank giving up the fruits of action above meditation?
+- Compare the devotee of 12.13–20 with the sage of 2.54–72. What is different?
+- What does it mean that "the world does not shrink" from the devotee (12.15)?
+
+# section 1-12 | Two ways of worship and the ladder of practice
+lead: Both worshipers of the personal God and of the unmanifest reach God, but devotion is easier; for those who cannot fix their minds, Kṛṣṇa offers progressively simpler practices.
+@notes
+12.1 | *Akṣaram avyaktam*: "the imperishable, the unmanifest." Arjuna contrasts this with the personal God (*tvām*) he has just seen.
+12.2 | *Yuktatamāḥ*, "most fully yoked": a superlative, the same word as in 6.47.
+12.3 | A list of negative attributes of the absolute: *anirdeśya* (indefinable), *acintya* (unthinkable), *kūṭa-stha* (unchanging), *acala* (unmoving), *dhruva* (constant).
+12.4 | *Sarva-bhūta-hite ratāḥ*: "delighting in the welfare of all beings," as in 5.25. Worshipers of the absolute are also ethical.
+12.5 | *Avyaktā hi gatir duḥkhaṁ dehavadbhir avāpyate*: the goal of the unmanifest is "painfully reached by the embodied." Embodied beings need a form to love.
+12.7 | *Mṛtyu-saṁsāra-sāgarāt*: "from the ocean of death and saṁsāra." God as rescuer.
+12.8 | *Mayy eva mana ādhatsva*: "place your mind in me alone." The highest rung.
+12.9 | *Abhyāsa-yoga*, "the yoga of practice": repeated returning of the mind.
+12.10 | *Mat-karma-paramaḥ*: "intent on action for my sake," devotional karma-yoga.
+12.11 | *Sarva-karma-phala-tyāga*: "giving up the fruit of all actions," the lowest rung yet available to all.
+12.12 | *Tyāgāc chāntir anantaram*: "from giving up comes peace immediately." The verse reverses the ladder's order.
 @reconstruction
-Study materials for this section are in preparation.
+Arjuna asks which knows yoga better, devotees of the personal God or worshipers of the unmanifest {12.1}. Those who worship God with faith and fixed minds are most fully yoked {12.2}. Those who worship the indefinable, unthinkable, unchanging imperishable, controlling the senses and caring for all beings, also reach him {12.3–4}. But their path is harder for the embodied {12.5}. Those who surrender all action to God and meditate on him with single-minded devotion are swiftly delivered from the ocean of death {12.6–7}. So fix your mind on God {12.8}. If you cannot, practice {12.9}. If you cannot practice, work for God {12.10}. If not even that, give up the fruit of all action {12.11}. Knowledge is better than practice, meditation than knowledge, and giving up fruits than meditation, for from giving up comes immediate peace {12.12}.
+@insight
+The section's psychology is humane. It does not demand a single heroic path. It meets each person where they are. This "ladder" became a model for Indian spiritual pedagogy. The reversal of 12.12 is philosophically interesting. Meditation can still be ego-driven, a performance of spirituality, while sincerely giving up the fruits of action cuts the ego's root directly. The lowest rung in difficulty may be the highest in effect.
+The comparison of paths also shows the Gītā's characteristic both/and. The formless absolute is real and reachable. Yet for embodied beings, love of a form is the natural road. Rather than settle a metaphysical dispute, the text makes a pastoral judgment.
+@sources
+The negative descriptions of the absolute in 12.3 echo the Upaniṣadic *neti neti* ("not this, not this," *Bṛhadāraṇyaka* 2.3.6). The rescue from the "ocean of saṁsāra" image is pervasive in later devotional poetry.
+@context
+Western mysticism has a parallel debate between "apophatic" (negative) approaches to God, as in Pseudo-Dionysius and *The Cloud of Unknowing*, and "kataphatic" (image-based) ones, as in Ignatian imagination. Teresa of Ávila defended meditation on Christ's humanity against those who sought only formless contemplation, for reasons very like 12.5.
+@matters
+The section offers every person a starting point. If you cannot do the highest, do what you can. Even letting go of results brings peace.
+@questions
+- Why might the formless absolute be harder for "the embodied" (12.5)?
+- Arrange the four rungs of 12.8–11 by difficulty and by effectiveness. Do the orders match?
+- How does 12.12 surprise the reader? What does it imply about meditation?
 @argument
-C | Study materials in preparation
+P | Both devotees and worshipers of the unmanifest reach God | ref=12.2, 12.4 | text=Both paths are real.
+P | The unmanifest is harder for embodied beings | ref=12.5 | term=avyakta | text=Love naturally seeks a form.
+C | Fix your mind on God, or practice, or work for God, or give up fruits | ref=12.8, 12.11 | term=bhakti | text=A ladder for every capacity.
+I | Giving up fruits brings immediate peace | ref=12.12 | term=tyāga | text=The simplest step cuts the ego's root.
+
+# section 13-20 | The devotee who is dear to God
+lead: A portrait of the devotee: without hatred, friendly and compassionate, without "mine," equal in pleasure and pain, honor and dishonor; each such one "is dear to me."
+@notes
+12.13 | *Adveṣṭā sarva-bhūtānāṁ maitraḥ karuṇa eva ca*: "without hatred toward any being, friendly and compassionate." *Maitra* and *karuṇa* are also key Buddhist virtues (*mettā*, *karuṇā*).
+12.13 | *Nirmamo nirahaṅkāraḥ*: "without 'mine', without I-making." These two privatives recur throughout the Gītā (2.71, 18.53).
+12.15 | *Yasmān nodvijate loko lokān nodvijate ca yaḥ*: "one from whom the world does not shrink, and who does not shrink from the world." A beautiful reciprocal formula: the devotee is neither threatening nor threatened.
+12.16 | *Sarvārambha-parityāgī*: "who gives up all undertakings," i.e., self-willed projects, not all activity.
+12.17 | *Śubhāśubha-parityāgī*: "giving up both good and bad," beyond merit and demerit.
+12.19 | *Aniketaḥ*: "homeless." Literally it describes the wandering ascetic. Commentators read it as "not attached to a home."
+12.20 | *Dharmyāmṛtam*: "the nectar of dharma." The chapter's teaching is food for life.
+@reconstruction
+The devotee dear to God hates no being and is friendly and compassionate, free of "mine" and I-making, the same in pain and pleasure, and patient {12.13}. He is content, self-controlled, firm, with mind and understanding given to God {12.14}. The world does not shrink from him, nor he from the world, and he is free of elation, impatience, fear and agitation {12.15}. He expects nothing, is pure, capable, impartial, unworried and free of self-willed projects {12.16}. He neither rejoices nor hates, grieves nor craves, and is beyond good and bad {12.17}. He is the same to enemy and friend, in honor and dishonor, cold and heat, pleasure and pain, and is unattached {12.18}. He treats blame and praise alike, is silent, content with anything, unattached to home and steady {12.19}. Dearest are those who follow this nectar of dharma with faith {12.20}.
+@insight
+This portrait is often read as a summary of the Gītā's ethics. Its striking feature is the fusion of devotion and virtue. The devotee is not defined by rituals or beliefs but by character: non-hatred, friendship, compassion, equanimity. Love of God shows itself as a certain way of being toward all beings.
+The refrain "is dear to me" (*sa me priyaḥ*) makes the portrait relational. These are not merely admirable traits but what God loves. This answers the apparent tension of 9.29 (God is the same to all, yet devotees are dear). God's love is drawn to a character that mirrors his own impartial goodness.
+@sources
+The list of virtues parallels the sage of 2.55–72, the yogin of 6.7–9, and the one beyond guṇas of 14.22–25. Friendliness and compassion are the first two Buddhist *brahma-vihāras* (*Visuddhimagga* IX). The ideal of being neither feared nor fearful recalls the Jain and Buddhist ideal of *abhaya*, giving fearlessness to all beings.
+@context
+The portrait can be read alongside Paul's hymn to love ("love is patient, love is kind… it keeps no record of wrongs," 1 Corinthians 13), the Beatitudes (Matthew 5), and Aristotle's portrait of the virtuous person. Each describes the good life as a character rather than a set of rules.
+@matters
+The section offers a mirror. It does not ask what one believes but whether one hates, whether others fear one, and whether one is the same to friend and enemy.
+@questions
+- Which quality in 12.13–19 do you find hardest? Why?
+- What does 12.15 mean in practice? Describe someone "from whom the world does not shrink."
+- How does the portrait of the devotee resolve the tension of 9.29 (God is the same to all, yet some are dear)?
+@argument
+P | The devotee hates no being and is friendly and compassionate | ref=12.13 | text=Love of God shows as goodwill to all.
+P | The devotee is free of "mine" and I-making | ref=12.13 | term=ahaṅkāra | text=Without possessiveness or egoism.
+P | The devotee is equal in all conditions | ref=12.18, 12.19 | term=samatva | text=Friend and foe, honor and dishonor, praise and blame.
+C | Such a devotee is dear to God | ref=12.14, 12.20 | term=bhakti | text=Devotion and virtue are one character.
+I | Neither feared nor fearful | ref=12.15 | text=The devotee brings peace to the world.

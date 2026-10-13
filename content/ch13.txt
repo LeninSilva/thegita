@@ -1,7 +1,190 @@
-summary: The verses of this chapter are complete; its study apparatus is being added.
+summary: The body is the "field," and the one who knows it is the "knower of the field," and God is the knower in all fields. Kṛṣṇa lists what makes up the field, the virtues that constitute true knowledge, and the brahman that is to be known. He then sets out the relation of nature and person: nature acts, the person experiences, and the one who sees the same supreme lord in all beings, and sees that nature alone acts, truly sees.
 
-# section 1-34 | The chapter
+@overview
+Chapter 13 opens the third hexad of the Gītā (13–18), whose theme is knowledge. It returns to the Sāṅkhya categories introduced in Chapters 2–3 and 7 and develops them into a full metaphysics of experience.
+The governing distinction is between the *kṣetra*, the field, and the *kṣetrajña*, the knower of the field {13.1}. The field is the body and, by extension, all of nature: the elements, the faculties, desire and aversion, pleasure and pain {13.5–6}. The knower is the conscious witness of all this. Kṛṣṇa's first decisive claim is that he himself is "the knower of the field in all fields" {13.2}, a verse that became a battleground between Advaita (self and God are one) and theistic Vedānta (God indwells every self).
+The chapter then surprises. Instead of defining "knowledge" as a theory, it lists twenty virtues: humility, non-harming, patience, uprightness, service of the teacher, dispassion, insight into suffering, and devotion {13.7–11}. Knowledge in the Gītā is a moral and spiritual formation, not information. Next comes the description of brahman, "neither being nor non-being," with hands and feet everywhere, outside and inside beings, far and near {13.12–17}. Finally, nature (*prakṛti*) and person (*puruṣa*) are both beginningless. Nature is the cause of action, the person of experience. The supreme person in the body is witness and great lord {13.19–23}. The chapter ends with the formula of true vision: one who sees the supreme lord equally in all beings, and sees that nature alone acts, "truly sees" {13.27–29}.
+
+@map
+node field | 0 | The field: body and nature | ref=13.1, 13.5 | term=kṣetra | text=Elements, faculties, desire, aversion, pleasure, pain.
+node knower | 0 | The knower of the field | ref=13.1, 13.2 | term=kṣetrajña | text=The conscious witness; God is the knower in all fields.
+node knowledge | 1 | Knowledge is a set of virtues | kind=claim | ref=13.7, 13.11 | term=jñāna | text=Humility, non-harming, patience, dispassion, devotion.
+node brahman | 2 | What is to be known: brahman | ref=13.12, 13.17 | term=brahman | text=Neither being nor non-being; everywhere; light of lights in the heart.
+node prak | 3 | Nature acts | ref=13.20, 13.29 | term=prakṛti | text=Cause of effect, instrument and agency.
+node puru | 3 | The person experiences | ref=13.20, 13.21 | term=puruṣa | text=Experiences pleasure and pain; attachment to the guṇas causes rebirth.
+node witness | 4 | The supreme person: witness and lord | ref=13.22 | term=Īśvara | text=Witness, consenter, supporter, experiencer, great lord.
+node sees | 5 | Who truly sees | kind=center | ref=13.27, 13.29 | text=Sees the same lord in all and sees nature alone acting.
+node paths | 4 | Many ways to see the self | ref=13.24, 13.25 | detail=1 | text=Meditation, Sāṅkhya, action, even hearing from others.
+edge field > knowledge
+edge knower > knowledge
+edge knowledge > brahman | leads to
+edge brahman > prak
+edge brahman > puru
+edge prak > witness
+edge puru > witness
+edge witness > sees
+edge paths > sees | dashed
+
+@research
+Chapter 13 is a key text for reconstructing the history of Sāṅkhya. Its lists of the field's components {13.5–6} differ in small ways from the classical *Sāṅkhya-kārikā*, and scholars (Gerald Larson, *Classical Sāṃkhya*; Johannes Bronkhorst) use such differences to trace the development of the system. The Gītā's Sāṅkhya is theistic, with God as supreme knower, unlike the atheistic classical school.
+The reference to the *Brahma-sūtras* {13.4} is debated as evidence for dating. If it refers to Bādarāyaṇa's text, it implies a later date for the Gītā or for this verse. Many scholars take it as referring to Upaniṣadic statements about brahman. Philosophers of mind have drawn on the field/knower distinction in discussions of consciousness, comparing it with the "witness consciousness" (*sākṣin*) of Advaita and with contemporary debates on the irreducibility of subjective experience (e.g., Chakravarthi Ram-Prasad, *Indian Philosophy and the Consequences of Knowledge*). The list of virtues as "knowledge" {13.7–11} has also been discussed in virtue epistemology, which ties knowing to intellectual character.
+
+@questions
+- What does it mean for God to be "the knower of the field in all fields" (13.2)? Give an Advaita and a theistic reading.
+- Why does the Gītā define knowledge as a list of virtues (13.7–11)?
+- How can brahman be "neither being nor non-being" (13.12)?
+- If nature alone acts (13.29), how can there be moral responsibility?
+
+# section 1-6 | The field and the knower of the field
+lead: The body is the field, the one who knows it is the knower; God is the knower in all fields. Kṛṣṇa lists what constitutes the field.
+@notes
+13.1 | Some editions begin the chapter with a verse in which Arjuna asks about nature, person, field, knower, knowledge and the knowable (see the translator's note at 13.34). Śaṅkara's text lacks it.
+13.1 | *Idaṁ śarīraṁ kaunteya kṣetram ity abhidhīyate*: "this body is called the field." The field is the place where karma is sown and reaped.
+13.2 | *Kṣetrajñaṁ cāpi māṁ viddhi sarva-kṣetreṣu*: "know me as the knower of the field in all fields." Śaṅkara reads it as the identity of the individual knower with God. Rāmānuja reads it as God being the inner self of every individual knower.
+13.4 | *Brahma-sūtra-padaiḥ*: "words of the Brahma-sūtras." See the chapter's research note.
+13.5 | The twenty-four Sāṅkhya principles: five great elements, I-making, understanding, the unmanifest, ten senses (five of perception, five of action), mind, and five sense-objects.
+13.6 | Desire, aversion, pleasure, pain, the body-aggregate (*saṅghāta*), awareness (*cetanā*) and steadfastness (*dhṛti*) are also part of the field. Mental states belong to nature, not to the self.
 @reconstruction
-Study materials for this section are in preparation.
+The body is called the field, and the one who knows it is called the knower of the field {13.1}. God is the knower in all fields, and knowledge of field and knower is true knowledge {13.2}. Kṛṣṇa will explain the field, its nature, changes and origin, and the knower and his powers {13.3}, as sung by seers and reasoned in the Brahma-sūtras {13.4}. The field consists of the great elements, I-making, understanding, the unmanifest, the ten senses and mind, and the five objects of sense {13.5}. It includes desire, aversion, pleasure, pain, the bodily whole, awareness and steadfastness {13.6}.
+@insight
+The field/knower distinction is a powerful analytical tool. Everything that can be observed, including one's own thoughts and emotions, belongs to the field. The knower is that which observes and cannot itself be observed as an object. This is a phenomenological insight with ethical consequences. If desire and aversion are part of the field, they are not *me*. One can witness them without being ruled by them.
+13.2 adds a theological claim. The knower in every field is God. On an Advaita reading, every consciousness is the one consciousness. On a theistic reading, God is present as the inner witness of every knower. Either way, the deepest subject of experience is divine.
+@sources
+The field metaphor and the twenty-four principles are proto-Sāṅkhya, close to lists in the *Mokṣadharma* (e.g., *Mahābhārata* 12.298–306). *Śvetāśvatara* 6.11 calls God "the witness, the knower."
+@context
+The distinction between the observed and the observer is central to phenomenology (Husserl's transcendental ego), to Kant's "I think" that accompanies all representations, and to contemporary debates on the "hard problem" of consciousness. Buddhist philosophy, by contrast, denies a permanent knower behind the observed. That is a crucial point of disagreement with the Gītā.
+@matters
+Learning to see one's thoughts and feelings as "field" rather than "self" is the basis of many contemplative and therapeutic practices. It loosens their grip without denying them.
+@questions
+- Why are desire, aversion and pleasure part of the field rather than the knower (13.6)?
+- Compare the field/knower distinction with Kant's "I think" or Husserl's transcendental ego.
+- How would a Buddhist respond to the idea of a permanent knower?
 @argument
-C | Study materials in preparation
+P | The body and all observable states are the field | ref=13.1, 13.6 | term=kṣetra | text=Including desire, aversion, pleasure and pain.
+P | The one who knows them is the knower | ref=13.1 | term=kṣetrajña | text=The observer is not among the observed.
+C | God is the knower of the field in all fields | ref=13.2 | text=The deepest subject of experience is divine.
+I | Mental states are not the self | ref=13.6 | text=They can be witnessed without being obeyed.
+
+# section 7-11 | Knowledge as a way of being
+lead: True knowledge is defined not as theory but as twenty virtues of character, ending in devotion and insight into truth.
+@notes
+13.7 | *Amānitvam adambhitvam ahiṁsā kṣāntir ārjavam*: "absence of pride, absence of deceit, non-harming, patience, uprightness." Knowledge begins with humility.
+13.7 | *Ācāryopāsanam*: "service of the teacher." Knowledge is transmitted in relationship.
+13.8 | *Janma-mṛtyu-jarā-vyādhi-duḥkha-doṣānudarśanam*: "seeing the evil of birth, death, old age, sickness and pain." This recalls the Buddha's four sights.
+13.9 | *Asaktir anabhiṣvaṅgaḥ putra-dāra-gṛhādiṣu*: "non-attachment, not clinging to son, wife, home." The text is addressed to a male householder, as the epic generally is.
+13.10 | *Mayi cānanya-yogena bhaktir avyabhicāriṇī*: "unwavering devotion to me through undivided yoga." Devotion is part of knowledge.
+13.10 | *Arati jana-saṁsadi*: "distaste for crowds." A contemplative preference, not misanthropy.
+13.11 | *Etaj jñānam iti proktam ajñānaṁ yad ato 'nyathā*: "this is called knowledge; what is contrary is ignorance." Ignorance is a moral condition too.
+@reconstruction
+Knowledge is humility, sincerity, non-harming, patience, uprightness, service of the teacher, purity, steadiness and self-restraint {13.7}. It is dispassion toward sense objects, absence of I-making, and clear sight of the suffering of birth, death, age and sickness {13.8}. It is non-attachment, not clinging to family and home, and evenness in welcome and unwelcome events {13.9}. It is unwavering devotion to God, love of solitude and distaste for crowds {13.10}. It is constancy in self-knowledge and insight into the goal of truth. All this is knowledge, and the opposite is ignorance {13.11}.
+@insight
+This is one of the Gītā's most philosophically distinctive passages. It identifies knowledge not with propositions known but with the formation of a person. The point is not that virtue is a precondition of knowledge but that this cluster of dispositions *is* knowledge in the relevant sense. It is the knowledge that transforms, as opposed to the knowledge that informs.
+This has striking consequences. A learned scholar who is proud and cruel is, on this view, ignorant. A humble, patient, devoted person with little learning may be a knower. The passage thus democratizes and moralizes the highest knowledge.
+@sources
+Similar lists of virtues appear throughout the epic's *Śānti Parvan* and in *Manu* 6.92 (the ten marks of dharma: patience, forgiveness, self-control, non-stealing, purity, sense-restraint, wisdom, learning, truth, freedom from anger). The insight into birth, age, sickness and death recalls the Buddha's "four sights."
+@context
+Virtue epistemology (Linda Zagzebski, Ernest Sosa) ties knowledge to intellectual virtues like humility and open-mindedness. Pierre Hadot's *Philosophy as a Way of Life* argues that ancient philosophy aimed at transformation of the self rather than theory. Both resonate with this passage.
+@matters
+The passage invites a different test of education: not "what do you know?" but "has your knowing made you humbler, gentler and freer?"
+@questions
+- Why would the Gītā identify knowledge with virtues rather than beliefs?
+- Can a proud and cruel scholar be "ignorant" in this sense? What would that mean?
+- Which of these virtues seem most connected to *knowing* rather than to *being good*?
+@argument
+P | Knowledge must transform the knower | text=The knowledge sought is liberating, not informational.
+P | Humility, non-harming, patience, dispassion and devotion form the knower | ref=13.7, 13.10 | term=ahiṁsā | text=Twenty virtues of character.
+C | These virtues are knowledge; their opposite is ignorance | ref=13.11 | term=jñāna | text=Knowing is a way of being.
+I | The highest knowledge is open to the humble | text=Learning without virtue is not knowledge in this sense.
+
+# section 12-18 | What is to be known: brahman
+lead: Kṛṣṇa describes the beginningless supreme brahman, neither being nor non-being, everywhere and within, the light of lights seated in every heart.
+@notes
+13.12 | *Na sat tan nāsad ucyate*: "it is said to be neither being nor non-being." It transcends the categories of existence and non-existence, echoing the *Nāsadīya* hymn (*Ṛg Veda* 10.129: "there was neither non-being nor being then").
+13.13 | *Sarvataḥ pāṇi-pādaṁ tat*: "with hands and feet everywhere." Nearly identical to *Śvetāśvatara* 3.16.
+13.14 | A string of paradoxes: appearing to have sense-qualities yet free of senses; unattached yet supporting all; free of guṇas yet experiencing them.
+13.15 | *Dūra-sthaṁ cāntike ca tat*: "far away and near." Compare *Īśā* 5: "it moves and it moves not; it is far and it is near; it is within all and outside all."
+13.16 | *Avibhaktaṁ ca bhūteṣu vibhaktam iva ca sthitam*: "undivided, yet appearing divided among beings." This is central for Advaita.
+13.17 | *Jyotiṣām api taj jyotis*: "the light of lights." *Hṛdi sarvasya viṣṭhitam*: "seated in the heart of all."
+@reconstruction
+Kṛṣṇa will declare what is to be known, which brings immortality. It is the beginningless supreme brahman, neither being nor non-being {13.12}. It has hands, feet, eyes, heads, mouths and ears everywhere, and envelops all {13.13}. It seems to have all sense-qualities yet is free of the senses. It is unattached yet supports all, free of the guṇas yet experiences them {13.14}. It is outside and inside beings, moving and unmoving, too subtle to know, far and near {13.15}. It is undivided yet seems divided. It sustains, devours and generates beings {13.16}. It is the light of lights beyond darkness, knowledge, the known and the goal of knowledge, seated in every heart {13.17}. The devotee who understands field, knowledge and the knowable enters God's being {13.18}.
+@insight
+The passage piles up paradoxes deliberately. Brahman is everywhere and nowhere in particular, active through all senses and free of all, far and near. This is the language of the "coincidence of opposites." It suggests that the ultimate cannot be captured by any one side of our conceptual pairs. The method is not confusion but the disciplined use of contradiction to point beyond categories.
+Two claims stand out. First, brahman is "undivided, yet appearing divided" {13.16}. This is the philosophical core of Advaita's doctrine that plurality is appearance. Second, it is "seated in the heart of all" {13.17}. The transcendent is also the most intimate.
+@sources
+13.13–17 are woven from Upaniṣadic texts: *Śvetāśvatara* 3.16–17 (hands and feet everywhere), *Īśā* 5 (far and near), *Muṇḍaka* 2.2.9–10 (light of lights), and the *Nāsadīya* hymn's "neither being nor non-being."
+@context
+Nicholas of Cusa's *coincidentia oppositorum*, Pseudo-Dionysius's "superessential" God beyond being, Plotinus's One "beyond being," and the Buddhist Madhyamaka refusal of being and non-being (Nāgārjuna's tetralemma) are all instructive comparisons.
+@matters
+The passage trains a habit of thought: recognizing when our categories reach their limits, and letting paradox point beyond them rather than collapsing into one side.
+@questions
+- What does "neither being nor non-being" (13.12) mean? Is it a contradiction?
+- Compare 13.15 with *Īśā* 5. Why does the Gītā use the language of "far and near"?
+- How does 13.16 support the Advaita doctrine of appearance?
+@argument
+P | Brahman transcends being and non-being | ref=13.12 | term=sat and asat | text=No category captures it.
+P | It is everywhere, within and without | ref=13.13, 13.15 | text=Far and near, moving and unmoving.
+C | Brahman is undivided, appearing as many | ref=13.16 | term=brahman | text=The one in the many.
+I | It is the light of lights, seated in every heart | ref=13.17 | text=The transcendent is the most intimate.
+
+# section 19-25 | Nature and person
+lead: Nature and person are both beginningless; nature acts, the person experiences; the supreme person in the body is witness and lord. Many paths lead to seeing the self.
+@notes
+13.19 | *Prakṛtiṁ puruṣaṁ caiva viddhy anādī ubhāv api*: "nature and person are both beginningless." This is classical Sāṅkhya dualism.
+13.20 | *Kārya-karaṇa-kartṛtve hetuḥ prakṛtir ucyate*: nature is the cause of effect, instrument and agency. *Puruṣaḥ sukha-duḥkhānāṁ bhoktṛtve hetur ucyate*: the person is the cause of experiencing pleasure and pain.
+13.21 | *Kāraṇaṁ guṇa-saṅgo 'sya sad-asad-yoni-janmasu*: attachment to the guṇas causes birth in good and evil wombs.
+13.22 | Seven titles of the supreme person: *upadraṣṭṛ* (witness), *anumantṛ* (consenter), *bhartṛ* (supporter), *bhoktṛ* (experiencer), *maheśvara* (great lord), *paramātman* (supreme self).
+13.23 | *Sarvathā vartamāno 'pi na sa bhūyo 'bhijāyate*: "however one may live, one is not born again." Knowledge frees regardless of outward life, as in 6.31.
+13.24 | Three paths to seeing the self: meditation (*dhyāna*), Sāṅkhya (knowledge), and the yoga of action.
+13.25 | A fourth path: those who simply hear the teaching from others and worship. The Gītā's inclusiveness.
+@reconstruction
+Nature and person are both beginningless. Changes and guṇas arise from nature {13.19}. Nature causes effects, instruments and agency, while the person causes the experience of pleasure and pain {13.20}. The person, situated in nature, experiences its guṇas, and attachment to them causes rebirth {13.21}. The supreme person in the body is witness, consenter, supporter, experiencer, great lord and supreme self {13.22}. Whoever knows person and nature with the guṇas is not reborn, however he lives {13.23}. Some see the self through meditation, some through Sāṅkhya, some through the yoga of action {13.24}. Others, hearing from others and worshiping, also cross beyond death {13.25}.
+@insight
+The section gives the Gītā's most precise account of bondage. The person does not act. Nature acts. But the person experiences nature's activity and, through attachment to it, becomes entangled. Bondage is not a matter of agency but of identification. Liberation is therefore a matter of knowledge: seeing the difference between the witness and the witnessed.
+The titles of 13.22 add a theistic dimension. The supreme person is not merely a passive witness but also "consenter" and "great lord." God permits and supports nature's activity without being bound by it. The four paths of 13.24–25 are characteristically inclusive. Even hearing the truth from others and acting on it with faith leads beyond death.
+@sources
+The dualism of *prakṛti* and *puruṣa* is the foundation of the *Sāṅkhya-kārikā* (e.g., 3, 11, 19–21). The image of the person as "experiencer" (*bhoktṛ*) and nature as "agent" corresponds to *Sāṅkhya-kārikā* 19–20. The title *paramātman* is Vedāntic.
+@context
+Mind-body dualism in Descartes, the Neoplatonic distinction between soul and matter, and modern debates on epiphenomenalism (consciousness experiencing but not causing) can all be compared. The Gītā's view is distinctive: the conscious principle does not act but witnesses, and its suffering comes from misidentification.
+@matters
+If suffering arises from identifying with what we merely observe, then freedom begins with learning to witness. This insight underlies much contemplative practice.
+@questions
+- How can the person experience pleasure and pain without acting (13.20)?
+- What do the titles "consenter" and "great lord" (13.22) add to the idea of a witness?
+- Why does the Gītā include those who only "hear from others" (13.25) among the saved?
+@argument
+P | Nature is the cause of action | ref=13.20 | term=prakṛti | text=Effect, instrument and agency belong to nature.
+P | The person experiences, and attachment binds it | ref=13.20, 13.21 | term=puruṣa | text=Bondage is misidentification.
+C | Knowing person and nature, one is not reborn | ref=13.23 | text=Knowledge frees, however one lives.
+I | Many paths lead to this seeing | ref=13.24, 13.25 | text=Meditation, knowledge, action, faith in what is heard.
+
+# section 26-34 | Who truly sees
+lead: All beings arise from the union of field and knower; the one who sees the same lord in all, and sees that nature alone acts, truly sees, and goes to the supreme.
+@notes
+13.26 | *Kṣetra-kṣetrajña-saṁyogāt*: every being arises from the union of field and knower, matter and consciousness.
+13.27 | *Samaṁ sarveṣu bhūteṣu tiṣṭhantaṁ parameśvaram*: "the supreme lord abiding equally in all beings." *Yaḥ paśyati sa paśyati*: "who sees, truly sees." Vivekananda considered 13.27–28 the essence of the Gītā.
+13.28 | *Na hinasty ātmanātmānam*: "does not harm the self by the self." Harming another is harming oneself, since the same lord is in all.
+13.29 | *Prakṛtyaiva ca karmāṇi kriyamāṇāni sarvaśaḥ*: "actions are done by nature alone." *Akartāram*: the self as non-doer.
+13.30 | *Yadā bhūta-pṛthag-bhāvam eka-stham anupaśyati*: when one sees the separate existence of beings as resting in the One.
+13.32 | The image of space (*ākāśa*): all-pervading, yet untainted by what it contains.
+13.33 | The image of the sun: one sun illuminates the whole world, as one knower illuminates the whole field.
+@reconstruction
+Whatever comes to be arises from the union of field and knower {13.26}. One who sees the supreme lord abiding equally in all beings, imperishable among the perishing, truly sees {13.27}. Seeing the same lord everywhere, one does not harm the self by the self and reaches the supreme {13.28}. One who sees that nature alone acts and the self does not, truly sees {13.29}. When one sees the many beings as resting in the One and spreading from it, one reaches brahman {13.30}. Beginningless and free of guṇas, the supreme self is neither agent nor tainted, though in the body {13.31}. Like space, it pervades without being tainted {13.32}. Like the sun lighting the world, it lights the whole field {13.33}. Those who know this difference and the release of beings from nature reach the supreme {13.34}.
+@insight
+The chapter's conclusion unites metaphysics and ethics in one vision. To "truly see" is to see two things. One is the same lord in all beings {13.27}. The other is the actions as belonging to nature {13.29}. The first grounds non-harming: one who sees the self in all cannot harm another without harming oneself {13.28}. The second grounds non-attachment: one who sees nature acting is free of the ego's claims.
+The images of space and sun capture the self's relation to the world. It is everywhere present and everywhere illuminating, yet untouched by what it contains. Liberation is the recognition of this already-present freedom.
+@sources
+13.27–28 echo *Īśā* 6–7 and *Kaṭha* 5.11 ("as the one sun, the eye of the world, is not tainted by the faults of the eye… so the one self within all beings is not tainted"). The space image is in *Muṇḍaka* and in later Advaita (the "pot-space" analogy).
+@context
+Schopenhauer drew on this vision to ground ethics in the insight that the other is not ultimately other. Compare also the Buddhist and Stoic arguments that harming others harms oneself.
+@matters
+The section offers a foundation for non-violence that is not a rule but a way of seeing. If the same reality is present in all, harm to another is self-harm.
+@questions
+- How does 13.28 ("does not harm the self by the self") ground an ethic of non-harming?
+- How does seeing "nature alone acts" (13.29) relate to seeing "the same lord in all" (13.27)?
+- What do the images of space and sun (13.32–33) teach about the self?
+@argument
+P | The same lord abides equally in all beings | ref=13.27 | term=Īśvara | text=Imperishable among the perishing.
+P | Nature alone acts; the self is not the doer | ref=13.29 | term=prakṛti | text=Agency belongs to nature.
+C | One who sees both truly sees | ref=13.27, 13.29 | text=And reaches the supreme.
+I | Such a one does not harm the self by harming others | ref=13.28 | term=ahiṁsā | text=Vision grounds non-violence.
+I | The self, like space and sun, pervades and illumines untainted | ref=13.32, 13.33 | text=Freedom is already present.

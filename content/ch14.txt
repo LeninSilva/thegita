@@ -1,7 +1,129 @@
-summary: The verses of this chapter are complete; its study apparatus is being added.
+summary: Kṛṣṇa teaches the three guṇas: sattva binds by attachment to happiness and knowledge, rajas by attachment to action, tamas by negligence and sleep. Each can dominate the others and shapes one's destiny. Arjuna asks the marks of one who has gone beyond the guṇas; Kṛṣṇa describes the person who watches them come and go unmoved, and says unwavering devotion carries one beyond them.
 
-# section 1-27 | The chapter
+@overview
+Chapter 14 is the Gītā's systematic treatment of the three *guṇas*, the strands of which all of nature is woven. The concept has appeared since 2.45 ("be free of the three guṇas") and 3.27 ("the guṇas act"). Here it is explained in full.
+The chapter opens with a cosmological image. Great brahman (primal nature) is God's womb, and he places the seed in it, from which all beings are born {14.3–4}. The three guṇas, born of nature, bind the embodied self {14.5}. Then comes a precise analysis {14.6–18}. Sattva is luminous and binds through attachment to happiness and knowledge. Rajas is passion and binds through attachment to action. Tamas is ignorance and binds through negligence, laziness and sleep. Each rises by overpowering the others {14.10}. Their signs are visible: light at all the body's gates, restless activity, or darkness and inertia {14.11–13}. They also shape what happens after death {14.14–18}.
+The second half answers Arjuna's question about the one who has gone beyond the guṇas (*guṇātīta*) {14.21}. Such a person does not hate the guṇas when they arise or long for them when they leave. They sit "as if indifferent," knowing "it is only the guṇas moving" {14.22–23}. The final verses add that unwavering devotion carries one beyond the guṇas, for God is "the foundation of brahman" {14.26–27}.
+
+@map
+node womb | 0 | Brahman is God's womb; he gives the seed | kind=center | ref=14.3, 14.4 | text=All beings are born from nature and God.
+node bind | 1 | The guṇas bind the embodied self | ref=14.5 | term=guṇa | text=Three strands of nature.
+node sat | 2 | Sattva: light, binds by happiness and knowledge | ref=14.6, 14.11 | term=sattva | text=Even the good binds.
+node raj | 2 | Rajas: passion, binds by action | ref=14.7, 14.12 | term=rajas | text=Greed, restlessness, longing.
+node tam | 2 | Tamas: darkness, binds by negligence | ref=14.8, 14.13 | term=tamas | text=Inertia, sleep, delusion.
+node compete | 3 | Each rises by overpowering the others | ref=14.10 | text=The mix shifts constantly.
+node fate | 3 | The guṇas shape destiny | ref=14.14, 14.18 | detail=1 | text=Upward, middle, downward.
+node beyond | 4 | Going beyond the guṇas | kind=claim | ref=14.20, 14.25 | text=Watching them come and go unmoved.
+node bhakti | 5 | Devotion carries one beyond | kind=center | ref=14.26, 14.27 | term=bhakti | text=God is the foundation of brahman.
+edge womb > bind
+edge bind > sat
+edge bind > raj
+edge bind > tam
+edge sat > compete
+edge raj > compete
+edge tam > compete
+edge compete > fate | dashed
+edge compete > beyond
+edge beyond > bhakti
+
+@research
+The guṇa theory is one of the most influential ideas in Indian thought. It shaped Āyurveda (where diet and temperament are classified by guṇa), aesthetics, ethics and later psychology. Modern researchers have built psychometric instruments to measure guṇa-dispositions (e.g., the Vedic Personality Inventory, Wolf 1998; and scales developed by Indian psychologists). Results are suggestive but debated, and critics question whether ancient metaphysical categories can be operationalized as personality traits.
+Philosophically, a key question concerns 14.6: that even sattva binds. Commentators read this as a warning against spiritual pride. One can be attached to one's own goodness, knowledge or peace. 14.27, "I am the foundation of brahman," is a central text for theistic readings in which the personal God grounds even the impersonal absolute. Śaṅkara reads *brahman* here as the conditioned brahman. Rāmānuja reads it as the individual self in its liberated state. Scholars note that the verse's exact meaning remains uncertain.
+
+@questions
+- Why does sattva, the "good" guṇa, still bind (14.6)?
+- Observe your own day. When does each guṇa seem to dominate? What brings it on?
+- What does it mean to watch the guṇas "as if indifferent" (14.23)? Is it possible?
+- How does devotion carry one beyond the guṇas (14.26)?
+
+# section 1-4 | The cosmic womb and the seed
+lead: Kṛṣṇa declares again the supreme knowledge: great brahman is his womb, in which he places the seed of all beings.
+@notes
+14.1 | *Jñānānāṁ jñānam uttamam*: "the highest of knowledges." Each part of the teaching is praised as supreme in its context.
+14.2 | *Mama sādharmyam āgatāḥ*: "having come to share my nature." Liberation as likeness to God, not mere identity.
+14.3 | *Mama yonir mahad brahma*: "my womb is the great brahman." Here *brahman* means primal nature (*prakṛti*), not the absolute.
+14.4 | *Ahaṁ bīja-pradaḥ pitā*: "I am the seed-giving father." A cosmic sexual image: nature is mother, God is father.
 @reconstruction
-Study materials for this section are in preparation.
+Kṛṣṇa will teach again the highest knowledge, by which sages reached perfection {14.1}. Relying on it, they share God's nature and are neither born at creation nor disturbed at dissolution {14.2}. Great brahman is his womb, in which he places the seed from which all beings arise {14.3}. Whatever forms are born in any womb, great brahman is their mother and he is the seed-giving father {14.4}.
+@insight
+The cosmogony is striking in its use of procreation. Creation is not fabrication but generation. Nature is the mother of all forms, God the father. This frames the guṇa teaching. The guṇas are the material inheritance of every being, but the life in it is God's.
+The phrase "share my nature" {14.2} is theologically significant. Liberation is described not as dissolution into God but as coming to resemble him. Rāmānuja and Madhva use this verse against the Advaita idea of identity.
+@sources
+The image of the cosmic womb and seed recalls *Ṛg Veda* 10.121 (the golden embryo, *hiraṇyagarbha*) and the Purāṇic accounts of the cosmic egg. "Sharing God's nature" (*sādharmya*) is a technical term in theistic Vedānta.
+@context
+Creation through procreation appears in Hesiod's *Theogony* (Earth and Sky) and in many mythologies. Plato's *Timaeus* calls the receptacle of becoming the "nurse" and "mother" of all generation.
+@matters
+The image invites us to see every being as born of nature and of God, with a material inheritance and a divine seed.
+@questions
+- What does the image of womb and seed (14.3–4) add to the account of creation?
+- Is liberation "sharing God's nature" (14.2) the same as becoming one with God?
 @argument
-C | Study materials in preparation
+P | Great brahman (nature) is God's womb | ref=14.3 | term=prakṛti | text=Nature is the mother of forms.
+P | God gives the seed | ref=14.4 | text=God is the father of all beings.
+C | All beings are born from nature and God | ref=14.4 | text=Material inheritance and divine life.
+I | Knowing this, sages share God's nature | ref=14.2 | text=Liberation as likeness to God.
+
+# section 5-18 | The three guṇas: how they bind and show themselves
+lead: Sattva binds through happiness and knowledge, rajas through action, tamas through negligence; each rises by overpowering the others and shapes one's destiny.
+@notes
+14.5 | *Sattvaṁ rajas tama iti guṇāḥ prakṛti-sambhavāḥ*: the three guṇas "born of nature." *Nibadhnanti*, "bind."
+14.6 | *Sukha-saṅgena badhnāti jñāna-saṅgena cānagha*: sattva "binds by attachment to happiness and to knowledge." The subtlest bondage.
+14.7 | *Rajo rāgātmakaṁ viddhi tṛṣṇā-saṅga-samudbhavam*: rajas is "passion," born of craving and attachment.
+14.8 | *Pramādālasya-nidrābhiḥ*: tamas binds by "negligence, laziness and sleep."
+14.10 | *Rajas tamaś cābhibhūya sattvaṁ bhavati*: sattva arises by overpowering rajas and tamas. The guṇas are always in competition.
+14.11 | *Sarva-dvāreṣu dehe 'smin prakāśa upajāyate*: light "at all the gates of the body," the senses, signals sattva.
+14.12 | *Lobhaḥ pravṛttir ārambhaḥ karmaṇām aśamaḥ spṛhā*: greed, activity, ambition, restlessness and longing are the signs of rajas.
+14.17 | *Sattvāt sañjāyate jñānam*: knowledge from sattva; greed from rajas; delusion from tamas.
+14.18 | *Ūrdhvaṁ gacchanti sattva-sthāḥ*: those in sattva go upward; rajas, the middle; tamas, downward.
+@reconstruction
+The three guṇas, sattva, rajas and tamas, bind the imperishable self in the body {14.5}. Sattva is luminous and healthy, but it binds through attachment to happiness and knowledge {14.6}. Rajas is passion, born of craving, and binds through attachment to action {14.7}. Tamas, born of ignorance, deludes and binds through negligence, laziness and sleep {14.8}. Sattva attaches to happiness, rajas to action, tamas to negligence {14.9}. Each rises by overpowering the other two {14.10}. Light at all the senses shows sattva {14.11}. Greed, activity and restlessness show rajas {14.12}. Darkness, inertia and delusion show tamas {14.13}. Dying in sattva leads to pure worlds, in rajas to rebirth among the active, in tamas among the deluded {14.14–15}. Their fruits are purity, pain and ignorance {14.16}, and they lead upward, middle and downward {14.17–18}.
+@insight
+The guṇa theory is a psychology of moods and dispositions as much as a cosmology. Everyone recognizes the clarity of sattva, the agitation of rajas and the heaviness of tamas. The theory's insight is that these are not fixed traits but shifting proportions. Each guṇa rises by overpowering the others {14.10}, so a person can cultivate conditions that favor one or another.
+The most profound claim is that even sattva binds {14.6}. The spiritual life can become a new attachment, to one's own peace, purity or knowledge. This guards against spiritual complacency and explains why the goal is to go *beyond* the guṇas, not merely to maximize sattva.
+@sources
+The guṇa triad is elaborated in the *Sāṅkhya-kārikā* (12–13: sattva is light and illuminating, rajas stimulating and mobile, tamas heavy and enveloping) and appears in the *Maitrī Upaniṣad* 3.5 and 5.2.
+@context
+Comparable typologies include the Greek four humors and temperaments (Hippocrates, Galen), Plato's tripartite soul, and modern personality psychology (e.g., the Big Five). The guṇa theory differs in treating qualities as cosmic forces present in all matter, not just in persons.
+@matters
+The guṇas offer a practical vocabulary for self-observation: noticing what state one is in, what feeds it, and what it binds one to.
+@questions
+- Give an example of each guṇa in a single day of your life.
+- Why is attachment to happiness and knowledge (14.6) a form of bondage?
+- How can one change which guṇa predominates (14.10)?
+@argument
+P | Each guṇa binds in its own way | ref=14.6, 14.8 | term=guṇa | text=Sattva by happiness and knowledge, rajas by action, tamas by negligence.
+P | Each rises by overpowering the others | ref=14.10 | text=Their balance shifts constantly.
+C | The guṇas shape character and destiny | ref=14.14, 14.18 | text=Their fruits are purity, pain and ignorance.
+I | Even sattva must be transcended | ref=14.6 | term=sattva | text=Goodness can become a subtle attachment.
+
+# section 19-27 | Beyond the guṇas
+lead: The seer who knows that only the guṇas act goes beyond them; Arjuna asks for the marks of such a person, and Kṛṣṇa describes the equanimous witness and the devotion that carries one there.
+@notes
+14.19 | *Nānyaṁ guṇebhyaḥ kartāraṁ yadā draṣṭānupaśyati*: when the seer sees no agent other than the guṇas.
+14.20 | *Guṇān etān atītya trīn*: "going beyond these three guṇas," one attains immortality (*amṛta*).
+14.21 | Arjuna's three questions: the marks (*liṅga*), the conduct (*ācāra*), and the means of going beyond.
+14.22 | *Prakāśaṁ ca pravṛttiṁ ca moham eva ca*: light (sattva), activity (rajas) and delusion (tamas). The guṇātīta neither hates them when present nor longs for them when absent.
+14.23 | *Udāsīnavad āsīnaḥ*: "sitting as if indifferent," the same phrase used of God in 9.9. *Guṇā vartanta ity eva*: "it is only the guṇas moving."
+14.24 | *Sama-duḥkha-sukhaḥ sva-sthaḥ*: "same in pain and pleasure, self-abiding." *Sva-stha* also means "healthy" in Sanskrit, literally "established in oneself."
+14.26 | *Mām ca yo 'vyabhicāreṇa bhakti-yogena sevate*: "one who serves me with unwavering devotion." Devotion as the means.
+14.27 | *Brahmaṇo hi pratiṣṭhāham*: "I am the foundation of brahman." See the chapter's research note.
+@reconstruction
+When the seer sees no agent but the guṇas and knows what is beyond them, he reaches God's being {14.19}. Going beyond the guṇas from which the body arises, the embodied is freed from birth, death, age and sorrow {14.20}. Arjuna asks for the marks, conduct and means of the one beyond the guṇas {14.21}. Such a person does not hate light, activity or delusion when they come or long for them when they go {14.22}. He sits as if indifferent, unmoved, knowing it is only the guṇas acting {14.23}. He is equal in pain and pleasure, self-abiding, the same to clod, stone and gold, to pleasant and unpleasant, to praise and blame {14.24}, to honor and dishonor, friend and foe, and has given up all self-willed projects {14.25}. One who serves God with unwavering devotion goes beyond the guṇas and is fit to become brahman {14.26}, for God is the foundation of brahman, of immortality, of eternal dharma and of perfect happiness {14.27}.
+@insight
+The *guṇātīta* is not someone free of the guṇas in the sense that they no longer arise. Light, activity and delusion still come. The difference is in the relation to them: no hatred, no longing, just witnessing. The phrase "sitting as if indifferent" is the same one used of God in 9.9. Going beyond the guṇas is participating in God's own mode of relating to nature.
+The final answer to "how?" is devotion {14.26}. This continues the Gītā's pattern. Each analytic teaching (Sāṅkhya, the field, the guṇas) ends by pointing to devotion as the way to realize it. The closing verse, "I am the foundation of brahman," places the personal God beneath even the absolute, a claim that has been read in many ways but cannot be read as subordinating God to brahman.
+@sources
+The portrait parallels 2.55–72, 6.7–9 and 12.13–19. The phrase "it is only the guṇas moving" restates 3.28. *Śvetāśvatara* 6.11 calls God "the witness, the knower, alone, beyond the guṇas" (*nirguṇa*).
+@context
+The Stoic sage who observes impressions without assenting to them (Epictetus) and the Buddhist contemplative who sees mental states arise and pass (*Satipaṭṭhāna Sutta*) are close parallels. Contemporary "acceptance and commitment therapy" teaches a similar non-reactive observation of inner states.
+@matters
+The section shows a way to live with one's moods and states without being governed by them: neither fighting them nor clinging, but seeing them as passing.
+@questions
+- How does the *guṇātīta* differ from someone simply suppressing feelings?
+- Why is God described with the same phrase "sitting as if indifferent" (9.9, 14.23)?
+- What could "I am the foundation of brahman" (14.27) mean?
+@argument
+P | The guṇas alone act | ref=14.19, 14.23 | term=guṇa | text=The seer sees no other agent.
+P | The one beyond them neither hates nor longs for their states | ref=14.22 | text=Light, activity and delusion come and go.
+C | Going beyond the guṇas, one attains immortality | ref=14.20, 14.25 | text=Equal in all conditions, a witness.
+I | Unwavering devotion carries one beyond the guṇas | ref=14.26 | term=bhakti | text=For God is the foundation of brahman.

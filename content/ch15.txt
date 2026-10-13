@@ -1,7 +1,157 @@
-summary: The verses of this chapter are complete; its study apparatus is being added.
+summary: The world is an upside-down aśvattha tree, roots above and branches below, to be cut down with the axe of non-attachment. A fragment of God becomes each living soul, carrying the senses from body to body. God is the light of sun and moon, the life in the earth, the fire in every body, seated in every heart. Beyond the perishable and the imperishable stands the Supreme Person.
 
-# section 1-20 | The chapter
+@overview
+Chapter 15 is short, dense and highly regarded. In many traditions it is recited before meals. It moves from cosmology to psychology to theology in twenty verses, and ends by naming its own subject, the *puruṣottama*, the Supreme Person.
+It opens with one of the Gītā's great images: the aśvattha tree of saṁsāra, with roots above in the divine source and branches spreading downward into the world, nourished by the guṇas, its leaves the Vedic hymns {15.1–2}. Its beginning and end cannot be seen. It must be cut down with "the strong axe of non-attachment," after which one seeks the place of no return {15.3–4}.
+The chapter then describes the individual soul as "a fragment of me" that draws the senses to itself and carries them from body to body "as the wind carries scents" {15.7–8}. The deluded do not see it, while those with the eye of knowledge do {15.10–11}. God is present in the world's energies: the light of the sun and moon, the vigor of the earth, the digestive fire in every body {15.12–14}. He is "seated in the heart of all," source of memory and knowledge and their loss, the one to be known by all the Vedas {15.15}.
+The culminating teaching distinguishes three "persons" {15.16–18}. The perishable is all beings. The imperishable is the unchanging self. Beyond both is the Supreme Person, God, who sustains the three worlds. To know him thus is to know all {15.19–20}.
+
+@map
+node tree | 0 | The inverted aśvattha tree | kind=center | ref=15.1, 15.2 | term=aśvattha | text=Roots above, branches below; leaves are Vedic hymns; nourished by the guṇas.
+node axe | 1 | Cut it with non-attachment | ref=15.3, 15.4 | term=vairāgya | text=Then seek the primal Person from whom all flowed.
+node abode | 1 | The abode no sun lights | ref=15.6 | text=From there, no return.
+node frag | 2 | The soul: a fragment of God | ref=15.7 | term=jīva | text=It carries the senses from body to body.
+node wind | 2 | As the wind carries scents | ref=15.8, 15.9 | detail=1 | text=The soul transmigrates with the subtle body.
+node see | 3 | Seen only with the eye of knowledge | ref=15.10, 15.11 | text=The deluded do not see the soul.
+node immanent | 3 | God in sun, earth, fire, heart | ref=15.12, 15.15 | text=Light, vigor, digestion, memory and knowledge.
+node three | 4 | Perishable, imperishable, and beyond | kind=claim | ref=15.16, 15.17 | term=akṣara | text=All beings; the unchanging self; and the Supreme Person.
+node purusho | 5 | The Supreme Person | kind=center | ref=15.18, 15.19 | term=puruṣottama | text=Knowing him, one knows all and worships with one's whole being.
+edge tree > axe
+edge axe > abode
+edge tree > frag | dashed
+edge frag > wind | dashed
+edge frag > see
+edge see > immanent
+edge immanent > three
+edge abode > three
+edge three > purusho
+
+@research
+The inverted tree has been studied as a symbol across traditions, for example by Ananda Coomaraswamy ("The Inverted Tree," 1938), who traced it in Vedic, Kabbalistic and other cosmologies. Scholars debate whether "roots above" signifies the divine source or the Veda. The image derives from *Kaṭha* 6.1, and possibly from *Ṛg Veda* 1.24.7 (Varuṇa's tree with roots above).
+The three-person doctrine {15.16–18} is central for the theology of the Gītā. Advaitins read the "imperishable" as the cosmic seed (māyā) and the Supreme Person as brahman. Rāmānuja and Madhva read the imperishable as the liberated individual soul and the Supreme Person as the personal God, distinct from and superior to both matter and souls. The doctrine of the soul as "an eternal fragment" (*aṁśa*) of God {15.7} is a crux for these debates. Recent comparative work (e.g., by Ram-Prasad) uses the chapter to explore the relation between "divine self" and "human self."
+
+@questions
+- What does it mean that the world-tree has its roots above (15.1)?
+- Why is non-attachment the "axe" that cuts the tree (15.3)?
+- How should we understand the soul as "a fragment" of God (15.7)? Is a fragment distinct or identical?
+- How does the Supreme Person differ from the imperishable self (15.17–18)?
+
+# section 1-6 | The inverted tree and the axe of non-attachment
+lead: The world is an upside-down fig tree rooted in the divine; it must be cut with non-attachment, and the primal Person sought, from whose abode none return.
+@notes
+15.1 | *Ūrdhva-mūlam adhaḥ-śākham aśvattham prāhur avyayam*: "roots above, branches below." *Chandāṁsi yasya parṇāni*: "its leaves are the Vedic hymns."
+15.1 | *Aśvattha* is popularly etymologized as *a-śvas-tha*, "not lasting till tomorrow," suggesting impermanence despite the tree's being called *avyaya*, "imperishable."
+15.2 | *Guṇa-pravṛddhāḥ*: branches "nourished by the guṇas." *Viṣaya-pravālāḥ*: shoots that are "sense-objects." *Karmānubandhīni*: roots "binding to action" in the human world.
+15.3 | *Asaṅga-śastreṇa dṛḍhena chittvā*: "cutting with the strong axe of non-attachment."
+15.4 | *Tam eva cādyaṁ puruṣaṁ prapadye*: "I take refuge in that primal Person." The first explicit formula of refuge in this chapter.
+15.5 | *Nirmāna-mohā jita-saṅga-doṣāḥ*: "without pride and delusion, having conquered the fault of attachment."
+15.6 | *Na tad bhāsayate sūryo na śaśāṅko na pāvakaḥ*: "neither sun nor moon nor fire illuminates it." From *Kaṭha* 5.15 and *Muṇḍaka* 2.2.10.
 @reconstruction
-Study materials for this section are in preparation.
+The world is an imperishable aśvattha tree with roots above and branches below, its leaves the Vedic hymns. Whoever knows it knows the Veda {15.1}. Its branches spread up and down, nourished by the guṇas, with sense-objects as shoots, and its roots bind humans to action {15.2}. Its form, end, beginning and foundation cannot be perceived here. One must cut it down with the strong axe of non-attachment {15.3}. Then one should seek the place of no return, taking refuge in the primal Person from whom the ancient stream of activity flowed {15.4}. Free of pride, delusion and attachment, devoted to the self, beyond desire and the pairs of opposites, the undeluded reach that imperishable place {15.5}. Neither sun, moon nor fire lights it, and those who reach it do not return. It is God's supreme abode {15.6}.
+@insight
+The inverted tree is a profound image of the world's dependence on a transcendent source. The roots, the source of life, are "above," in God. What we see, the spreading branches of experience, is derivative. The tree is fed by the guṇas and by sense-objects. It grows wherever desire extends.
+The paradox is that the tree is "imperishable" yet must be "cut." Commentators resolve this by levels. The cosmic process is beginningless and endless as a whole, but each person can sever their own entanglement in it. The axe is non-attachment. One does not destroy the world but cuts one's bondage to it.
+@sources
+*Kaṭha Upaniṣad* 6.1 ("this eternal aśvattha, roots above, branches below… that is brahman"). *Ṛg Veda* 1.24.7 mentions a tree whose roots are above. The light that needs no other light (15.6) is *Kaṭha* 5.15, *Muṇḍaka* 2.2.10 and *Śvetāśvatara* 6.14.
+@context
+The inverted tree appears in the Kabbalah (the Sefirot), in Dante's *Paradiso* (18.28–30, the tree "that lives from its top"), and in Plato's *Timaeus* (90a), where the human is a "heavenly plant" with its root in heaven. Coomaraswamy collected these parallels.
+@matters
+The image helps us see our entanglements as branches growing from desire, and suggests that the deepest freedom is not escaping the world but cutting the roots of attachment.
+@questions
+- What does the inverted tree say about the relation between the world and its source?
+- How can the tree be both "imperishable" (15.1) and to be "cut down" (15.3)?
+- Why are the leaves "the Vedic hymns"? Is this praise or criticism of the Veda?
 @argument
-C | Study materials in preparation
+P | The world grows from a divine source above | ref=15.1 | term=aśvattha | text=Roots above, branches below.
+P | It is fed by the guṇas and by sense-objects | ref=15.2 | term=guṇa | text=Desire extends its branches.
+C | Cut it with the axe of non-attachment | ref=15.3 | term=vairāgya | text=Sever one's own entanglement.
+I | Then take refuge in the primal Person | ref=15.4, 15.6 | text=And reach the abode no sun lights.
+
+# section 7-11 | The soul as a fragment of God
+lead: A fragment of God becomes each living soul, drawing the senses to itself and carrying them from body to body; only the eye of knowledge sees it.
+@notes
+15.7 | *Mamaivāṁśo jīva-loke jīva-bhūtaḥ sanātanaḥ*: "a fragment of me, becoming an eternal living being." *Aṁśa*, "part, portion, fragment," is a key term in theistic Vedānta.
+15.7 | *Manaḥ-ṣaṣṭhānīndriyāṇi*: "the senses with the mind as the sixth."
+15.8 | *Vāyur gandhān ivāśayāt*: "as the wind carries scents from their sources." The soul carries the subtle impressions of the senses into the next body.
+15.9 | The soul "enjoys" (*upasevate*) the sense-objects through hearing, sight, touch, taste, smell and mind.
+15.10 | *Paśyanti jñāna-cakṣuṣaḥ*: "those with the eye of knowledge see." The "eye of knowledge" recalls the "divine eye" of 11.8.
+15.11 | *Akṛtātmānaḥ*, "those of unformed self": even striving, they do not see without inner preparation.
+@reconstruction
+A fragment of God becomes an eternal living soul in the world of the living, drawing to itself the senses and the mind that rest in nature {15.7}. When the lord of the body takes a body or leaves it, he carries these with him as wind carries scents {15.8}. Through ear, eye, touch, taste, smell and mind he enjoys the objects of sense {15.9}. The deluded do not see him leaving, staying or enjoying, joined with the guṇas. Those with the eye of knowledge do {15.10}. Striving yogins see him within; those of unformed self do not, even with effort {15.11}.
+@insight
+The doctrine of the soul as "a fragment of me" is one of the Gītā's most consequential theological claims. It affirms both continuity and distinction. The soul is God's own, not foreign to him, yet it is a part, not the whole. Advaitins read "fragment" as apparent: the one self appears divided like space in pots. Theists read it as real: the soul is a genuine, eternal part of God, dependent and distinct.
+The wind-and-scent image explains rebirth without a crude transfer of matter. What passes from body to body is subtle, like fragrance: the impressions of the senses and mind. The section also reaffirms that this reality is perceived only with "the eye of knowledge," which requires a formed self.
+@sources
+The idea of the soul as part of God appears in *Brahma-sūtra* 2.3.43 (*aṁśo nānā-vyapadeśāt*, "a part, because of the declaration of difference"). The subtle body that transmigrates is described in *Bṛhadāraṇyaka* 4.4.2–5.
+@context
+Plato's doctrine of the soul's transmigration (*Phaedo*, *Republic* X), the Stoic idea of the human mind as a "fragment" (*apospasma*) of the divine *logos* (Epictetus, *Discourses* 2.8), and the Christian concept of the soul as image of God offer parallels.
+@matters
+If each person is "a fragment of God," every person carries a dignity that no social rank can confer or remove.
+@questions
+- Is a "fragment of God" identical with God, distinct from God, or both?
+- What does the image of wind carrying scents (15.8) suggest about rebirth?
+- Why can't those of "unformed self" see the soul, even with effort (15.11)?
+@argument
+P | Each living soul is an eternal fragment of God | ref=15.7 | term=jīva | text=Neither foreign to God nor identical with the whole.
+P | The soul carries the senses from body to body | ref=15.8 | text=As wind carries scents.
+C | Only the eye of knowledge sees the soul | ref=15.10, 15.11 | text=The deluded do not.
+I | Every person bears a share of the divine | text=A ground of dignity.
+
+# section 12-15 | God in the world's energies
+lead: God is the light of sun, moon and fire, the vigor in the earth, the fire that digests food, seated in every heart, the one known by all the Vedas.
+@notes
+15.12 | *Yad āditya-gataṁ tejaḥ*: "the brilliance in the sun." God is the energy of the world.
+15.13 | *Gām āviśya*: "entering the earth"; *somo bhūtvā rasātmakaḥ*: "becoming soma, the essence of sap." Soma is also the moon, which was believed to nourish plants.
+15.14 | *Ahaṁ vaiśvānaro bhūtvā*: "becoming the digestive fire" (*vaiśvānara*, "the fire common to all men"). This verse is recited before meals in many Hindu households.
+15.14 | *Pacāmy annaṁ catur-vidham*: "I digest the four kinds of food": chewed, sucked, licked and drunk.
+15.15 | *Sarvasya cāhaṁ hṛdi sanniviṣṭaḥ*: "I am seated in the heart of all." *Mattaḥ smṛtir jñānam apohanaṁ ca*: "from me come memory, knowledge and their loss."
+15.15 | *Vedānta-kṛd veda-vid eva cāham*: "the maker of the Vedānta and the knower of the Veda." Perhaps the earliest use of the word "Vedānta."
+@reconstruction
+The light of the sun that illuminates the world, and the light in moon and fire, is God's {15.12}. Entering the earth, he sustains beings; becoming soma, he nourishes plants {15.13}. Becoming the fire of digestion, joined with the breaths, he digests food in all bodies {15.14}. He is seated in every heart. From him come memory, knowledge and their loss. He is the one to be known in all the Vedas, the maker of Vedānta and the knower of the Veda {15.15}.
+@insight
+The section expresses an ecological theology. God is not only the transcendent source but the very energies by which life is sustained: sunlight, the fertility of earth, the sap of plants, the digestion of food. Eating becomes a sacred act, since God digests the food. Hence the use of 15.14 as a grace.
+15.15's claim that God is the source of memory and knowledge *and their loss* is striking. Forgetting is also in God's hands. This prepares the end of the Gītā, where Arjuna says he has regained his memory "by your grace" {18.73}.
+@sources
+The digestive fire *vaiśvānara* is from *Bṛhadāraṇyaka* 5.9.1 ("the fire within a person that digests food is Vaiśvānara") and *Chāndogya* 5.18. Soma as the moon nourishing plants is Vedic and Purāṇic lore.
+@context
+Comparable is the medieval idea of divine light pervading creation (Grosseteste's metaphysics of light), Spinoza's *natura naturans*, and contemporary ecotheology (e.g., Thomas Berry). The idea that God digests food anticipates sacramental views of eating.
+@matters
+If the energies that sustain life are divine, then sunlight, harvest and a meal are not merely resources but gifts and presences.
+@questions
+- What changes if one sees one's own digestion as God's activity (15.14)?
+- Why does it matter that God is the source of forgetting as well as memory (15.15)?
+- What is the significance of the word "Vedānta" in 15.15?
+@argument
+P | God is the light of sun, moon and fire | ref=15.12 | text=The brilliance of the world.
+P | God sustains earth, plants and bodies | ref=15.13, 15.14 | text=Vigor, sap and digestion.
+C | God is seated in every heart | ref=15.15 | text=Source of memory, knowledge and their loss.
+I | Life's energies are sacred | text=Eating and seeing become encounters with God.
+
+# section 16-20 | The perishable, the imperishable, and the Supreme Person
+lead: There are two persons in the world, the perishable and the imperishable; beyond both is the Supreme Person, God, who sustains the three worlds.
+@notes
+15.16 | *Dvāv imau puruṣau loke kṣaraś cākṣara eva ca*: "two persons in the world: the perishable and the imperishable." *Kṣaraḥ sarvāṇi bhūtāni*: the perishable is all beings. *Kūṭa-stho 'kṣara ucyate*: the imperishable is "the unchanging."
+15.17 | *Uttamaḥ puruṣas tv anyaḥ paramātmety udāhṛtaḥ*: "but there is another, the highest person, called the supreme self."
+15.18 | *Yasmāt kṣaram atīto 'ham akṣarād api cottamaḥ*: "since I transcend the perishable and am higher even than the imperishable." This gives the title *puruṣottama*.
+15.19 | *Sa sarva-vid bhajati māṁ sarva-bhāvena*: "knowing all, worships me with one's whole being."
+15.20 | *Guhyatamaṁ śāstram*: "the most secret teaching." *Kṛta-kṛtyaḥ*: "one who has done all that needs to be done."
+@reconstruction
+There are two persons in the world: the perishable, which is all beings, and the imperishable, called the unchanging {15.16}. But beyond them is another, the highest person, the supreme self, who as imperishable lord enters and sustains the three worlds {15.17}. Since God transcends the perishable and is higher than the imperishable, he is known as the Supreme Person {15.18}. Whoever knows him thus, undeluded, knows all and worships him with their whole being {15.19}. This most secret teaching makes one wise and fulfilled {15.20}.
+@insight
+The three-tiered ontology is the Gītā's final word on its theology. The perishable is the world of changing beings. The imperishable is the unchanging self, the witness of Sāṅkhya and the brahman of the Upaniṣads. Beyond both stands the Supreme Person. The impersonal absolute is thus not the summit. A personal God transcends and includes it.
+Advaitins resist this, reading the Supreme Person as brahman itself described relationally. Theistic schools take it at face value. Whatever one's reading, the structure explains the Gītā's integration of paths. Knowledge of the self (the imperishable) is real but incomplete without knowing and loving the Supreme Person. Hence the conclusion: the one who knows this "worships me with one's whole being."
+@sources
+The triad of perishable, imperishable and supreme recalls *Śvetāśvatara* 1.10 ("perishable is matter, immortal and imperishable is Hara; the one God rules both") and *Muṇḍaka* 2.1.2 ("higher than the high imperishable").
+@context
+Analogies include Plotinus's hierarchy of Soul, Intellect and the One, and Christian theologies that distinguish creation, the created soul and the uncreated God. Process theologians have engaged the Gītā's dipolar God (both in and beyond the world).
+@matters
+The section asks whether the deepest reality is impersonal or personal, and answers that the personal includes and surpasses the impersonal.
+@questions
+- What is the difference between the imperishable (15.16) and the Supreme Person (15.17–18)?
+- Why does knowing the Supreme Person lead to worship "with one's whole being" (15.19)?
+- How might an Advaitin and a theist each read this section?
+@argument
+P | The perishable is all changing beings | ref=15.16 | text=The world of becoming.
+P | The imperishable is the unchanging self | ref=15.16 | term=akṣara | text=The witness, the absolute.
+C | Beyond both is the Supreme Person | ref=15.17, 15.18 | term=puruṣottama | text=God, who sustains the three worlds.
+I | Knowing him, one knows all and worships wholeheartedly | ref=15.19, 15.20 | term=bhakti | text=The most secret teaching.

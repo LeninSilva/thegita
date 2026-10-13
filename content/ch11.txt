@@ -1,7 +1,167 @@
-summary: The verses of this chapter are complete; its study apparatus is being added.
+summary: Arjuna asks to see God's sovereign form. Given a divine eye, he sees the whole universe in Kṛṣṇa's body, blazing like a thousand suns, and then the warriors of both armies rushing into God's devouring mouths. Kṛṣṇa declares, "I am time, the destroyer of worlds," and tells Arjuna to be merely the instrument. Terrified, Arjuna begs forgiveness and asks to see the gentle form again; Kṛṣṇa reveals that only undivided devotion can know him thus.
 
-# section 1-55 | The chapter
+@overview
+Chapter 11 is the dramatic and poetic summit of the Gītā, a theophany that ranks among the great visions of world literature. Teaching becomes experience. What Chapters 7–10 described (God as source, container and essence of all) Arjuna now *sees*. The meter shifts to the long *triṣṭubh* for much of the chapter, marking heightened speech.
+The vision has two phases. The first is glorious and cosmic. A thousand suns, all gods and beings in one body, a form without beginning, middle or end {11.12–20}. The second is terrible. The worlds tremble. The warriors of both armies, Bhīṣma, Droṇa, Karṇa and "our own chief warriors" too, rush into God's mouths like rivers into the sea or moths into a flame, and are crushed between his teeth {11.26–30}. Arjuna, horrified, asks who God is. The answer is one of the most famous self-declarations in religious literature: "I am time, the mighty destroyer of worlds" {11.32}. The warriors are already dead, and Arjuna is to be "merely the instrument" {11.33}.
+The chapter ends in intimacy. Arjuna begs pardon for having treated his God as a friend {11.41–44} and asks to see the familiar form again. Kṛṣṇa grants it and declares that neither Veda nor austerity nor sacrifice reveals him thus, only undivided devotion {11.53–54}.
+
+@map
+node ask | 0 | Show me your sovereign form | ref=11.3, 11.4 | text=Arjuna moves from hearing to seeing.
+node eye | 1 | The divine eye | ref=11.8 | text=God's form cannot be seen with ordinary sight; vision is a gift.
+node glory | 2 | Glory: the universe in one body | ref=11.12, 11.13 | term=viśvarūpa | text=The light of a thousand suns; all worlds standing as one in God.
+node terror | 3 | Terror: the devouring mouths | kind=contrast | ref=11.26, 11.30 | text=Warriors of both sides rush into God's mouths like moths into flame.
+node time | 4 | "I am time, destroyer of worlds" | kind=claim | ref=11.32 | term=kāla | text=God reveals himself as all-consuming time.
+node instr | 4 | Be merely the instrument | ref=11.33, 11.34 | term=nimitta-mātra | text=They are already slain; stand up and win glory.
+node pardon | 5 | Arjuna's praise and plea for pardon | ref=11.39, 11.44 | text=He apologizes for treating God as a friend; asks to be borne with as a father bears a son.
+node gentle | 5 | The gentle form returns | ref=11.50, 11.51 | text=Kṛṣṇa resumes his human shape and consoles Arjuna.
+node devotion | 6 | Known only by undivided devotion | kind=center | ref=11.53, 11.54 | term=bhakti | text=Not by Veda, austerity, gift or sacrifice.
+edge ask > eye
+edge eye > glory
+edge glory > terror
+edge terror > time | who are you?
+edge time > instr
+edge instr > pardon
+edge pardon > gentle
+edge gentle > devotion
+
+@research
+Chapter 11 has attracted interest far beyond Indology. J. Robert Oppenheimer recalled 11.12 ("the radiance of a thousand suns") and 11.32 ("Now I am become Death, the destroyer of worlds," his own rendering) when describing the Trinity atomic test in 1945. James Hijiya ("The Gita of J. Robert Oppenheimer," 2000) examines how Oppenheimer used the Gītā to think about duty and destruction. Scholars of religion (Rudolf Otto, *The Idea of the Holy*, 1917) treated the chapter as a paradigm of the *mysterium tremendum et fascinans*, the holy as both terrifying and fascinating.
+Ethicists debate 11.33–34. Does "be merely the instrument" relieve Arjuna of responsibility, or is it a way of saying that the outcome is not his to own, while the act still is? The passage also raises questions about divine foreknowledge and human freedom. Recent work on the Mahābhārata's theology of time (e.g., by Alf Hiltebeitel and by Nicholas Sutton) reads Kṛṣṇa-as-kāla against the epic's larger sense of an age (*yuga*) ending in destruction.
+
+@questions
+- Why does the vision move from glory to terror? Could it have been only glorious?
+- "I am time, the destroyer of worlds": what does it mean for God to be time?
+- Does "be merely the instrument" (11.33) dissolve Arjuna's responsibility? Why or why not?
+- Why does Arjuna, after the cosmic vision, want his friend back (11.45–46)? What does this say about the relation of awe and love?
+
+# section 1-8 | The request and the divine eye
+lead: Arjuna asks to see God's sovereign form; Kṛṣṇa agrees, but gives him a divine eye, for ordinary sight cannot see it.
+@notes
+11.1 | *Moho 'yaṁ vigato mama*: "my delusion is gone." Arjuna thinks he has understood, but the vision will shake him.
+11.3 | *Draṣṭum icchāmi te rūpam aiśvaram*: "I wish to see your sovereign form." The request moves from knowledge to vision.
+11.4 | *Yogeśvara*, "lord of yoga." Arjuna asks politely: "if you think it possible."
+11.5 | *Paśya me pārtha rūpāṇi śataśo 'tha sahasraśaḥ*: "behold my forms by hundreds and thousands." The vision is multiplicity in unity.
+11.7 | *Ihaika-sthaṁ jagat kṛtsnam*: "the whole world standing as one here." It is unity seen, not argued.
+11.8 | *Divyaṁ dadāmi te cakṣuḥ*: "I give you a divine eye." The same gift Vyāsa gave Sañjaya (*Mahābhārata* 6.2). Vision of God requires God's gift.
 @reconstruction
-Study materials for this section are in preparation.
+Arjuna says his delusion is gone, having heard of the coming and going of beings and God's imperishable greatness {11.1–2}. He wishes to see God's sovereign form, if that is possible {11.3–4}. Kṛṣṇa invites him to behold his countless divine forms {11.5}: the gods and countless wonders {11.6}, the whole universe standing as one in his body {11.7}. But Arjuna cannot see this with his own eyes. Kṛṣṇa gives him a divine eye {11.8}.
+@insight
+The divine eye is a key concept. Some realities cannot be perceived with ordinary faculties, however sharp. The capacity to see them must be given. The Gītā here makes an epistemological point. Vision of the highest is not an achievement of the seer but a grace of the seen.
+Arjuna's confidence in 11.1 ("my delusion is gone") is dramatically ironic. Intellectual understanding is not the same as being transformed by direct encounter, as the coming terror will show.
+@sources
+The divine eye (*divya cakṣus*) appears in the epic (Sañjaya's gift) and in Buddhist texts as one of the supernormal powers. The theme of a vision of God beyond ordinary sight appears in *Kaṭha* 2.23 ("this self is not attained by teaching… it is attained by the one whom it chooses").
+@context
+Compare Moses asking to see God's glory and being shown only his back (Exodus 33:18–23), Isaiah's vision in the temple (Isaiah 6), and Ezekiel's chariot vision. Each raises the question of whether the divine can be seen and survived.
+@matters
+The section suggests that understanding about a reality and seeing it are different, and that some kinds of seeing must be received.
+@questions
+- What is the difference between knowing about God (Chapters 7–10) and seeing God?
+- Why must the divine eye be given rather than developed?
+- What does Arjuna's "my delusion is gone" (11.1) reveal about him at this point?
 @argument
-C | Study materials in preparation
+P | Arjuna knows about God's greatness | ref=11.1, 11.2 | text=He has heard the teaching.
+P | God's form cannot be seen with ordinary sight | ref=11.8 | text=It exceeds human faculties.
+C | God gives Arjuna a divine eye | ref=11.8 | text=Vision of the highest is a gift.
+I | Knowledge is about to become experience | text=The vision will test what Arjuna thinks he has understood.
+
+# section 9-31 | The universal form: glory and terror
+lead: Sañjaya describes the blazing cosmic form; Arjuna sees all gods and worlds in it, and then the warriors of both armies rushing into God's devouring mouths.
+@notes
+11.9 | Sañjaya resumes narration. The vision is reported to the blind king, layering vision within vision.
+11.12 | *Divi sūrya-sahasrasya bhaved yugapad utthitā*: "if a thousand suns were to rise at once in the sky." The verse Oppenheimer recalled at the first atomic test.
+11.15 | Arjuna sees Brahmā "seated on the lotus." The creator is inside God's body.
+11.16 | *Nāntaṁ na madhyaṁ na punas tavādiṁ*: "no end, no middle, nor beginning." Infinity in all directions.
+11.19 | *Śaśi-sūrya-netram*: "with moon and sun as eyes." The cosmic person of the Vedas (*Ṛg Veda* 10.90).
+11.24 | *Pravyathitāntarātmā*: "my innermost self trembles." Arjuna addresses Kṛṣṇa as Viṣṇu.
+11.25 | *Kālānala*, "the fire of time" that burns the world at the end of an age.
+11.26 | Arjuna sees not only the enemy but "our own chief warriors" entering God's mouths. The vision does not take sides.
+11.28 | Rivers rushing to the ocean: an image elsewhere used for liberation (*Muṇḍaka* 3.2.8), here for destruction.
+11.29 | Moths into a flame: beings rush to their destruction with great speed, almost willingly.
+11.31 | *Ākhyāhi me ko bhavān ugra-rūpo*: "tell me who you are, of such terrible form." The vision brings questions, not answers.
+@reconstruction
+Kṛṣṇa reveals his supreme form. It has countless faces, eyes, ornaments and weapons, fragrant and infinite, facing everywhere {11.9–11}. It is as bright as a thousand suns rising at once {11.12}. Arjuna sees the whole universe in the god of gods' body {11.13}. Overcome, he bows {11.14}. He sees all gods and beings in God, with Brahmā on his lotus {11.15}, and a form without beginning, middle or end, blazing with crown, mace and discus {11.16–17}. God is the imperishable, the guardian of dharma, the ancient Person {11.18}. The worlds tremble {11.20–23}. Arjuna's own innermost self quakes {11.24}. Then he sees the mouths, like the fire of time {11.25}. The sons of Dhṛtarāṣṭra, Bhīṣma, Droṇa, Karṇa and our own warriors rush into them and are crushed between the teeth {11.26–27}, like rivers to the sea and moths into flame {11.28–29}. God licks the worlds with flaming tongues {11.30}. Arjuna begs: who are you {11.31}?
+@insight
+The vision's power lies in its turn from glory to horror. God is not only the beauty of the cosmos but its destruction. The same reality that contains all worlds also devours them. This is the most uncompromising expression of the Gītā's refusal to separate God from any aspect of existence, including death.
+The vision also answers Arjuna's original grief. In Chapter 1 he refused to kill his kin. Now he sees that their deaths are already in motion, part of the cosmic process of time, independent of his choice. Whether this is consolation or terror, or both, is the chapter's great question. Rudolf Otto took it as the purest instance of the holy as *tremendum*, overwhelming and fearful, and *fascinans*, irresistibly attractive.
+@sources
+The cosmic person with sun and moon as eyes draws on the Puruṣa hymn (*Ṛg Veda* 10.90) and *Muṇḍaka* 2.1.4 ("fire is his head, sun and moon his eyes"). The fire at the end of the age (*kālāgni*, *saṁvartaka*) belongs to epic and Purāṇic cosmology. The theophany parallels the Mahābhārata's other visions of Kṛṣṇa's cosmic form (e.g., in the Kaurava court, 5.129).
+@context
+The sublime in Burke and Kant, the experience of the overwhelming that both terrifies and elevates, has been compared to Arjuna's vision. So has the "divine terror" of the biblical Job and of Revelation. Oppenheimer's use of 11.12 and 11.32 turned the passage into an emblem of the nuclear age.
+@matters
+The section confronts us with the inseparability of creation and destruction, and asks whether we can face that truth and still act.
+@questions
+- Why does the vision include "our own chief warriors" (11.26)?
+- Read 11.28–29 side by side. How do the two images (rivers and moths) differ in feeling?
+- Is Otto's "tremendum et fascinans" a good description of this vision?
+- What did Oppenheimer's use of these verses add to, or take from, their meaning?
+@argument
+P | All worlds are contained in God's body | ref=11.13, 11.15 | term=viśvarūpa | text=Glory: the universe as one.
+P | All beings rush into God's devouring mouths | ref=11.26, 11.29 | text=Terror: destruction is also in God.
+C | God is both the glory and the end of all things | ref=11.30 | text=Creation and destruction are inseparable.
+I | Arjuna must ask who God is | ref=11.31 | text=The vision yields a question, not an answer.
+
+# section 32-46 | "I am time": the instrument, and Arjuna's plea
+lead: God declares himself time the destroyer; the warriors are already slain, Arjuna is to be the instrument. Arjuna praises him, begs forgiveness for past familiarity, and asks for the gentle form.
+@notes
+11.32 | *Kālo 'smi loka-kṣaya-kṛt pravṛddhaḥ*: "I am time, the mighty (ripened) destroyer of worlds." *Ṛte 'pi tvāṁ*: "even without you" they will cease to be.
+11.33 | *Nimitta-mātraṁ bhava savya-sācin*: "be merely the instrument, left-handed archer." *Savya-sācin*, "one who shoots with the left hand," i.e., ambidextrous.
+11.34 | *Mayā hatān*: "slain by me." The killing is attributed to God.
+11.35 | *Kirīṭī*, "the crowned one," Arjuna. He speaks *sa-gadgadam*, "stammering."
+11.36 | *Sthāne*, "it is right": Arjuna's hymn begins.
+11.38 | *Tvam ādi-devaḥ puruṣaḥ purāṇaḥ*: "you are the first god, the ancient Person."
+11.39 | Vāyu, Yama, Agni, Varuṇa, the moon, Prajāpati: the Vedic gods are all Kṛṣṇa. *Namo namas te 'stu sahasra-kṛtvaḥ*: "homage, homage, a thousand times."
+11.41 | *Sakheti matvā*: "thinking of you as a friend." Arjuna remembers calling him "Kṛṣṇa, Yādava, friend" carelessly.
+11.44 | *Piteva putrasya sakheva sakhyuḥ priyaḥ priyāyārhasi deva soḍhum*: "as a father with a son, a friend with a friend, a lover with the beloved, bear with me." The three relations become models of later devotion.
+11.46 | *Catur-bhujena*: "with four arms," Viṣṇu's iconic form, not Kṛṣṇa's ordinary two-armed human form. Commentators debate which "gentle form" Arjuna asks for.
+@reconstruction
+God answers that he is time, the destroyer of worlds, come to annihilate them. Even without Arjuna, the warriors arrayed will cease to be {11.32}. So Arjuna should rise, win glory and enjoy the kingdom. God has already slain them, and Arjuna is merely the instrument {11.33}. Droṇa, Bhīṣma, Jayadratha, Karṇa and the rest are already slain; kill them and do not waver {11.34}. Trembling, Arjuna bows and praises God {11.35}. It is right that the world rejoices in him {11.36}. He is greater than Brahmā, the imperishable, being and non-being and beyond {11.37}, the first god, the ancient Person, the knower and the known {11.38}, all the Vedic gods {11.39}, and the all {11.40}. Arjuna asks pardon for having called him "friend" casually and joked with him {11.41–42}. God is father of the world and its teacher, without equal {11.43}. Bear with me, Arjuna begs, as father with son, friend with friend, lover with beloved {11.44}. He is thrilled and afraid, and asks to see the familiar four-armed form {11.45–46}.
+@insight
+The declaration "I am time" and the command "be merely the instrument" are the Gītā's most morally fraught words. One reading is fatalistic: everything is predetermined, and Arjuna's choice is irrelevant. Another is consoling: the outcome is not Arjuna's to own, so he can act without the crushing burden of being the sole cause. A third is the Gītā's own logic of non-attached action. Arjuna remains responsible for doing his part rightly, but he is not the author of history. The verse can sound like an alibi. Its best reading is a radical form of humility about agency.
+Arjuna's response is psychologically acute. After cosmic awe he longs for the intimacy he had. His apology for treating God as a friend {11.41–42} is answered not by a demand for distance but by the return of the friend's face. The three relations of 11.44 (parent, friend, beloved) became the classic modes of devotional love in later bhakti theology.
+@sources
+Kṛṣṇa as the agent of destruction at the end of an age reflects the epic's view that the war marks the transition to the Kali Yuga. The triad of loving relations anticipates the *rasa* theology of Gauḍīya Vaiṣṇavism (servant, friend, parent, lover).
+@context
+Debates about divine sovereignty and human freedom (Augustine and Pelagius, Calvin's predestination, Islamic debates on *qadar*) parallel 11.33. Oppenheimer's adaptation of 11.32 as "Now I am become Death" made the verse an emblem of scientific responsibility.
+@matters
+The section asks how to act when we are one small cause among vast forces, without either claiming too much responsibility or abandoning it.
+@questions
+- Does 11.33 relieve Arjuna of responsibility, or redefine it?
+- Why does Arjuna apologize for having treated Kṛṣṇa as a friend (11.41)? Should he?
+- Compare the three relations of 11.44. What does each add to the idea of loving God?
+@argument
+P | God is time, the destroyer of worlds | ref=11.32 | term=kāla | text=The warriors will die even without Arjuna.
+P | They are already slain by God | ref=11.33, 11.34 | text=The outcome is not Arjuna's to author.
+C | Be merely the instrument | ref=11.33 | term=nimitta-mātra | text=Act rightly without owning the result.
+I | Awe gives way to a plea for intimacy | ref=11.44, 11.46 | text=As father with son, friend with friend, lover with beloved.
+
+# section 47-55 | The gentle form, and devotion as the only way
+lead: Kṛṣṇa says no one has seen this form except by his grace; he resumes his gentle form and declares that only undivided devotion reveals him.
+@notes
+11.47 | *Mayā prasannena*: "by my grace" (*prasāda*). The vision was a gift.
+11.48 | A list of what cannot reveal God: Vedas, sacrifices, study, gifts, rites, fierce austerities.
+11.49 | *Mā te vyathā mā ca vimūḍha-bhāvo*: "do not be afraid or bewildered." The terror is acknowledged and soothed.
+11.50 | *Saumya-vapuḥ*, "gentle body." *Āśvāsayām āsa*, "he consoled." God comforts the one he has terrified.
+11.51 | *Sacetāḥ saṁvṛttaḥ prakṛtiṁ gataḥ*: "I am composed and have returned to my nature." Arjuna recovers himself.
+11.52 | *Su-durdarśam*: "very hard to see." Even the gods long for it.
+11.54 | *Bhaktyā tv ananyayā*: "by undivided devotion." Three stages: to know (*jñātum*), to see (*draṣṭum*), to enter (*praveṣṭum*).
+11.55 | This verse is often called the essence of the Gītā by devotional commentators (e.g., Śaṅkara calls it the "essential meaning of the whole Gītā," *sarva-gītā-śāstra-sāra*). It names five marks: working for God, holding God as highest, devotion, non-attachment and non-enmity toward all beings.
+@reconstruction
+By his grace, God has shown Arjuna the universal form, which no one else has seen {11.47}. It cannot be seen through the Vedas, sacrifice, study, gifts, rites or austerity {11.48}. Arjuna should not fear. With a glad mind he should behold the familiar form again {11.49}. Kṛṣṇa resumes his gentle form and consoles him {11.50}. Arjuna recovers himself {11.51}. This form is hard to see, and even the gods long for it {11.52}. It is not reached by Veda, austerity, gift or sacrifice {11.53}, but only by undivided devotion, through which God can be known, seen and entered {11.54}. Whoever works for God, holds him supreme, is devoted, unattached and without hostility to any being, comes to God {11.55}.
+@insight
+The chapter ends by relativizing every means of religious attainment except devotion. This is not anti-intellectual. Knowledge and practice remain valuable. But the vision of God is ultimately given to love. The final verse adds a crucial ethical condition: "without hostility toward any being" (*nirvairaḥ sarva-bhūteṣu*). This line has often been noted as a striking qualification at the end of a chapter about war. Arjuna is to fight without hatred.
+The return of the gentle form is theologically significant. God does not remain in terrifying majesty. He comes back as friend and consoler. The Gītā's God is both the cosmic destroyer and the companion in the chariot.
+@sources
+The denial that Vedas and ritual reveal God echoes *Kaṭha* 2.23 and *Muṇḍaka* 3.2.3 ("this self is not attained by instruction, nor by intellect, nor by much learning; it is attained by the one whom it chooses").
+@context
+The return from overwhelming vision to intimate presence recalls the Transfiguration in the Gospels: after the dazzling vision, "they saw no one but Jesus only" (Matthew 17:8). In Rūmī and other Sufi poets, the beloved alternates between majesty (*jalāl*) and beauty (*jamāl*).
+@matters
+The section suggests that the deepest knowledge comes through love, and that the one who has seen the terrible face of reality must still act "without hostility toward any being."
+@questions
+- Why can God be seen only through devotion (11.54) and not through Vedas or austerity?
+- How does "without hostility toward any being" (11.55) bear on Arjuna's war?
+- Why does Kṛṣṇa console Arjuna (11.50)? What does it reveal about God?
+@argument
+P | The universal form is seen only by grace | ref=11.47 | term=prasāda | text=No human means can produce it.
+P | Veda, sacrifice, gifts and austerity do not reveal it | ref=11.48, 11.53 | term=Veda | text=Religious works are relativized.
+C | Only undivided devotion knows, sees and enters God | ref=11.54 | term=bhakti | text=Love is the way.
+I | The devotee is without hostility toward any being | ref=11.55 | text=Even in war, hatred is excluded.

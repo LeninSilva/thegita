@@ -1,7 +1,163 @@
-summary: The verses of this chapter are complete; its study apparatus is being added.
+summary: Kṛṣṇa declares himself the unborn source of gods, seers and every state of mind. Arjuna, moved, acknowledges him as supreme brahman and asks how to meditate on him. Kṛṣṇa lists his chief manifestations: the sun among lights, the mind among senses, Om among words, time among reckoners. Whatever has power or splendor springs from a fraction of his brilliance.
 
-# section 1-42 | The chapter
+@overview
+Chapter 10, *vibhūti-yoga*, turns the theology of Chapters 7 and 9 into a contemplative practice. If God is the essence of all things, where should the mind look to find him? Arjuna asks exactly this: "In what forms of being should I meditate on you?" {10.17}. Kṛṣṇa's answer is a long catalogue of "extended powers" (*vibhūtis*), the foremost member of each class of being.
+The chapter has three movements. First, Kṛṣṇa declares himself the source of everything, including the inner states of beings: understanding, patience, truth, pleasure and pain, fear and fearlessness {10.4–5}. Devotees who know this enlighten one another and are given the "yoga of understanding" by grace {10.8–11}. Second, Arjuna responds with a hymn of recognition {10.12–18}, the first time he addresses Kṛṣṇa explicitly as God. Third, the catalogue itself {10.19–40}: among Ādityas Viṣṇu, among mountains Meru, among letters A, among seasons spring, and also "the gambling of cheats" {10.36}.
+The closing verses give the key to reading the list: "Whatever being has power, splendor or vigor arises from a fraction of my brilliance" {10.41}, and the whole world is sustained by "a single fraction of myself" {10.42}. The catalogue is not exhaustive but exemplary, a training in seeing.
+
+@map
+node source | 0 | God, the unborn source of all | kind=center | ref=10.2, 10.3 | text=Not even gods and great seers know his origin.
+node states | 1 | Source of all inner states | ref=10.4, 10.5 | text=Understanding, truth, calm, pleasure and pain, fear and fearlessness.
+node devotees | 1 | Devotees enlighten one another | ref=10.9, 10.10 | term=bhakti | text=To them God gives the yoga of understanding.
+node lamp | 2 | The lamp of knowledge | ref=10.11 | term=prasāda | text=Out of compassion God dispels darkness from within.
+node praise | 2 | Arjuna's recognition | ref=10.12, 10.15 | term=Arjuna | text=You are supreme brahman, the eternal divine Person.
+node ask | 3 | How shall I meditate on you? | ref=10.17 | text=The practical question behind the catalogue.
+node list | 4 | The vibhūtis: the best of each kind | kind=claim | ref=10.20, 10.39 | term=vibhūti | text=Sun among lights, Om among words, Meru among mountains, time among reckoners.
+node gamble | 4 | Even the gambling of cheats | kind=contrast | ref=10.36 | detail=1 | text=God is also in what is excellent in its kind, even in deceit.
+node fraction | 5 | All splendor is a fraction of his | kind=center | ref=10.41, 10.42 | text=The whole world rests on a single fraction of God.
+edge source > states
+edge source > devotees
+edge devotees > lamp
+edge states > praise
+edge lamp > praise
+edge praise > ask
+edge ask > list
+edge list > gamble | dashed
+edge list > fraction
+
+@research
+The *vibhūti* lists are valuable sources for historians of early Hindu mythology. They show which deities and figures were preeminent when the Gītā was composed: Viṣṇu among the Ādityas, Śaṅkara (Śiva) among the Rudras, Skanda among generals, Vāsudeva among the Vṛṣṇis. Scholars have used them to date the text relative to the Purāṇic pantheon and to trace the elevation of Viṣṇu and Kṛṣṇa (e.g., Alf Hiltebeitel, *The Ritual of Battle*). The inclusion of Kapila, the founder of Sāṅkhya, and Vyāsa, the epic's author, is also noted.
+Philosophically, the chapter is discussed in relation to the problem of evil and to "aesthetic theology." If God is the splendor of the splendid {10.36}, is God also present in excellence of a morally dubious kind, such as the cheat's skill? Commentators like Rāmānuja take *dyūta* ("gambling") as the most powerful of deceivers. Modern readers (e.g., Richard H. Davis) note the chapter's influence on Indian temple art, which depicts divine manifestations in the most excellent forms of nature.
+
+@questions
+- Why does God appear in the "best" of each class rather than equally in all?
+- What should we make of "I am the gambling of cheats" (10.36)?
+- How does the catalogue function as a meditation practice? Try composing your own list.
+- Arjuna calls Kṛṣṇa supreme brahman (10.12). What has changed since Chapter 1?
+
+# section 1-11 | The unborn source and the gift of understanding
+lead: Kṛṣṇa declares himself the source of gods, seers and all states of mind; to loving devotees he gives the yoga of understanding.
+@notes
+10.2 | *Na me viduḥ sura-gaṇāḥ*: not even the gods know God's origin, because he has none. He is their origin.
+10.3 | *Ajam anādiṁ ca*: "unborn and without beginning." Knowledge of this frees from "all evils."
+10.4 | A list of mental and moral states, including opposites (pleasure and pain, being and non-being, fear and fearlessness). God is the source of all of them.
+10.6 | The seven great seers (*maharṣis*) and four Manus are "mind-born" (*mānasāḥ*), produced by God's thought.
+10.8 | *Ahaṁ sarvasya prabhavo mattaḥ sarvaṁ pravartate*: "I am the origin of all; from me all proceeds." The "four essential verses" (*catuḥ-ślokī*) of the Gītā (10.8–11) are especially honored in the Gauḍīya Vaiṣṇava tradition.
+10.9 | *Bodhayantaḥ parasparam*: "enlightening one another." The devotional community is a community of mutual teaching.
+10.10 | *Dadāmi buddhi-yogaṁ tam*: "I give the yoga of understanding." The faculty that Chapter 2 asked Arjuna to cultivate is here a gift of grace.
+10.11 | *Jñāna-dīpena bhāsvatā*: "with the shining lamp of knowledge." God illumines from within (*ātma-bhāva-sthaḥ*, "abiding in their own being").
 @reconstruction
-Study materials for this section are in preparation.
+Kṛṣṇa speaks again for Arjuna's good {10.1}. Neither gods nor seers know his origin, since he is theirs {10.2}. Whoever knows him as unborn and without beginning is freed {10.3}. All the states of beings, from understanding and truth to pleasure and pain, fear and fearlessness, come from him {10.4–5}. The ancient seers and Manus were born from his mind {10.6}. Whoever knows this power is yoked in unwavering yoga {10.7}. The wise, knowing he is the source of all, worship him with love {10.8}. With minds and lives absorbed in him, they enlighten one another and rejoice {10.9}. To them he gives the yoga of understanding {10.10}, and out of compassion he destroys their darkness with the lamp of knowledge {10.11}.
+@insight
+The section completes a reversal begun in Chapter 7. The "yoga of understanding" (*buddhi-yoga*), which Chapter 2 presented as Arjuna's own discipline, is now God's gift. Effort and grace are not rivals. The disciplined seeker receives what discipline alone cannot produce.
+The claim that God is the source of opposite states {10.4–5}, of fear as well as fearlessness, refuses a sanitized theology. Everything in experience is grounded in God, which raises the question of evil that the Gītā never fully answers. The community of devotees "enlightening one another" {10.9} is also important. Spiritual life is shared, not solitary.
+@sources
+*Śvetāśvatara Upaniṣad* 6.9 ("he has no parent, no lord") and *Muṇḍaka* 1.1.1 (Brahmā as first of gods) lie behind 10.2. The mind-born seers come from Purāṇic creation myths.
+@context
+Christian theology of grace (Augustine against Pelagius), Rāmānuja's and later Vaiṣṇava theologies of grace, and the Sufi notion of divine illumination (*ishrāq*) offer parallels to the gift of understanding. The image of God as inner light recalls Quaker "inner light" and Augustine's divine illumination theory of knowledge.
+@matters
+The section suggests that our deepest insight is received rather than made, and that it grows best among people who share it.
+@questions
+- How does 10.10 change the meaning of "yoga of understanding" from Chapter 2?
+- What does it mean that God is the source of fear as well as fearlessness (10.4–5)?
+- Why is mutual enlightenment (10.9) part of devotion?
 @argument
-C | Study materials in preparation
+P | God is the unborn source of all beings | ref=10.2, 10.3 | text=Even of gods and seers.
+P | God is the source of all inner states | ref=10.4, 10.5 | text=Including opposites.
+C | Those who know this worship him with love | ref=10.8, 10.9 | term=bhakti | text=And enlighten one another.
+I | God gives them the yoga of understanding | ref=10.10, 10.11 | term=buddhi-yoga | text=Insight is ultimately grace.
+
+# section 12-18 | Arjuna's recognition
+lead: Arjuna acknowledges Kṛṣṇa as the supreme brahman and asks how he is to know and meditate on him.
+@notes
+10.12 | *Paraṁ brahma paraṁ dhāma*: Arjuna now uses the highest titles: supreme brahman, supreme abode, eternal divine Person (*puruṣaṁ śāśvataṁ divyam*).
+10.13 | Nārada, Asita Devala and Vyāsa are traditional authorities. Arjuna appeals to testimony as well as to Kṛṣṇa's own words.
+10.14 | *Na hi te bhagavan vyaktiṁ vidur devā na dānavāḥ*: "neither gods nor demons know your manifestation."
+10.15 | *Svayam evātmanātmānaṁ vettha tvaṁ puruṣottama*: "you alone know yourself by yourself." God's self-knowledge is the only complete knowledge of God.
+10.17 | *Kathaṁ vidyām ahaṁ yoginn*: "How may I know you, yogin?" Arjuna calls Kṛṣṇa "yogin," the master of yoga. *Keṣu keṣu ca bhāveṣu*: "in what various forms?"
+10.18 | *Śṛṇvato nāsti me 'mṛtam*: "I never tire of hearing your nectar." The language of rapture.
+@reconstruction
+Arjuna declares that Kṛṣṇa is the supreme brahman, the supreme abode and purifier, the eternal divine Person, unborn and all-pervading {10.12}. Seers have said so, and now Kṛṣṇa says it himself {10.13}. Arjuna believes all of it. Neither gods nor demons know God's manifestation {10.14}, and only God knows himself {10.15}. So Arjuna asks to be told the divine manifestations by which God pervades the worlds {10.16}. How should he know and meditate on God, and in what forms {10.17}? He asks again for detail, never tiring of the nectar {10.18}.
+@insight
+This is a turning point in Arjuna's development. For the first time he speaks as a devotee rather than a questioner or objector. His words echo Upaniṣadic and Vedic hymns, but they are addressed to his friend and charioteer. The intimacy and the cosmic claim are held together.
+Arjuna's question in 10.17 is very practical. If God is beyond all knowing {10.15}, how can a finite mind approach him? The answer of the following verses is that the infinite can be approached through the finite. One looks where the divine shines most clearly.
+@sources
+Nārada, Asita Devala and Vyāsa appear throughout the Mahābhārata as authorities on dharma and theology. The idea that only God knows God appears in *Kena Upaniṣad* 2.3 ("it is known by those who do not know it").
+@context
+The progression from objector to worshiper resembles Thomas's "My Lord and my God" (John 20:28) and Job's final "now my eye sees you" (Job 42:5).
+@matters
+Recognition precedes contemplation. Only when Arjuna sees who Kṛṣṇa is does he ask how to keep him in mind.
+@questions
+- What has changed in Arjuna since Chapter 1? Trace his development.
+- If only God knows God (10.15), what kind of knowledge of God is available to us?
+- Why does Arjuna appeal to testimony (10.13) as well as to Kṛṣṇa's word?
+@argument
+P | Kṛṣṇa is the supreme brahman | ref=10.12 | term=brahman | text=Arjuna recognizes the divine.
+P | Only God fully knows God | ref=10.15 | text=No creature comprehends him.
+C | Show me how to meditate on you | ref=10.16, 10.17 | term=vibhūti | text=The infinite must be approached through its manifestations.
+
+# section 19-29 | The vibhūtis I: the self, the gods, the heights of nature
+lead: Kṛṣṇa begins his catalogue: he is the self in all hearts, Viṣṇu among the Ādityas, the mind among the senses, Om among words, Meru among mountains.
+@notes
+10.20 | *Aham ātmā guḍākeśa sarva-bhūtāśaya-sthitaḥ*: "I am the self abiding in the heart of all beings." The catalogue begins not with a god but with the indwelling self.
+10.21 | Viṣṇu, one of the twelve Ādityas (solar gods) in the Veda, is here the chief of them. This reflects his rising status.
+10.22 | *Indriyāṇāṁ manaś cāsmi*: "among the senses I am the mind." *Cetanā*, "consciousness" or "sentience," in beings.
+10.23 | Śaṅkara (Śiva) is chief of the Rudras. This is one of the Gītā's few references to Śiva.
+10.25 | *Girām asmy ekam akṣaram*: "among utterances, the single syllable" (Om). *Japa-yajña*: the "sacrifice" of quietly repeating a mantra, here ranked above other sacrifices.
+10.26 | The aśvattha, sacred fig, anticipates the inverted world-tree of 15.1. Kapila is the legendary founder of Sāṅkhya.
+10.27 | Uccaiḥśravas, the horse born from the churning of the milk-ocean. Airāvata, Indra's elephant.
+10.29 | Ananta, the serpent on which Viṣṇu reclines. Yama, the god of death, "among those who restrain."
+@reconstruction
+Kṛṣṇa will name his chief manifestations, for there is no end to his extent {10.19}. He is the self in all hearts, and the beginning, middle and end of beings {10.20}. He is Viṣṇu among the solar gods, the sun among lights {10.21}, the Sāmaveda among Vedas, the mind among senses {10.22}, Śaṅkara among the Rudras, Meru among mountains {10.23}, Bṛhaspati among priests, the ocean among waters {10.24}, Bhṛgu among seers, Om among utterances, japa among sacrifices, the Himālaya among the immovable {10.25}. He is the aśvattha among trees and Kapila among the perfected {10.26}. He is the finest horse, elephant and king {10.27}, the thunderbolt among weapons {10.28}, and Ananta, Varuṇa, Aryaman and Yama {10.29}.
+@insight
+The list is a deliberate training in perception. In each domain (gods, Vedas, senses, mountains, waters, trees, animals, weapons) the mind is directed to the highest, most powerful or most luminous member. The method is analogical. One rises from the finite excellent to the infinite source.
+The list also reflects a particular cultural world: the Vedic gods, the epic's sacred geography, the myths of the churning of the ocean. A modern reader can either learn that world or practice the method with their own. The method transfers even when the examples do not.
+@sources
+The mythological figures come from the Veda (Ādityas, Rudras, Vasus, Maruts) and the epic-Purāṇic cycle (the churning of the ocean, *Mahābhārata* 1.15–17). Kapila as the founder of Sāṅkhya is also mentioned in the *Mokṣadharma*.
+@context
+Medieval Christian thought spoke of the "book of nature" in which God can be read. Bonaventure's *Journey of the Mind into God* moves from creatures to the creator. The Romantic poets' sense of the sublime (Wordsworth's mountains) offers a modern analogue.
+@matters
+The catalogue invites a contemplative habit: in every field of experience, notice what is most luminous and let it point beyond itself.
+@questions
+- Why does the catalogue begin with "the self in the heart of all beings" (10.20)?
+- What does it mean that among the senses God is the mind (10.22)?
+- Choose a domain of modern life (science, art, sport). What would its *vibhūti* be?
+@argument
+P | God's manifestations are endless | ref=10.19 | term=vibhūti | text=Only the principal ones can be named.
+P | God is the self in all hearts | ref=10.20 | term=ātman | text=The list begins within.
+C | In each class of being, the highest reveals God | ref=10.21, 10.29 | text=Sun among lights, mind among senses, Om among words.
+I | The finite excellent points to the infinite | text=Contemplation by analogy.
+
+# section 30-42 | The vibhūtis II, and the fraction that holds the world
+lead: The catalogue continues to time, death, the letter A, spring, even the gambling of cheats; whatever has splendor is a spark of God, and the world rests on a fraction of him.
+@notes
+10.30 | Prahlāda, the devoted son of a demon king, is God among demons: holiness can arise anywhere. *Kālaḥ kalayatām aham*, "among reckoners I am time."
+10.31 | Rāma "among wielders of weapons" may be Rāma of the Rāmāyaṇa or Paraśurāma. Commentators differ. The Jāhnavī is the Gaṅgā.
+10.32 | *Adhyātma-vidyā vidyānām*: "among sciences, the science of the self." *Vādaḥ pravadatām*: "among debaters, the reasoning," i.e., honest argument aimed at truth.
+10.33 | *Akṣarāṇām akāro 'smi*: "among letters the letter A." A is the first letter and, in Indian grammar, implicit in every consonant. *Dvandva*, the copulative compound, in which both members are equal.
+10.34 | The seven feminine qualities (*kīrti, śrī, vāk, smṛti, medhā, dhṛti, kṣamā*) are both virtues and goddesses.
+10.36 | *Dyūtaṁ chalayatām asmi*: "I am the gambling of cheats." A startling inclusion, perhaps pointedly in an epic whose catastrophe began with a rigged dice game.
+10.37 | *Pāṇḍavānāṁ dhanañjayaḥ*: "among the Pāṇḍavas, Arjuna himself." Arjuna is told that he is one of God's manifestations.
+10.38 | *Mauna*, silence, "of secrets." *Jñānaṁ jñānavatām*, "the knowledge of knowers."
+10.41 | *Mama tejo-'ṁśa-sambhavam*: "arising from a fraction of my brilliance."
+10.42 | *Viṣṭabhyāham idaṁ kṛtsnam ekāṁśena sthito jagat*: "I stand supporting this whole world with a single fraction." Compare *Ṛg Veda* 10.90.3: "all beings are one quarter of him; three quarters are immortal in heaven."
+@reconstruction
+God is Prahlāda among demons, time among reckoners, the lion among beasts {10.30}, the wind among purifiers, Rāma among warriors, the Gaṅgā among rivers {10.31}. He is the beginning, middle and end of creation, the science of the self, the reasoning of debaters {10.32}. He is the letter A, the copulative compound, imperishable time, the creator facing all ways {10.33}. He is death and origin, fame, fortune, speech, memory, intelligence, steadfastness and patience {10.34}. He is spring among seasons {10.35}, the gambling of cheats, the splendor of the splendid, victory, resolve and goodness {10.36}. He is Vāsudeva and Arjuna, Vyāsa and Uśanas {10.37}, the rod of punishers, statecraft, silence, knowledge {10.38}, the seed of all {10.39}. There is no end to his manifestations, and these are examples {10.40}. Every power and splendor is a spark of his {10.41}. Why know so much detail? He holds this whole world with one fraction of himself {10.42}.
+@insight
+The second half of the catalogue grows more abstract and more surprising: time, death, a letter, a grammatical compound, silence, statecraft, and the cheat's gambling. The theological claim is that God is present in excellence and power wherever they appear, not only in what is morally good. This is honest about the ambivalence of power, and it raises a real question. Is the cheat's skill divine? Commentators answer that the excellence *as excellence* is divine, while its misuse is human. The epic context, where the dice game began the Pāṇḍavas' ruin, makes the verse almost unbearably ironic.
+The closing verse sets everything in proportion. All this splendor is a single fraction of God. The catalogue, which could have made God seem to be the sum of the world's best things, ends by declaring that the world is a small part of God. This is panentheism again, now as a sense of scale.
+@sources
+The "fraction" (*aṁśa*) image is from *Ṛg Veda* 10.90.3–4 (the Puruṣa hymn). Prahlāda's story is told in the *Viṣṇu* and *Bhāgavata Purāṇas*. Uśanas (Śukra) is the teacher of the demons and a poet-sage.
+@context
+The idea that the world is a small part of a much greater God has echoes in Aquinas's claim that creation adds nothing to God and in the Islamic idea that "God is greater" (*Allāhu akbar*) than anything conceived. The claim that God is present even in morally ambiguous excellence invites comparison with Romantic and Nietzschean affirmations of power.
+@matters
+The section trains us to see the world's excellence as a sign of something greater, and at the same time to keep proportion: no worldly splendor is the whole.
+@questions
+- How do you understand "I am the gambling of cheats" (10.36), especially in the epic context?
+- Arjuna is told he is one of God's manifestations (10.37). What might that mean to him in his crisis?
+- What is the effect of the last verse (10.42) on the whole catalogue?
+@argument
+P | God is present in excellence and power wherever they appear | ref=10.36, 10.41 | term=vibhūti | text=Even in time, death and the cheat's skill.
+P | The list is exemplary, not exhaustive | ref=10.40 | text=There is no end to God's manifestations.
+C | Every splendor is a spark of God | ref=10.41 | text=A fraction of his brilliance.
+I | The whole world is a fraction of God | ref=10.42 | text=God infinitely exceeds the world.
