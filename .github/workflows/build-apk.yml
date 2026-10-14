@@ -23,13 +23,18 @@ jobs:
           distribution: temurin
           java-version: 17
 
+      - name: Prepare web dir
+        run: |
+          mkdir -p www
+          tar --exclude=.git --exclude=.github --exclude=node_modules --exclude=www -cf - . | tar -xf - -C www
+
       - name: Install Capacitor
         run: |
           npm init -y
           npm install @capacitor/core @capacitor/cli @capacitor/android
 
       - name: Init Capacitor app
-        run: npx cap init "Gita Companion" io.github.leninsilva.twa --web-dir=.
+        run: npx cap init "Gita Companion" io.github.leninsilva.twa --web-dir=www
 
       - name: Add Android platform
         run: npx cap add android
