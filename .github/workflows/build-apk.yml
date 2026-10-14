@@ -1,9 +1,11 @@
 name: Build Android APK
 
+
 on:
   push:
     branches: [ccr-d4cb8317-xmrmnt]
   workflow_dispatch:
+
 
 jobs:
   build:
@@ -12,10 +14,12 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v4
 
+
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
           node-version: 20
+
 
       - name: Set up JDK 21
         uses: actions/setup-java@v4
@@ -23,30 +27,48 @@ jobs:
           distribution: temurin
           java-version: 21
 
+
       - name: Prepare web dir
         run: |
           mkdir -p www
           tar --exclude=.git --exclude=.github --exclude=node_modules --exclude=www -cf - . | tar -xf - -C www
+
 
       - name: Install Capacitor
         run: |
           npm init -y
           npm install @capacitor/core @capacitor/cli @capacitor/android
 
+
       - name: Init Capacitor app
         run: npx cap init "Gita Companion" io.github.leninsilva.twa --web-dir=www
+
 
       - name: Add Android platform
         run: npx cap add android
 
+
+      - name: Fix Kotlin stdlib duplicates
+        run: |
+          cat >> android/app/build.gradle << 'EOF'
+
+          configurations.all {
+              exclude group: 'org.jetbrains.kotlin', module: 'kotlin-stdlib-jdk7'
+              exclude group: 'org.jetbrains.kotlin', module: 'kotlin-stdlib-jdk8'
+          }
+          EOF
+
+
       - name: Sync web app
         run: npx cap sync
+
 
       - name: Build debug APK
         run: |
           cd android
           chmod +x gradlew
           ./gradlew assembleDebug
+
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
